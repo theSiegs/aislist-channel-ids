@@ -1,0 +1,45 @@
+name: Update from AiSList
+
+on:
+  schedule:
+    # Every 6 hours; a run with nothing new to look up uses almost no API units
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      # Pinned to a commit (v7.0.1), so a changed tag can't alter what runs next to the API key
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+
+      - name: Test
+        run: python3 -m unittest discover -s tests
+
+      - name: Convert
+        env:
+          AISLIST_YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 aislist_ids.py
+
+      # Also after a failed run: it keeps what it looked up before stopping
+      - name: Commit
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data lists reports
+          if git diff --cached --quiet; then
+            echo "Nothing changed"
+            exit 0
+          fi
+          git commit -m "Update from AiSList $(python3 -c 'import json; print(json.load(open("lists/stats.json"))["source_commit"][:12])')"
+          git push
