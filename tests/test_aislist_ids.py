@@ -19,12 +19,16 @@ NOW = datetime(2026, 10, 9, 12, 0, tzinfo=ai.QUOTA_TZ)
 class FakeYouTube(ai.YouTube):
     """Answers from dicts instead of the API, counting units the same way"""
 
-    def __init__(self, handles, channels, budget=1000, fail=None):
+    def __init__(self, handles, channels, budget=1000, fail=None, titles=None):
         super().__init__("key", budget)
         self.handles = handles  # handle (any case) -> channel ID
         self.channels = channels  # channel ID -> current handle
+        self.titles = titles or {}  # channel ID -> name (default "Name <last 4 chars>")
         self.fail = fail
         self.calls = []
+
+    def title(self, channel_id):
+        return self.titles.get(channel_id, "Name " + channel_id[-4:])
 
     def _get(self, params):
         with self._lock:
@@ -36,9 +40,10 @@ class FakeYouTube(ai.YouTube):
             raise self.fail
         if "forHandle" in params:
             channel_id = {ai.key(h): c for h, c in self.handles.items()}.get(ai.key(params["forHandle"]))
-            return {"items": [{"id": channel_id}]} if channel_id else {}
+            return {"items": [{"id": channel_id, "snippet": {"title": self.title(channel_id)}}]} if channel_id else {}
         ids = params["id"].split(",")
-        return {"items": [{"id": i, "snippet": {"customUrl": self.channels[i]}} for i in ids if i in self.channels]}
+        return {"items": [{"id": i, "snippet": {"customUrl": self.channels[i], "title": self.title(i)}}
+                          for i in ids if i in self.channels]}
 
 
 def source(block, warn="! nothing\n@Warned\n", sha="abc123"):
@@ -144,6 +149,29 @@ class RunTest(unittest.TestCase):
         youtube = FakeYouTube({}, {}, fail=ai.QuotaSpent("quotaExceeded"))
         stats = ai.run(self.root, youtube, source("@A\n"), NOW)
         self.assertEqual(stats["lists"]["blocklist"]["pending"], 1)
+
+    def test_names_are_published(self):
+        youtube = FakeYouTube({"@One": UC_A, "@Two": UC_B}, {}, titles={UC_A: "Kitty\tTales\nTV", UC_B: "Robo Pals"})
+        ai.run(self.root, youtube, source("@One\n@Two\n@Missing\n"), NOW)
+
+        lines = self.read("lists/aislist_blocklist_channels.tsv").splitlines()
+        self.assertTrue(all(line.startswith("!") for line in lines[:6]))
+        self.assertEqual(lines[6:], ["%s\tKitty Tales TV" % UC_A, "%s\tRobo Pals" % UC_B])
+        self.assertIn("Robo Pals", self.read("data/channels.tsv"))
+
+    def test_names_backfilled_for_channels_found_before(self):
+        # A cache from before names were kept: no title column
+        (self.root / "data").mkdir(parents=True)
+        (self.root / "data/channels.tsv").write_text(
+            "handle\tchannel_id\tstatus\tcurrent_handle\n@One\t%s\tok\t\n" % UC_A, encoding="utf-8")
+        (self.root / "data/state.json").write_text(json.dumps({"rechecked": "2026-10-09"}), encoding="utf-8")
+
+        youtube = FakeYouTube({"@One": UC_A}, {UC_A: "@One"}, titles={UC_A: "Kitty Tales"})
+        ai.run(self.root, youtube, source("@One\n", warn="@One\n"), NOW)
+
+        self.assertEqual(len(youtube.calls), 1)  # one batch of IDs, no handle lookups
+        self.assertIn("id", youtube.calls[0])
+        self.assertIn("%s\tKitty Tales" % UC_A, self.read("lists/aislist_blocklist_channels.tsv"))
 
 
 if __name__ == "__main__":

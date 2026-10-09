@@ -73,6 +73,8 @@ class Channel:
     status: str = "pending"
     # The channel's handle on YouTube when it differs from the list's
     current_handle: str = ""
+    # The channel's name on YouTube as of the last lookup (clients without IDs on their cards match by it)
+    title: str = ""
 
     @property
     def key(self):
@@ -82,6 +84,11 @@ class Channel:
 def key(handle):
     """Handles are case-insensitive"""
     return handle.casefold()
+
+
+def clean_title(title):
+    """A channel name on one line: tabs and line breaks would break the .tsv files"""
+    return " ".join((title or "").split())
 
 
 def in_slice(text, day):
@@ -146,14 +153,20 @@ class YouTube:
             raise ApiError("YouTube Data API unreachable: %s" % e) from None
 
     def channel_for_handle(self, handle):
-        """The channel ID that has this handle now, or None"""
-        items = self._get({"part": "id", "forHandle": handle}).get("items") or []
-        return items[0]["id"] if items else None
+        """(channel ID, name) of the channel that has this handle now, or (None, "")"""
+        items = self._get({"part": "snippet", "forHandle": handle}).get("items") or []
+        if not items:
+            return None, ""
+        return items[0]["id"], clean_title(items[0].get("snippet", {}).get("title"))
 
     def handles_for_ids(self, ids):
-        """{channel ID: its handle ("@name", or "" if it has none)} for the channels that still exist (max 50)"""
+        """
+        {channel ID: (its handle ("@name", or "" if it has none), its name)} for the channels that still exist
+        (max 50)
+        """
         items = self._get({"part": "snippet", "id": ",".join(ids), "maxResults": 50}).get("items") or []
-        return {item["id"]: item.get("snippet", {}).get("customUrl", "") for item in items}
+        return {item["id"]: (item.get("snippet", {}).get("customUrl", ""), clean_title(item.get("snippet", {}).get("title")))
+                for item in items}
 
 
 def _error_reason(error):
@@ -190,7 +203,7 @@ def fetch_source(token=None):
 
 # --- Files ---------------------------------------------------------------------------------------------------------
 
-CACHE_FIELDS = ["handle", "channel_id", "status", "current_handle"]
+CACHE_FIELDS = ["handle", "channel_id", "status", "current_handle", "title"]
 
 
 def load_cache(root):
@@ -259,10 +272,14 @@ def update_cache(cache, lists):
             cache[k].handle = handle
 
 
-def recheck(cache, youtube, today):
-    """Today's seventh of the known channels: which were deleted, and which now go by another handle"""
+def recheck(cache, youtube, today, slice_due=True):
+    """
+    Today's seventh of the known channels (with slice_due): which were deleted, and which now go by another handle or
+    name. Channels with no name yet (looked up before names were kept) are checked on every run.
+    """
     due = [channel for channel in cache.values()
-           if channel.status in ("ok", "gone") and in_slice(channel.channel_id, today)]
+           if channel.status in ("ok", "gone")
+           and ((slice_due and in_slice(channel.channel_id, today)) or (channel.status == "ok" and not channel.title))]
 
     for start in range(0, len(due), 50):
         batch = due[start:start + 50]
@@ -275,8 +292,9 @@ def recheck(cache, youtube, today):
                 continue
 
             channel.status = "ok"
-            handle = found[channel.channel_id]
+            handle, title = found[channel.channel_id]
             channel.current_handle = handle if handle and key(handle) != channel.key else ""
+            channel.title = title or channel.title
 
 
 def resolve(cache, youtube, today):
@@ -286,10 +304,11 @@ def resolve(cache, youtube, today):
     due = due[:max(youtube.remaining(), 0)]
 
     def look_up(channel):
-        channel_id = youtube.channel_for_handle(channel.handle)
+        channel_id, title = youtube.channel_for_handle(channel.handle)
         channel.channel_id = channel_id or ""
         channel.status = "ok" if channel_id else "missing"
         channel.current_handle = ""
+        channel.title = title if channel_id else ""
 
     first_error = None
     with ThreadPoolExecutor(WORKERS) as pool:
@@ -330,6 +349,16 @@ def write_lists(root, cache, lists, source_sha):
         ]
         write(root / "lists" / ("aislist_%s_ids.txt" % name), "\n".join(header + found) + "\n")
 
+        named = sorted({channel.channel_id: channel.title for channel in rows
+                        if channel.status == "ok" and channel.title}.items())
+        named_header = header[:4] + [
+            "! Format: channel ID, a tab, the channel's name on YouTube as of the last check; lines starting with ! are"
+            " comments",
+            "! Names: %d channels" % len(named),
+        ]
+        write(root / "lists" / ("aislist_%s_channels.tsv" % name),
+              "\n".join(named_header + ["%s\t%s" % pair for pair in named]) + "\n")
+
         pairs = sorted((channel.handle, channel.channel_id) for channel in rows if channel.status == "ok")
         write(root / "lists" / ("aislist_%s.csv" % name),
               "handle,channel_id\n" + "".join("%s,%s\n" % pair for pair in pairs))
@@ -363,6 +392,8 @@ def run(root, youtube, source, now):
         if state.get("rechecked") != today.isoformat():
             recheck(cache, youtube, today)
             state["rechecked"] = today.isoformat()
+        else:
+            recheck(cache, youtube, today, slice_due=False)  # only channels still without a name
         resolve(cache, youtube, today)
     except (QuotaSpent, ApiError) as e:
         error = e

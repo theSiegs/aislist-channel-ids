@@ -14,6 +14,7 @@ This repo publishes the same lists by channel ID, updated every 6 hours.
 | [`lists/aislist_blocklist_ids.txt`](lists/aislist_blocklist_ids.txt) | Blocklist (high confidence): one channel ID per line |
 | [`lists/aislist_warnlist_ids.txt`](lists/aislist_warnlist_ids.txt) | Warnlist (medium confidence): one channel ID per line |
 | `lists/aislist_blocklist.csv`, `lists/aislist_warnlist.csv` | `handle,channel_id` pairs |
+| `lists/aislist_blocklist_channels.tsv`, `lists/aislist_warnlist_channels.tsv` | Channel ID, a tab, and the channel's name on YouTube as of the last check (for clients whose video cards show only a channel name; names aren't unique, so match by ID where you can) |
 | [`lists/stats.json`](lists/stats.json) | Counts, and the AiSList commit the lists come from |
 | `reports/handle_changes.tsv` | Listed handles whose channel now uses another handle |
 
