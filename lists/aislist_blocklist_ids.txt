@@ -1,9 +1,9 @@
 ! AiSList blocklist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/c17f4444595306f8cc77366dc05dcf0e7d9fc642/AiSList/aislist_blocklist.txt
+! Source: https://github.com/Override92/AiSList/blob/ccf3718c97ecfa55e580bfccc0d90c20c0ce66bd/AiSList/aislist_blocklist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: one channel ID per line; lines starting with ! are comments
-! Channels: 8643 of 27510 entries (18765 not looked up yet, 38 with no channel, 0 deleted)
+! Channels: 8643 of 27509 entries (18765 not looked up yet, 37 with no channel, 0 deleted)
 UC--NbXB-sUAOwX8-Cg6A-YQ
 UC--aZtoUXrxBN747biA83GQ
 UC-0F8pbSXD5x0mxfioEJAqw

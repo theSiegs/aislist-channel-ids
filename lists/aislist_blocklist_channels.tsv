@@ -1,5 +1,5 @@
 ! AiSList blocklist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/c17f4444595306f8cc77366dc05dcf0e7d9fc642/AiSList/aislist_blocklist.txt
+! Source: https://github.com/Override92/AiSList/blob/ccf3718c97ecfa55e580bfccc0d90c20c0ce66bd/AiSList/aislist_blocklist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: channel ID, a tab, the channel's name on YouTube as of the last check; lines starting with ! are comments
