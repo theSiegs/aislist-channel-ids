@@ -1,9 +1,9 @@
 ! AiSList warnlist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/96442b274348cca1cf23c22b0d50a1ca032e195a/AiSList/aislist_warnlist.txt
+! Source: https://github.com/Override92/AiSList/blob/d7f3dc0ccbf3da9d4d8cd6ac41947c43987a00fe/AiSList/aislist_warnlist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: channel ID, a tab, the channel's name on YouTube as of the last check; lines starting with ! are comments
-! Names: 691 channels
+! Names: 777 channels
 UC-4jBCkBdDLoxY_zrYkW9iQ	Fashion Model Look
 UC-8tvuLTOvHt0q3CGBNsIuQ	State Guy
 UC-DOyqxl_nH7BKyJMLma_XA	Choco Drama
@@ -13,6 +13,8 @@ UC-R-4s2c3odARrcQyLrx8hw	Scribe 40k
 UC-TCNuRc61HZTjYY81qRuew	Creating with Conor
 UC-WO4MLkwH6qwQ_IUdiKGDA	HowToCado
 UC-ew9TfeD887qUSiWWAAj1w	ElevenLabs
+UC-vc_MSPsz_0TfED7bDgKiA	survival recaps
+UC-w-f-1-i-FB8u4RwyuPx0w	Time Flies
 UC-w6ewC0s0u4r86H3mjwcVA	New Discovery
 UC-x15jO6dsh3jnRSGkU1-Ww	Hockey Prime
 UC03HfG8VORK3mESYQPAzIYQ	Yang on Money
@@ -38,12 +40,15 @@ UC1T_xmvd6_eT2BQFy6CQ1rA	Bench Orders
 UC1blRyZ2xo0A3xViE73WGFw	GoldenAgeFiles
 UC1dv-WtuqqOcbaVRSv4nGYA	𝕯𝖔𝖑𝖑𝔴𝔞𝔳𝔢
 UC1qwIUkiTytsFoOsnC5zyqg	Historia na wyciągnięcie ręki
+UC24XSklp-8JIXT0cgYDsOMg	Sudo Bit Logic
+UC25U9CHCRrclDuTjHEZ2tbA	Stories That Inspire
 UC27gdNzzYMrcjsVBbhwkL4g	FilmZeit
 UC2Wr9TnxcXSV_jG6316JRVA	Military History Talks
 UC2YRbL8wY0LGOyKcopEQl9w	Psychtify
 UC2aTyawjhd8jthv9yeoz4qQ	NEO.
 UC2b2wgxm0vFjQfJJ0iRcFRw	Zubair Trabzada | AI Workshop
 UC2eWv_b4tQy9FWXu_r2eHPQ	Fizzy Shorts
+UC2fiko716n8OWI526s12Dew	The Midnight Rogue
 UC2gmpup4EyECfOlvDi66XWw	Ai Mahadev Shorts
 UC2jdbLREOY7PyzioilPb4Hg	EIJI RECAP
 UC2nNqeoUOsCFo1HPITbq8VA	Elvira Bary
@@ -57,6 +62,7 @@ UC3e2gDpf8y5gZqffZisYvzA	Rare Old Engines
 UC3gCAgSxWQ6gncurTrs0KfQ	Body Cam Leak
 UC3m2_97bw_GDEIxAqKKiSlw	I built a thing
 UC3nXyl9GjmikfiEtNk0FOjQ	Crisis Radar
+UC3uhsNW52uDZiZbrmMIQgGA	Motor Truth
 UC47lCEPTZC26EWcxjX8Qvvw	Dzika Odnowa
 UC4ADOfWpEKskk04WKQ3Lmpg	Centerstrain01
 UC4E2IX9mBxTRcCrG8k2s1qA	Palace Secrets
@@ -78,8 +84,11 @@ UC5FYgYg1YAEQTZJKXfbSAIA	MadmamFLAGS
 UC5GpNHRBAaYi-l1k2cXXNyQ	Scribbl
 UC5H_iTwytwkUV6FNdisyvng	Legal Affairs Network
 UC5WWRmdrMWPFHnETHPZB4Rw	Retro Workdays
+UC5XM_SrNB8_jgBtpwrux2VQ	Sunset Drama
 UC5XWbcPiRpUEHYB4820Uq7g	@1 minute stories
+UC5Zb02pmVD2VA7lnx8mV4gw	Wizard of Words | What to Say at Work
 UC5mFXVhsHSSbkOrvSqlc3zg	Cam Eye
+UC5su99AdYKlXeZ8Qdf2QWEA	The Resistance
 UC60lKbJ4btDCsO26-SxqkwQ	Where Faith Leads
 UC63uKCY_FDRtasSuacqbFiQ	Level up with Blessing
 UC6Hdb0rYhUk-11ZfgirRHoA	FLASHWATCH
@@ -98,6 +107,7 @@ UC7Ntxd6IheXQGHv7EwdUGEw	Oniverse: Arquivos Secretos do Universo
 UC7agIQuUz6_-DNrR_kYouDg	Hard Reset Off
 UC7gozbdUqpQOYN1og_d-J9g	Gypsy
 UC7lroy4ZAvyXqup6eWru9hw	DejvidSajkoDeki
+UC7nAcFP-S_LuqHtzcEMEShg	The Last Sentence
 UC7nxrwA8qPfe7udQPhxvYkw	Across The Globe
 UC7seBcxwSd9wa6JOhke-WjA	Medieval Wisdom
 UC7xSAP4p-1ARG6I53xoYIyg	Cheryll Trades LEAPS
@@ -132,9 +142,12 @@ UCBDPtMdQPMTqYjPNKDUTPug	Pop Potion
 UCBL5o2D-wudQIUYpkXTdeeQ	Heart Drama Theater
 UCBNX4xDWXNaVA60xlqrYyAg	Prem Regmi
 UCBQR3N8jCVXMMI0xCi1K64A	Kod Siły
+UCBQRlVP6_87oHVkWWtLh3sw	The Motivation Lab
 UCBV7_UUST1KcgcHr3SfsddQ	Leader Speeches
 UCB_mLrs40c5qEGTvqBiVAuA	Rewatch Vault
 UCBimRx_8Sd7F7DjjusL2l9A	carcare central
+UCBlOaRIEDAE55yPcdTVeVlg	TheCutFrame
+UCBni1EGYNa8HpSAkKBPn2Wg	The Light of Psalms
 UCBnzL5HkOyeXr-hHRtBW9Hg	Earth Curious
 UCBokzENWjVNBsGpf6oBlsAA	MonkeeQuiz
 UCC4LkcRdsbI81SHREyjizlg	History & Power
@@ -147,9 +160,11 @@ UCCWN3IzoXKRgIqafb1COFYw	Incredible Hidden Hub
 UCCZFE8t-7VXHUBwBY9R9fww	Invisible Gyan
 UCCZUPFZSsnBLzj-tkNsh3SQ	Dial-Up Days
 UCCh31eOasG1TCyd0By5lWXw	Rexa Recap
+UCCmVjrjC8K6qFImPVj7O_Zw	Thao
 UCD3JiB3f3Ek1-dI6XYYoILg	Leyendas Del Ring
 UCDAsctlVfxUJZhn9JTZ2pkw	MLB最新ニュース
 UCDGY4dRlph2HUumkmmSBE5g	Jawerly 4chan Diaries
+UCDPnPGxw18XFq8uiJUYiO6w	Tartaria Vault
 UCDWx71UtCBtMzn7DQSp8iQQ	Code Guild
 UCDge6rdGoCvYLZfabZV9XgQ	napsea
 UCDhPl4daDXUdO8rdiQv9OCQ	Fireplace Videos and More
@@ -157,6 +172,8 @@ UCDibwgZExKfBGjmdMHDgqgA	BEN Moment
 UCDumpETJYAtNsA9M1jabBrg	FILM CULT
 UCE8ClFPj7JZiSDYSIUGhBAA	ripshy.
 UCEFBDjkfEev1ftosLEdansQ	Canon Roeder - E-Commerce Growth Marketer
+UCEK374Y8TMu2DjHk0Pu4yog	StickTory
+UCEUPx_RbHwadQ6AwDBiiAFg	There I Ruined It
 UCEVabFASyTtlOLnoAOg7qpw	NOCTIVM
 UCEXI-uAw2B2Tk3_pxHxcS5g	FadePause
 UCE_tc9qN5eJHPziLbza3crg	9.6.3.STUDIO
@@ -168,10 +185,12 @@ UCF5DfQi4ME6_TBe77DDekQw	Mr Discovery
 UCF5V9cUruE0Sctp3rNzMByQ	DJ58
 UCF5vMIZGiCjN4Fk2A7LmETw	SP Effects
 UCF8xr5b5dkKxxUN9qyWzaxw	Moonlight Drama
+UCFGc9VT7KI95ekv2PGSvTXw	SwitchTop
 UCFVpDjjekujIInrM6fCf7sg	LegendaryLive
 UCFfx7c5MTNGVox-oywyPOaQ	BHAI INFORM
 UCFlnKDqG512KkbDvPa2ybRw	Fexl
 UCFofZZGQVGBXdPRwt_dnlYQ	AumSum's World
+UCFwVSyHWjkuKkCOR30q6s6g	The Boxing Lab
 UCFzaz8GZVFSpy-7QkmxvRBw	Bench Authority
 UCG--OMkhVMeBTFpC96grhqA	Boxeo Total
 UCGBoWe1mzCvbbqDNncmxm8A	FINAiUS
@@ -201,18 +220,24 @@ UCHo0MdzWrdWrXz47iUgcQ4Q	Courtroom Life
 UCHu0zb_l4Gb5X3Ow9XmCVIA	Paint it
 UCHypZnXHuljzvLY8lCPJREw	Artturi Jalli
 UCHzcS9Hm5dieyRWDMY-earw	Busy Works Beats
+UCI0_vNNPzUvxGHzM-T6xgxA	Telon
 UCI0eCo_OOJNx4CGJwwHUx2A	Between us and the Machine
 UCI4v8I0Ozq1yC88Um0zY-qg	Speed explained
 UCIDw1uyJYOa5n3rmmmI8Fpg	Hamster's Work Songs
 UCIFIDJEH37iBazrGVmbiqZw	Farming2Factory
 UCIGE78n72cbJDzAfY9bwwWA	Road Report
 UCII0HsHMG7yT0MNrKhjeF5g	Remember When
+UCIPxh0wp1RTYChWqU_-_DxA	TheFilmCut
+UCIQa33_6eOFji4tFPrNWHhA	The Hidden Menu
 UCIQkGIHyMsYDEuQ93uEDXoA	MOST WANTED US
+UCIRROZXQPQ7KZ-rNEH74cbQ	Theophilus Musik
 UCIdYV1fCIAvYpS5S-qLPlqg	The Winepress with Joel Richardson
 UCIsAlQwF6UrwkLi1WnXZ_xA	la vinyls
+UCIvrrLDLHfGxgfc7CgIGUfg	The Decoder
 UCIyEg4M6_ALdK_ECof_AyJA	Northern Veil
 UCJ1SxEaxrC5RTLs8OPq0iuQ	Optic Expedition
 UCJ9yQrKImYTs-PI7VnnCTsg	fauxtick
+UCJJlof8ODqsRliQezReF0wg	The Gospel Unveiled
 UCJMowYtxtfkk_T3aQ5TG8Sg	Evolving AI
 UCJR8VnJGEXJRBJb36YQA_2g	Palace Insider
 UCJWRkZ-dDEeY6Uqj2GavpTA	Hidden Epocha
@@ -227,6 +252,7 @@ UCK9__BD1R5ZELuiDNpSn_zg	SMART WORK OOPS
 UCKBj5HPTd64zoQmkGNseKUw	Jack Vs. AI
 UCKOTiVw2u_e5LK40-YBTVlQ	Jacksons AI
 UCKf7zxFPx5cIevpr3iHSBrg	Big Gun
+UCKmo0_6vu9XhOWsfOKSjbmw	TENNIS🎾GAME
 UCKpSeX1L6Xqk8td7O1ChfgA	Curious Elephant
 UCKwk_aV0yL8e_xe_NYQLROA	Jay Reed
 UCL-TofzedtcmjmeH8X8hWjQ	Evo Inception
@@ -245,9 +271,12 @@ UCLIMdoS-InL1-GIBUKSvydg	midday india
 UCLNYclLY4ehuBjvK641PhFA	MiniAuthority
 UCLSHu39IbZjHrPtVHXCxDHQ	Dust2Dreamy
 UCLrEnhme_6p29fKrwBMXqnw	Oxide Protocol
+UCM02SXOvv2r8-F2bA_FTONQ	Success Amarachi
 UCM0YvsRfYfsniGAhjvYFOSA	Meditative Mind
+UCM5vNmxPkqo_XyElEuCP2hw	The Shift 10-8
 UCMA7L1oRCozJaehbDFF6p_Q	DT is Back
 UCMK52z-cI3ZaiOONE_7M4hA	CannaIntel420
+UCMMhHoDRytRG7RRNXOpUKqg	Subtext Insider
 UCMN0LnAlFXW0sPMQjkUfm-w	Gun Stuff
 UCMQe5CTiRjrUIpO_5B1WtZA	Forgotten Lands
 UCMmMGAUkGdzjFUj7OCbEWDg	El Mundo Curioso
@@ -257,12 +286,14 @@ UCMrrmV_lxC0YI9rlXne45GQ	Golden Glamour Files
 UCN7E2HSLEudiIguYt9NYq0Q	ai movie trailers Shivas lab
 UCNCDn_c8iQnr26j_ZaPjKDw	bollywoodactress
 UCNEoWj4DngfPbRxvEb2vatw	JUS DE CERVEAU
+UCNGIpqa_EsLjor3xHdHwRfA	Thought Trains: An Interdisciplinary Trip
 UCNNPKPyx3q1svZSEwIXhiBw	Dillon411
 UCNQCfh9jsvPo_n88QHapaEQ	OmegaClassicRecordsTV
 UCNWvvvV3381-xOcHYftBwBg	Dark Talon
 UCNXIouk3mE08uP-1hPc1u-g	ABR7EDITS
 UCNYL6v5weylcPKGUSBgbTKA	NextGenGamers
 UCNYfQ4v2DCRUswGwwr8kzYA	Well, That Backfired
+UCNeb9F_m0Zi84UQlBqTPh-Q	The Complete Process
 UCNyKuYc5iS_DAsViFRJHHPA	M.BilalApriansyah
 UCO6yWPMN9jrWHFeqw8ClYjQ	Omnius Trades
 UCO9fJcmUP6CIoaTuVIVlgPw	60Sec History
@@ -277,6 +308,8 @@ UCOpwnST30vJmriyEe1i1z-g	Feel Real Good
 UCP21VZJKo9UTsuTqziL8lOw	Silver Wolf Drama
 UCP56ZVJ_SdbNGX_c6ZTDNIA	Balmy Cove
 UCP5EtTAuQC6KGpc0jsFW21Q	Cocoa Daily Drama
+UCP7lMaoGpi9Ob2yfi0q0CDA	Cozy Hideaway
+UCPBEzVBqBeBFe9xC_FNhUTQ	Tech Rush
 UCPFT8vKJg6auE2KF-1T0jZw	CuteMoska
 UCPFewb4iRU051Go77_WrP0w	Luxury Maldives
 UCPIvT-zcQl2H0vabdXJGcpg	The Pet Collective
@@ -292,14 +325,19 @@ UCPqhSRNrQpaVXSnpBWf07bA	Justice Scope
 UCPwe54CyEgsFJamPBQE4h9A	Learn with LEESI
 UCQ0mxTNoEhr9-GRP51mwOdQ	Music Vibe
 UCQBvLILIVDjwRJg5cQj0AbA	Psicología Oscura
+UCQEfVCgAwG0xtwZNiJ4zGPg	The Stock Stalker
 UCQEzMn7ff6_LGZ2Wd94Sx_A	Peaceful Solo Guitar
 UCQPAEVPPd20OFj9KuySKVLg	purrfectedits
+UCQPDnWmvUqUfQ3Jmyl-4Jyg	The Fourth Watch
 UCQTENR9E431JiMhEJx7axiw	FOYER Sound
 UCQbYTzUlDM19oalgN18GKqA	Midnight Play
 UCQktnXnzy0kzsZI8P36Qfog	Forgotten Moments
+UCQsK2tW_Hjc6zo6ps6jltaA	Terran Works
 UCQsmqN3k_IMW81M5bwtiGoA	MEO - Incredible Moments
 UCR1PJnaRWJF34nT-qJDwCYw	Protect Our Plates
 UCR1SJseEXKbcbVEFd5ViHWg	Navy Decoded
+UCR2-05tgI5h0eJ5RAV25ndg	The in-game Dialogues
+UCRFv7euyH76yVtEg8a-XZgg	The Money Expose
 UCRHFSYD-YngJVuNxq_D2sKQ	Network Media
 UCRI9Mk1hkqAR6snjqiuUqcg	Smart Investor
 UCRIR4NZMd0tgeB5srM6VrAA	Fantasy Meditations
@@ -308,11 +346,14 @@ UCRaCL1MVwbBPvwSX4cePNOg	L'envers du passé
 UCRbuh5Eyfv6OQvd2hPX5ziw	Noxium
 UCRdwltwQcTHPkGiUJd_0kkg	NOCT SENSEI
 UCRgGQFlVnBKsZoOw85ddpPQ	nerd.mp4
+UCRjKgbDjd7W8VVHCpVA4p6w	Lurid
 UCRjxhVtRUKgSmPYGRJuTaOw	Judicium
 UCRlPqVhqIMcyRblHvGmfeGg	Jean Falcão - Music Lab
 UCRlZ3pLvpD1xj2xE2uFalBw	KikiDrama🌈
 UCS71ix0oDvTXHXzIi73VMpA	Heaven for Sale
 UCSAtrh_h8UnLV0sZRLX5HaA	Crisis Desk
+UCSGboP-kGhR-JJ3KnfqitsQ	The Label Audit
+UCSMjEP5L3uCXoVdf_zwDttg	stone wibe
 UCSRaySCEjdEuxxMo1iWHtDA	Finance Edge: Finance Tips & Investing Strategies
 UCSTd13ZDEvmxOiYisoAqjrQ	BodyCam Pulse
 UCSYNPRbrhqIOztaoIgf1MxQ	Food Crisis UK
@@ -343,6 +384,7 @@ UCUkYXC92f-_fJN1r-pxJm9A	FrameThrills2162
 UCUrWvZICgoAnxPFnC4e0YFg	Calm Keys Music
 UCUvkPEm38w6pq8w5QYgtPPw	CyberFlow
 UCUwP011uJ336x00wcYoulxg	Australia Insight
+UCV0COfVgeu-nKCj-wjSHIhA	The Dictator Lab
 UCV269T352IlIFMot1Sqx1BA	Squintist
 UCV3Zz9T8JXT_4n4el4JFYQw	Movie Memo Recaps
 UCV6aA8eMwj2sjurG_xqoC7A	INOSKE
@@ -350,6 +392,8 @@ UCV8F4owBMZ1AWlBaaFGy8Cg	Apps Island
 UCV9Ul95JKwegl6MVjlRYC-Q	RewatchClub
 UCVFonCC2Q31AYzi34f1SLLA	Atomowy Szop
 UCVK77Fnoxg89OwDWBG4qJFQ	Bliss Sweet Drama
+UCVLKrkqa2bCTGMAQ5PuuOMQ	The Unsaid
+UCVNKmtWC6cgR7lse1kh0myw	Tiny Storiez
 UCVVTthHLGBuNeKf5z6jGV2A	Blackfiles
 UCVVrASWe9lQQGuYFlh2eTIQ	Aura Drama
 UCVZcHQq3LoddQBFhH2Sr_eg	HulkRoganClips
@@ -370,12 +414,14 @@ UCWj49hVbvKO1sL56RMIWw5g	Chill Duck Lofi
 UCWk-bB1UNAkZi-CpbVUlHZw	Globe Swoop
 UCWlCqtz7CLEG4VAeeBXpaSQ	Olivia Martinez
 UCWoR-AjB3qrmnijD5YBB67g	The Hollywood Vault
+UCWtIko1Z11VcOTFjXxgSPpg	Unrelenting
 UCWv5trnhnHLvHRKicdqIjMw	Rijke Toekomst
 UCWxOhNQZrXbNn53txJy8jZA	Clip Rotter
 UCWyfdVMtW2EKglqhmKVteGQ	ピアノの本棚
 UCX0tbRCErzZZLDaosHAxh5Q	Sweety Theater
 UCX74gvjE1rQShNenHBWIw0A	DMITRYS Recap
 UCX8o_w4AsH3Mg4R7bDOvOJQ	Pxd-Sangita😆
+UCX9UWjFzaq6lHNM4tGsVUQA	Pixel Playback
 UCXFhQTlKLBGzt1nrmKqw6zg	Mystik Manor
 UCXICn5itmGggM-oDqVgsBLw	Abyx Cosmos Polski
 UCXNK0IHTX0BoktdtKjqIWoA	Artlist
@@ -386,6 +432,7 @@ UCX_q7ll-ZGPf0B-J7e1ZfEg	StadiumDB.com
 UCXeTFAmfzoG5YrsR3zYp3MQ	Economic Edge
 UCXwLYoHrGsiNe3MfGv_3AMw	Economic Edge USA
 UCY-PrcA-mjq3OhgsAH9C52A	Dan Dingle
+UCY4v398gTpZteqZEi1hnrxQ	Comfy Cozy Cafe
 UCY63iHl4jNNqh5dUO_4H3oQ	VANGUARD Ambience Signal | Selcuk Celebi
 UCYF1kiTFCcYPqGTqXKt3JJg	Papa Meat
 UCYGBeSayC2Q9QO1Qs5pRtBw	Finney
@@ -405,6 +452,7 @@ UCZKLuU6t7CaB_RD-bD4qdWw	Am I the Jerk?
 UCZRoNJu1OszFqABP8AuJIuw	Logically Answered
 UCZRxeUJRB7i9skhk6tpvffw	Simplify
 UCZd9f77kiWs7m3uH3Y3NzNA	Cosmicus
+UCZqx_W_naHOPxfXjE-qvYcw	Hidden Ops
 UCZuhC7okz-rlFsjp1HfLL9Q	Serene Diversity
 UC_04RSY3BAdz2yT9NJLYLkg	Steel on Rails
 UC_4IKgpmSQ079q6BmBRqCVQ	Grimdark Tavern
@@ -420,6 +468,8 @@ UC_SsBKZV6T_wGwdLhVonVmg	DUC Wow TV
 UC_TneqvSfh-KsIyZMlJjVsQ	Kanal13
 UC_hG5PxYZeibYNswGHVaXSA	Hardware Hits
 UC_yGVFpxH_gASxgyI3cl3uA	Dragon King Drama
+UCa1LWXjvl_gvrhnd9mYRldA	Striker Society
+UCa2MINCuhyN0Awg4KKuSvdg	T E R A V I B E
 UCa5KSxosWHigUEZb_nBlI4w	제리
 UCa7y3eLHLWAtQPbjiKTqbFQ	ScienceIsAlive
 UCaBhd5Eb_AZpHDSYOqBsWRQ	Indoor Garden Web
@@ -429,6 +479,7 @@ UCaOa4idaoNYqivayFosOuww	Vegas En Ruinas
 UCaTCh3hIUHcrkBrMQarBKmQ	In Plain Bite
 UCa_eXygTHMQpdz5PI0vzXrg	Pandit computer
 UCaiGyoqAtAbnxljKIbSD7fA	Best Selling Mascot Costumes For Sale
+UCaitydoE0zTWkIftfFQDVrg	GeoAnimal
 UCanuLFQFuNBSYHqNvqHIpdA	Lost Build Archives
 UCauwE96nVoT6ImHHy_z4gpQ	Death By Paint
 UCavppy5eRsPWN_2CNHZ8O7g	Mt Labani shorts
@@ -448,17 +499,22 @@ UCbVsDJGkfNFUbgIXoXi-TjA	Endless Lore
 UCbbIyALq4Tz4WHyYDq1YoKw	Forestry Technology
 UCbbwUjTtdX602GFUjCe4C1g	APEX GT
 UCbdVUGINEj6pwDIlF-cccgQ	Nana Drama
+UCblsdi4UwxXHG8jVLnZBNUQ	Ancient Origins
 UCbrSe4uBIeqJweOYnJAOsrw	EverythingProfessor
 UCc2k59KYCVrFKPasrh6OCWw	Blueberry Drama
 UCc3L72F_yWWr1V1ft_CDpAA	9to5Linux
+UCc7PX32YQ2IK0k8gU-IRG9w	Sunday Stories Podcast
+UCc7p7J9tem8-18oJ0JzYOGg	The Evaluator
 UCc9QQTmap8HZvgrSU7M9Y0Q	The best ailen
 UCcFWu85PbLSrotJr9c-8qnw	Panic Music
 UCcKeTbUZa34td1DfziJid8g	Ambient Nightscapes
+UCcLtvVZHBCB81ws0z63yexg	The Beautiful Game Explained
 UCcSaYH4z0xeBsKQXtaVA2kg	CozyBeaa Oldies
 UCcY_XLrCSInSpk6-Ofg7USw	Faded Archives
 UCc_Km1vjZ6vmkNOe3BonoMQ	DINUS - Disney World History, News and Fun
 UCca--XnlRXIfVkdatHXpqcg	瞬間ダイジェスト
 UCcc_LE8kzIzcloTVAttch5w	Dr. Jonathan Tam
+UCci9qhrLrAb1oodORE_t0Gw	Stew's Gaming Corner
 UCclNvOuEzMmDOc1_qoFLh2Q	Paw Meow
 UCcotYDuuBR16DvVsAh2VQNg	Juli Animation
 UCd2TgLdH4H-f8M-M952Sbfg	ROUNDUP
@@ -472,6 +528,7 @@ UCddWacbcy_McFP1PcBr3l2g	cutiegurl1511
 UCde_xnXu2lPBmRgAp_nq29A	comfi beats
 UCdlu-RGo973Dh90S3XpgaZA	JayMech
 UCdn4k8SEv3C4goXDFvA_A7Q	MĄDRA SOWA PL
+UCdrt0ykUqDAoQG_rvlv_oxg	The Fire Architect
 UCdvV2hZDzXSWbFAa0fejRww	Noctoon
 UCeGtLWepbQSGH0HNqqrVSSw	Od. Luis Marcano
 UCeQxako6VfMVhgM9zFhvNZQ	PlotMagix
@@ -482,8 +539,10 @@ UCeidUnZExdXv-MuZxa-MZqQ	AwZar
 UCeitNjrmhdmrUSTbHniQQkQ	Criminals VS Cops TV
 UCelLTglLNzDnWvborIw_PIg	Chroniques du passé
 UCen0ko30XIeN5IARS3E_Znw	MAD LAB
+UCewgt8Ym3WH7vkA-L5QBzLg	TechZone_English
 UCf332wOilj7kL_mTw48YBXw	DataCatInvest
 UCf85binLu3Be6uRX1GkIaDg	And05
+UCfKAtiLKpoMyPgTGcU48Jvw	The Psyche
 UCfLCfpqqPlZw11lu1ppUSYQ	AsWatch
 UCfTn254TPE_LXCnD5q7dcrg	Alexander Kingstowne
 UCfVcqToDyXbaaB0IlV3qgMw	REMEMBERED
@@ -491,7 +550,9 @@ UCfVvirBfpeP2WyfSEer_ZiA	Soul Zodiac
 UCfhWPdMXsbYMe4cIbLR6J7g	Liminality
 UCfw8xS6o4l1I0zqXr8wkKGA	Fleet Strategy
 UCfxp-314SusGQXao5FmXoyw	Mao Steps
+UCg0EfIwnhGrzzi5j2ajtGeA	Sudha Das
 UCg1myBaxxI6QYLqlgh0lonw	SCU (Stickman Cinematic Universe)
+UCg350dV7w5YscQDabIbfCQw	RageArk
 UCg42eFhfw3VMvoxbnmNS74A	Justice Decode
 UCgEEamOZGJ5W5YzWtSKhGOg	Mega Machines History
 UCgG_Io05vof57-NowIkHf0A	Skill or Fail
@@ -502,7 +563,10 @@ UCgZ7vi_salfbAQ5bV_2U61g	HexShow
 UCgbz3NyfdS_D2RDau5Xenow	Rageren Ministries
 UCgjNAIRqSXQkJnSoz1RXjpw	Ladenstarfish
 UCgkIDMH1O-qWWyIsAMHuI_A	Quiet Symphony
+UCgqFqBj99yyRHFOubzj3LaA	Thomas Foster - Sound & Vision
+UCgrWm3QdrjVsUObB4bygcdA	THE CLUE - CRYPTO made simple
 UCgyZ17wWE13nL73eFSDxdgw	ESSENTIAL PREPPER
+UCh-7s8MuoVVe-YQO93O7tKw	Tech Tip Daily
 UChFNkEB0xG1lSz869c5YI5g	The Russian Express
 UChWLtkS2PlJJY-UuMNhJtcg	Midnight Oil Productions (Jason Moore)
 UChX8JhnUvv0qHOfLB-LA5cg	Old Friends Short Theatre
@@ -537,11 +601,15 @@ UCjz1107N5-17ZQOz1g6XaOQ	Cosmic Lens
 UCkDsPKsp8cYdBFAk0go-ACg	Produkty Pod Lupą
 UCkJvKyH3F1M4TGEaKjZArMw	Fancy Drama
 UCkKCk1NcmhNuyKVVzl1oWtQ	Hit Songwriter Meets AI
+UCkKmRmvoqwYw-vhDALTZuzw	Technix AI
 UCkc5sjf1O41JSa8ASuwKXWw	patienceiskey
+UCkpzw41zi6hPb3KUAgzvSxQ	King Charles Tv
+UCkrcLvSoWI4cZSFXs7vzxrQ	Lost Engineering
 UCl-OoHxrWU6miVkGKswldEA	DistroTester
 UCl5XyuCgK3mAbWmwroskP7A	CCAP TV
 UClBbvWijyInqltUhbAwALuA	Mukkul Talluja
 UClCUrZB2sSDpxDgnGVvrbSA	Gab Facts
+UClDFmYn1MYooTtgvlIrygPA	録画PSUPER酢鶏無どん@AI修行中
 UClDzr-KM5H2-bsO3xIC32mg	Bjorth
 UClP6F8fvD43bfEHxCoQIe9w	Mister DIY
 UClRZFstArXKVCToDPtfzoig	Echo Chamber Trivia
@@ -568,11 +636,14 @@ UCmgJ12SO1m5egq798wZg9GQ	Animal Drama Zoo
 UCmpjEpYbJoFi0xSmCZKFHmA	AGT Fails
 UCmu7IgWPUTBWQ2TcjVbAXZg	Natalie Fong
 UCmy0Bcm07Ud1sZhdYCCdBCg	Mafia Mode Empire
+UCn7UksnLHGYfzZbCsSq_0oQ	Street Level UK
 UCnPBD8O8lCD9XWz3WsP141Q	Archery
 UCnPxAuhNJEBAGD6ogDv0qjg	Lúin Celtic Music ENG
+UCnVJ141k50NUV-jIoi1udnQ	SUV Insider
 UCnb3F2CHSkpnb1RVC_m4xtg	Business Strategy Stories
 UCncPQ1v29X1Hyfof9nUyPaw	musguess
 UCnrSnjp0p2kDB-rN37077Rg	Pixel Dragon
+UCnwUjPK7dXety-AJ4fNw_RQ	The Paint Explainer
 UCo4U29UM0fTu4964tbfS-PA	Dale AI
 UCo8SmewJw6MHT9FYwO_T0GQ	Athletes Lounge
 UCoAZ7r1N9QArgaDBmAH6-6Q	Seniors Hub
@@ -600,17 +671,21 @@ UCpX7qamEPxpEp3SPamHirFA	PocketDrama
 UCpiM1VjFQ5Ke7lW6LICmYzA	Moebius FM
 UCpiuZXH1owPBLSj2ZAipUpg	Amelia Pathway
 UCpiumHmUE5EZeLTftxv9qGw	Real Crusades History
+UCpkcfCp362efwIYjFXQxSqA	The World History Channel
 UCpmi5UqPZjMMMYMlRzRU8dg	Phan Đông Giang - Học AI
 UCpnJhVDtLr650iS9WXtHIDg	Cristiane Fernandes
 UCpopr7kTaNeX-2KoGLGpI0Q	Chachacha
 UCps2m5y_MSlRsJiUsYRvLbA	StaticSway
 UCpujnqHwN1xvgDau2uXvhYw	Inspirujące Historie
 UCq-KsBkFTnooyfV1dlHtYXQ	Made Men Files
+UCq8J4HXkdegj7Z3Fg5kDcCw	The Economic Lens
 UCqEzXKaRHLI-BM8GGLthqyw	magnii
+UCqJy9ODH5HxpC1ScoR0lR5A	The Soul of Wind Artist
 UCqNiJXcL-LyIUwhux4BKgfg	Primal Mind
 UCqUyE0GB1heTwJL7jKRhffQ	RushMiniDrama
 UCqVewDOwYtNkZLbmdSYyy6g	Live Leaked
 UCqdycmEzoje9w4p28QiQLMg	JollyBubbleKids
+UCqesrlYzOp9VlZ5dT1p9Kgw	The Savage Narrator
 UCqfU4gBckF8sgsC-jCaVWsQ	BizIntel
 UCqgChCuIqSXfe8Qvr6DDYBA	Radio Son Cubano
 UCqgUT-SyaPrKRPMInG_60lg	Kadry z Przeszłości
@@ -618,9 +693,11 @@ UCqkhI2O0a4uhf5KzTsRzTwA	Natty Greens
 UCqtha6iAfnOZOJd3nViaJfA	Vegas Decoded
 UCqumFyQchzWEvndasNmWoKw	Financial Planning 101
 UCqwcCjfbukdYnzygbvubUuw	Pray Unceasingly
+UCr17eO9Sbr1Jh1jcGexcXQA	eXtreme
 UCr1jbrydOJ3-cYj4DF2lH-A	Roaming Ramble
 UCrJitF6FX6Mh1AUxQbTqIsw	Compiling Ideas
 UCrnYbmt4N0IsE7Kv2NZLsxQ	Brenon Dopp
+UCrygf2iBdmnFcUa4AbDr7LA	Telly HD 254k views 2hours ago....
 UCrz32cjpjieVWsLd8Hngo1Q	Broken Earth
 UCs-6fMb94PJyPMvFOFKt_9Q	Cold War Impact
 UCs0IzxWjeUqxigDTj_PYqjQ	Cinema Fallout
@@ -639,6 +716,7 @@ UCtiTiFVKar2AjpLB8Z4sYUQ	Compilations tse massive
 UCtpmb_Bdx0TlYFK8aWF2EyA	Rewind & Reveal
 UCtqCqD7qAlSD18h2Zo4kdQQ	Jashu Teacher
 UCtzMTHSGXJKcCLvYAV5TW-Q	Clutch on Ice
+UCu6S_MpYydihE-R_MMY1y5A	The Scribble Scholar
 UCuADD56DZuFdihw8dGcOdhw	Aramaic Chants
 UCuFzSQIOOm-BE2yeBd4DjzQ	Crimson Drama
 UCuHEV_tGP1qinzHQZcbDquw	A.L Drama
@@ -646,24 +724,30 @@ UCuIKjbyqp8N2Uwwl9r92AUQ	Option And Story
 UCuJBQl-_LZcFepZ_SFyhXbA	Back to Yesterday
 UCuJxXH8vdaggZ3NBooiWgeg	Revenge Movie
 UCuOB1qlMmAmJtKozp3i9SDQ	Create.Art_786
+UCuRW6_Vg-8YQHkw_uIqrInw	The Economic Edge
+UCuafbSPEs38I5u7aFSpUHOA	The Movie Codex
 UCukBh_hmQ8CixugFmxrzagQ	Kanał Poznawczy
 UCuwy7s_JleH6gCAQLTxcdUw	Rhy Elliot
 UCuyvaRuDaB-0T8ZlVERzyug	Drama Glitz
+UCv3rTCoDnWzzchl2F34IBUA	Stock Studio
 UCvBOVj1GSIPVi5iTNZPsUeg	AquaBlu FM
 UCvEL-cN5Y0zdHsD8mtzMyWQ	MichaelHimself
 UCvEj4zFUZYplr-X2AJm8VTQ	It Girl Playbook
 UCvOfuEK4nS2UHStAXL8J5_g	ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤᝰ
+UCvPh9FG4XhbbURs0HmCbdug	The Mysteria Archive
 UCvRHjh0UcNlUyDl3wMk5iGg	DoodiDum
 UCvUmRn5p2zS1d-oSNJGBong	Empty Pixel Gaming
 UCvbm87xCvpJyOiN2vljAzeA	GDO
 UCvdoC8M-NFjhLSQuwhByf5g	david_movie01
 UCvrMHsFBJObry1PQ55bjFXQ	Battle of The Internet
+UCvv0Zy25K_9wj_YyP4nDX3g	Dark Horizon
 UCvyGjSdi4EHz9lGSSBukpnw	Das_war_Kenny
 UCw3QtU66UgjwG9xYvTcdGAg	Autopulse TV
 UCw5moLR-RGWtjQG-8AwQ9ww	James Quinn
 UCwCA-8zehHmciePbFgu3EqA	Q Process
 UCwEMqaFlj7C1OX6RP62Ss6g	LucasWatch
 UCwHj73Gg3EyMorS512i0xoQ	Japanese WW2 Stories
+UCwUW5FqzfXYRZYrTZH8P-gg	TimeQuest Facts
 UCwVQIkAtyZzQSA-OY1rsGig	Chill Music Lab
 UCwVgE2i7XlMQYJEezJMls4Q	Life of insects
 UCwZIjVd_BkLWvuDJ6wf7Xcg	Asian Good Drama
@@ -683,8 +767,10 @@ UCyS5BIXNLGK9vLPtCe2TS1w	Sobo
 UCybdcnFjz9FCdZOIIvcBgTA	Presidents Play Horror Games
 UCyu-qrB8I7BBxgKwoBu-UOA	State Across
 UCz-DQStlLMBOTMGOlDoahlw	Royal Unveiled
+UCz-rxehhsrMAyBEJdf4NG2w	TheGoodVibe
 UCz11I1eKS5dJeGF-Ef2f5LA	Salem Cursed
 UCz88yatQ-tLMnbXhv7ZOozQ	Mind Zone
+UCz9MVSo4yzjSl2AHSYidnpA	The Vintage Fame
 UCzFm24NUe2ZAK2EQ19fnnIA	Bat Verse
 UCzGHWUxTtKjrv0EHCgGdWEQ	Mellow Acoustic Guitar
 UCzGjORzfP3wzPUugoGkA2sA	RaGoCars
