@@ -1,9 +1,9 @@
 ! AiSList warnlist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/6c84bb310df03d7a999742773fb72a2420f56844/AiSList/aislist_warnlist.txt
+! Source: https://github.com/Override92/AiSList/blob/14838657318e516cd9e78b7373a7f902af07ebdc/AiSList/aislist_warnlist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: channel ID, a tab, the channel's name on YouTube as of the last check; lines starting with ! are comments
-! Names: 887 channels
+! Names: 899 channels
 UC-4jBCkBdDLoxY_zrYkW9iQ	Fashion Model Look
 UC-8tvuLTOvHt0q3CGBNsIuQ	State Guy
 UC-DOyqxl_nH7BKyJMLma_XA	Choco Drama
@@ -120,6 +120,7 @@ UC6sc9HlKGqgzHhXCAvqOY8g	Slimkuns
 UC6uZzgoiYRCBNe3cJp7ZFBA	floydbishop
 UC6vQJjgeoW6JKMhtOlf-W6w	Work & Innovation 5.0
 UC6wnSR1V441ZZrugNHfzs7g	ViVO tunes
+UC6zBA-vFwjqHv3A3YfiAFPg	Garage Gambles
 UC75D8GjbdsBw9VgmGViVxJQ	TOP MOMENTS
 UC7CZHOwiQt_1QWk0_OHHT3Q	TV Junkie
 UC7Ntxd6IheXQGHv7EwdUGEw	Oniverse: Arquivos Secretos do Universo
@@ -132,6 +133,7 @@ UC7nxrwA8qPfe7udQPhxvYkw	Across The Globe
 UC7seBcxwSd9wa6JOhke-WjA	Medieval Wisdom
 UC7x0Q2wbBmYWOtwIkRD7Waw	Tokyo no Yoru (東京の夜)
 UC7xSAP4p-1ARG6I53xoYIyg	Cheryll Trades LEAPS
+UC87aeHqMrlR6ED0w2SVi5nw	Algovibes
 UC8Gbjjvv69jdS9EMNBNmPOg	Celestia Song
 UC8T5gQ4U4GbI2h8kYCkEcvg	Everlast AI
 UC8cVdTHZA84M_smVwvI0CBQ	Indecepta
@@ -202,6 +204,7 @@ UCDhPl4daDXUdO8rdiQv9OCQ	Fireplace Videos and More
 UCDibwgZExKfBGjmdMHDgqgA	BEN Moment
 UCDumpETJYAtNsA9M1jabBrg	FILM CULT
 UCE8ClFPj7JZiSDYSIUGhBAA	ripshy.
+UCECQgXZXqYTNqelHQ82OaOg	WolfBot
 UCEFBDjkfEev1ftosLEdansQ	Canon Roeder - E-Commerce Growth Marketer
 UCEK374Y8TMu2DjHk0Pu4yog	StickTory
 UCEUPx_RbHwadQ6AwDBiiAFg	There I Ruined It
@@ -272,6 +275,7 @@ UCIdYV1fCIAvYpS5S-qLPlqg	The Winepress with Joel Richardson
 UCIsAlQwF6UrwkLi1WnXZ_xA	la vinyls
 UCIvrrLDLHfGxgfc7CgIGUfg	The Decoder
 UCIyEg4M6_ALdK_ECof_AyJA	Northern Veil
+UCJ-7vFo3dpWJ1d92gAGI9Vw	Spartak Emotional Remixes
 UCJ1SxEaxrC5RTLs8OPq0iuQ	Optic Expedition
 UCJ9yQrKImYTs-PI7VnnCTsg	fauxtick
 UCJJlof8ODqsRliQezReF0wg	The Gospel Unveiled
@@ -308,6 +312,7 @@ UCLH0DwzS814kTADPwNLJB0A	American Vault
 UCLHmLrj4pHHg3-iBJn_CqxA	Neuro-sama
 UCLIMdoS-InL1-GIBUKSvydg	midday india
 UCLNYclLY4ehuBjvK641PhFA	MiniAuthority
+UCLNw-LBxCPSD4AN-wo5Seow	Emergencies Up Close
 UCLSHu39IbZjHrPtVHXCxDHQ	Dust2Dreamy
 UCLp2cR0NxY60YM5FwabfgnQ	VVM Lofi
 UCLrEnhme_6p29fKrwBMXqnw	Oxide Protocol
@@ -389,6 +394,7 @@ UCR1SJseEXKbcbVEFd5ViHWg	Navy Decoded
 UCR2-05tgI5h0eJ5RAV25ndg	The in-game Dialogues
 UCRFv7euyH76yVtEg8a-XZgg	The Money Expose
 UCRHFSYD-YngJVuNxq_D2sKQ	Network Media
+UCRHbD5eDNc4IRIAFPCQo-6A	The Throne - Royal Documentaries
 UCRI9Mk1hkqAR6snjqiuUqcg	Smart Investor
 UCRIR4NZMd0tgeB5srM6VrAA	Fantasy Meditations
 UCRLFR4KCM9QKbe6yvFcwOvQ	Historias Para Dormir Oficial
@@ -411,6 +417,8 @@ UCSYNPRbrhqIOztaoIgf1MxQ	Food Crisis UK
 UCSf_ZMPLCn7Bvh4zu0CAvpw	Piece Sign
 UCSjqzfFTg604dQFAF6drabA	Wealth Wise
 UCSn8VhRG8Pfxt947SDUuiNw	on another level TV
+UCSygnckNTyEzdLbjqNEjX5A	Technical Support Arman
+UCT-lntLc-S1deFl4oTpJQkg	Gun Addicts
 UCT4oAX0T0L-gmf0EqjxeBmQ	Big Builds
 UCT9Lm9JU1TbO4TNMLhBUJKw	Mr. Dkay
 UCTA-SHRiMTh_p1dYWfVYdng	Old TV Cinema
@@ -477,6 +485,7 @@ UCWtIko1Z11VcOTFjXxgSPpg	Unrelenting
 UCWv5trnhnHLvHRKicdqIjMw	Rijke Toekomst
 UCWxOhNQZrXbNn53txJy8jZA	Clip Rotter
 UCWyfdVMtW2EKglqhmKVteGQ	ピアノの本棚
+UCX-UD3rfzqN03alrKVy7tMg	Travis Talks Trucks
 UCX0tbRCErzZZLDaosHAxh5Q	Sweety Theater
 UCX5jvPlvcKRLJ5pRlSiRgQw	VT Hunter
 UCX74gvjE1rQShNenHBWIw0A	DMITRYS Recap
@@ -572,6 +581,7 @@ UCbdVUGINEj6pwDIlF-cccgQ	Nana Drama
 UCblsdi4UwxXHG8jVLnZBNUQ	Ancient Origins
 UCbr3KcqMmqnevfI-2kauzCg	Zodiac Talks
 UCbrSe4uBIeqJweOYnJAOsrw	EverythingProfessor
+UCbuPx9hJLLWjqYyI7uDcvbg	SOHA Moments
 UCc2k59KYCVrFKPasrh6OCWw	Blueberry Drama
 UCc3L72F_yWWr1V1ft_CDpAA	9to5Linux
 UCc5LSUorfn2hiCdvva5kgUQ	Toon
@@ -695,6 +705,7 @@ UCkJvKyH3F1M4TGEaKjZArMw	Fancy Drama
 UCkKCk1NcmhNuyKVVzl1oWtQ	Hit Songwriter Meets AI
 UCkKmRmvoqwYw-vhDALTZuzw	Technix AI
 UCkXgWhQ7QRMiMzhkf7w-nwA	Warfare Signal
+UCk_wgIOz9m9ZZMi5jXTVPpA	Roar Channel
 UCkc5sjf1O41JSa8ASuwKXWw	patienceiskey
 UCkgakTe8jwcAVJSSJwKdvCA	Vintage Vault TV
 UCkpzw41zi6hPb3KUAgzvSxQ	King Charles Tv
@@ -867,6 +878,7 @@ UCxDJ6fRopbAoklC1SDcY-zQ	Der Kommandant English
 UCxJcyUAJ8g001jwYToejGvw	Gummy Drama
 UCxUbzIR8Bkxo-sqvGUirh0g	AumSum's Lab
 UCxkgpR98geayprAcMhUW5TQ	Mysterious Chronicles
+UCy-aBM4PCg9nBjZLaHLDaCw	Hasanoğlan Köy Enstitüsü
 UCyHHCzsbk0LM-FCfyri0rgA	DarkFront
 UCyI6LAvr-riIS1AUkbCuVFw	Curioso em Comum
 UCyQoeqE8DGTy4Bijx58vDbg	Engiskill
