@@ -1,5 +1,5 @@
 ! AiSList warnlist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/91d02afa98827599fadff6f2921f85e72662e2db/AiSList/aislist_warnlist.txt
+! Source: https://github.com/Override92/AiSList/blob/634199fa3d4a53d056fe4f865fbc8e8786b0b8c6/AiSList/aislist_warnlist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: one channel ID per line; lines starting with ! are comments
