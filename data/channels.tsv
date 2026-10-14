@@ -68,7 +68,6 @@ handle	channel_id	status	current_handle	title
 @30MinRecap	UCkjMCgJym9PDBQZ6Hx3ip6g	ok		30Min Recap
 @347ramune	UC6YtpQqnH9moZkX-FVSgKew	ok		小夜奈らむね - 347 Ramune
 @358いろは	UCTr8PCZxqJ7-adVe5pxE_wA	ok		ちゃんねる168
-@360newsroomnews		missing		
 @38jaymataji	UC6lU35YJJCtW8WGPI8znzww	ok		@ cat wald official_ 521
 @3amdarkstories1	UC0iaR6a6B7gP3pscOtMNyKA	ok		3AM Dark Stories
 @3DaizyOfficial	UC9qY-BkWHXjs6AaGLA0iE7g	ok		3DaizyOfficial
@@ -111,6 +110,8 @@ handle	channel_id	status	current_handle	title
 @60SecTake	UCjpOb8--OmixNtiXynvSBNQ	ok		60 Sec Take
 @60SecTrailer	UCUsR0u6v2HRQSUWxAaxH7Sg	ok		60 Sec Trailer • 991K • views 1 day ago ...
 @7-ElevenZ	UC5CMNWLupGXtuVGD00qEWPg	ok		7-ElevenZ
+@70s_ROCKREVIVAL	UCjpA4lDmxS66PUAkTtVvrjQ	ok		Retro Rock Vault
+@70sGreatestHits	UCy9YWeC2d72u4yU6jFTlvNg	ok		70s Greatest Hits
 @72Story	UCfUS_kAoS_NXrjImvF11UeA	ok		72 Story
 @789-z5b	UCxxwHK3yBEeZEkQ543hLnkA	ok		Tales From the Wild West
 @7by7musicstyle	UCZg3Hl8kdYQZ1Qj7kLsLpUQ	ok		7by7 Music Style
@@ -147,6 +148,7 @@ handle	channel_id	status	current_handle	title
 @90sNeonSoul	UCedphotbKH2TLgo3QluVVYA	ok		90s Neon Soul
 @911PoliceChaseus	UC6TMV-3JqJmfCXKJiy53KCQ	ok		911 Police Chase
 @92Stories-003	UCDwROODzZA_dffFp3ssy5Nw	ok		92 Stories
+@95-05JPOPRadio	UCd6RGh1pcei2vlhresmPCtA	ok		95-05 JPOP Radio
 @99piecesmusic	UCHjbHRHxhfljbh07gId-roA	ok		99 Pieces
 @9cuteaicat	UCuT-goQd5LHcuWm3DLYqwbQ	ok		9 Cute Ai Cat
 @9to5Linux	UCc3L72F_yWWr1V1ft_CDpAA	ok		9to5Linux
@@ -314,6 +316,7 @@ handle	channel_id	status	current_handle	title
 @adeelius	UCmJU2rC-z_0zqDgNjizyzTA	ok		Adeelius
 @AdeenReels		missing		
 @adeirestudios	UC1XqY3SM8pkLCbzYJhhpKDQ	ok		ADEIRE STUDIOS
+@AdemB10	UCfkLto1yEQsM1Vk43ypbu5A	ok		Adem B10
 @ademibrhaim	UCqyCj19T6JuYZ15_0bA__Ww	ok		Adem’s Horror Vault
 @AdeptusAnthemicus	UClTAdfV33Bp0APH995aRmVw	ok		Adeptus Anthemicus
 @AdeptusMusicoInimicus	UCa1Isvy8R5EN2AS3_gzSvxA	ok		Adeptus Musico Inimicus
@@ -325,6 +328,7 @@ handle	channel_id	status	current_handle	title
 @AdexStoryEmpire	UClHeE-TXjqbQbknJtMAVEbA	ok		Adex Story Empire
 @Adheyaistorytelling	UC7F5OMwm72oAhF8U99bM7nA	ok		Adhey Ai storytelling
 @adiascarter23	UCqTCfLjXLAqXgdx_hAgNN1g	ok		adiascarter23
+@adiluhungnusantara-b6q	UCPAYYVNbrJNUkYk6biXHdHw	ok		Adiluhung Nusantara
 @adin-d6e	UCns4HLeRCBB0TptI_zTe4gw	ok		SALSA MUSIC
 @Adinatinshsh	UCKzIVrAJQ-btEn5cYeHk0kA	ok		A-d_ination
 @adiriyantochannel	UC9t-2YpX1TNtP2QB2xt3jnA	ok		AR.Channel
@@ -1310,12 +1314,14 @@ handle	channel_id	status	current_handle	title
 @aicartoonshorts55	UC80s9fWnqRsA6HW1LAVNjJg	ok		Ai cartoon shorts
 @aicartoonshortsindia	UCLi57w59XQAVMs24Qf1I0UQ	ok		Cartoon short ai
 @aicartoonstories-98k	UCwzjfloUTMVZQ-Iaa-qe8zQ	ok		Ai cartoon stories
+@aicartoontales2026	UCH73zp7m7XnmFlovHpq14fg	ok		ai cartoon tales
 @AICartoonTV_0k	UCZRwvcA2-_O0RhD3eXanbNQ	ok		AI Cartoon Shorts
 @AICartoonuniverse-o7k	UCnWYjw28ACUXu8xud8opVGA	ok		AI Cartoon Universe
 @aicartoonvideo-15	UCR7aGkDXTDG0C4PP5CurKwg	ok		AI CARTOON VIDEO
 @aicartoonvideo-j1i	UCVHbx6ppuAbX4JwzCl7lwSQ	ok		ai cartoon video
 @aicartoonvideo-x3p	UCST76sq-JlBJ4HvZXsLFLQQ	ok		Ai cartoon video
 @aicartoonvideos24	UCAyri5zxxl-6DsVHGDMjHEw	ok		Ai Cartoon Video
+@aicartoonworld-n1u	UCeFZ7lwqB6ym3TQ_YCslDcg	ok		AI Cartoon World
 @aicarttonwold-q8q	UCeSVTx1SOEPxMLByNJEwlXA	ok		Ai cartoon vlogs
 @AICARTUNSTORIES	UC5vzWWPmuF2yMHJvXPvOB9Q	ok		AICARTUN STORIES
 @AICashBen	UC227uNLwIulIBKeHyCWzMBQ	ok		AI Cash Ben
@@ -1368,6 +1374,7 @@ handle	channel_id	status	current_handle	title
 @aicatfunnydancevideos	UCIh0h2iEmL6hrYEWix7fgLA	ok		AI CAT Funny Dance Videos
 @aicatgroup	UCx5ANXTHxzPmBPUjSrqIs3w	ok		Ai Cat Group
 @aicathulkoo	UCCA3Zvntzcew-kSx0_tq3Mw	ok		AI Cat Hulkoo
+@AiCatJamz	UCuSwAgaxHyjo3-1wfixvT9Q	ok		AiCat Jamz
 @aicatkittenakr	UCZBmVFYx3maRq-9yHgcD3Cw	ok		ai cat kitten akr
 @AICatLife888	UCoN23RtcVo6LZowI1vZi7wQ	ok		AI Cat Life
 @aicatlover	UCPu6Xi3v_2bpZoZ4t7WVbqA	ok		Ai cat lovers
@@ -3326,6 +3333,7 @@ handle	channel_id	status	current_handle	title
 @amitraveli	UCfnNf9hicwwgo98TF-7Yf9g	ok		Amit Raveli E. Tamer
 @amliyat-w5p	UCbrLQrv5qtfBgQ0iohbmoIA	ok		بابا عاشق سئیں بنگالی
 @amluckiasfcommentary	UCgLqXNcwEt247-LRIVB1RXQ	ok		amunluckiasf
+@AMomentofFaith-f1o	UCUrahlSsmh35HM1adNzlmsA	ok		A Moment of Faith
 @Amomusicchannel	UCsgNj7jiuKulQJ9a9g87FQQ	ok		Amo Music
 @AmorCallado999	UC2qYroVYEgyBWOO7Cv4OqBA	ok		Amor Callado
 @AmoreBlu04	UCeNsT-Q323mEGovbubQx2wg	ok		Amore Blu
@@ -3361,6 +3369,7 @@ handle	channel_id	status	current_handle	title
 @analisisglobal77	UC0WygbtabQXpOzFZ4YUqSbg	ok		Análisis Global
 @AnalogGuitarRoom	UC6yQI0zYq1I2NAfzFq75fRQ	ok		Analog Guitar Room
 @AnalogSoulFM	UCIHIyPRuZ2E_IN5DlMP5c_Q	ok		Analog Soul FM
+@AnalogVault1	UCcq8wfKd_PlUWzVolqoRIwA	ok		AnalogVault
 @Anamnexis	UC-5YTEB1zT3yncXC5CcMQ_A	ok		Anamnexis
 @AnanasNewsTV	UCE1_8sGbFqfNgp0mFX1emYA	ok		Ananas News
 @AnandaFrequencies	UCOqdvHYNMPoTnZqU4cUcFvg	ok		Ananda Frequencies
@@ -4344,6 +4353,7 @@ handle	channel_id	status	current_handle	title
 @Awesomo-p5c	UCt2HeKEvcR7MLlGTlvB7oEA	ok		Awesomo
 @awibalum49ers	UCkPSAOjouUErqGN6Q6z8U3g	ok		SoulMatrix Music Production
 @AwkwardEgyptians	UCR58HTOFy-_9zHx5OeN4-CA	ok		CreatureQuest
+@Awkwardmeme	UC1vl3pTfYUdLUmzovNJd0_Q	ok		Awkward meme
 @AwnestInstrumentals	UC8LmZ9CeZd7vc6VxZCBxHQg	ok		Awnest Instrumentals - AI
 @AWorldAccordingToAI	UCBi9heZk1g5Iu5u4dzvcq_g	ok		The World According to AI
 @aworldof_fantasy	UCC_j4q-2mApRdkYvwe0879Q	ok		fantasy_world
@@ -4423,6 +4433,7 @@ handle	channel_id	status	current_handle	title
 @BabyBitesAI-c2z	UClrIVvwOZQpxfBwo3RroXaQ	ok		Food Baby AI
 @babycat-e7i	UCSC2Q6Ix1mjyekhfCfB3e1Q	ok		Baby Cat World
 @BabyDreamWorld-d1j	UC-rn8dTNNZwQ-H-d9rcVFjQ	ok		Baby Dream World
+@BabyElephantMovie-v1e	UC3NbkxPnrg-9Od2G5cczj4A	ok		Baby Elephant Movie
 @BabyFoodAi-b1z	UCnvkTNbYcmP9rbqtdEblcoQ	ok		Baby Food Ai
 @babyfunvideo	UCGhhaqspJbK1WkJrXiSq7AA	ok		Babyfunvideo
 @BABYKIDSTV-z8r	UClfBnXV1O3PrNsIURN7QKkQ	ok		BABY KIDS TV
@@ -4517,6 +4528,7 @@ handle	channel_id	status	current_handle	title
 @banguyen-s9y	UCUV9zGaa_layAbPWWjXbKIg	ok		Ba nguyen
 @BANJOSALOON	UC87rRCaVmx0UAU3paeSxC7Q	ok		BANJO SALOON
 @BanjoTechnoBeat	UCa8ejY4V6eBtLl1VHcNLlpQ	ok		Banjo Techno Beat
+@BankaiBasicsHub	UClFx63V2LLYF43diunHPHlA	ok		Bankai Basics
 @BankaRenKura	UCYH-ukMKCVkG9MxIyoiMv5w	ok		Daya Shankar Official
 @bankbackchimp	UCBNTS1rJPfnNe9mcoHtoC-g	ok		Mojo
 @BANKITALES	UCbaFzpJ12Xx2zpmXkHMvC1Q	ok		Banki Tales
@@ -4535,7 +4547,6 @@ handle	channel_id	status	current_handle	title
 @BaobabStoriess	UCL_cWjDOZd-iEcvzFNQ9Gog	ok		The Baobab Stories
 @BaobabTales123	UCtwhK8wmypUJXDVUYlE_wIw	ok		Baobab Tales
 @baobabtracks	UC7LuOfSCU4YWN1bOne2lk5A	ok		Baobab Tracks
-@baongureview	UC5ccQlTZldaa2jwQalvRevg	ok	@เปาฮอรววหนง	เป๋าฮื้อ รีวิวหนัง
 @BapisAIAdventures	UCxG1hxhxUmG-bg6y4-6Ga1Q	ok		Bapi's AI Adventures
 @bappabagdi123	UCSDMuEZXXBJnkgcijJcL-HA	ok		Meow Memories 😻
 @bapreviewphimmm	UCWicxw6LhRK4tjiTmCQM5FA	ok		Bắp Review Phim
@@ -4861,6 +4872,7 @@ handle	channel_id	status	current_handle	title
 @BeyondtheBadge5	UCQoL0pddqQ7x01Hp5fAVF2Q	ok		Beyond the Badge
 @BeyondTheBars07	UClneznyQnvPbxuVy3W_X5lw	ok		Beyond The Bars
 @BeyondTheFrame2469	UCF9VSlUUDbMsPJ5rTf8VUcw	ok		Beyond The Frame
+@beyondthegoalsbehindtheglory	UCt2Rz9Bn4xn_nM8_87CpVvA	ok		Beyond the Goals. Behind the Glory.
 @Beyondthelens-r3v	UC2OWf2jSRQPmG4sxYFfMKQw	ok		Beyond the lens
 @BeyondThePorchStories	UCoOeScloBBLUqQf4TPas5KQ	ok		Beyond The Porch Stories
 @BeyondTheSpotlight-m8b	UCGC3Eat_aUsaBKVk8t3Q8VQ	ok		Beyond The Spotlight
@@ -4897,7 +4909,6 @@ handle	channel_id	status	current_handle	title
 @bhartiyaurdumusic	UCfGakipngFsSYWmprOD5Hlw	ok		Bhartiya Urdu Music
 @BhattiSci-FiTV	UC5z5nan_0XUOihkm4V3e4cg	ok		Bhatti Sci-Fi TV
 @Bhaukalivlogs14	UCrgVEkcdvtnRSy7E3ySkODQ	ok		Bhaukali vlogs
-@BheemunipaduSumithraAIMOVIES		missing		
 @Bhojan_Verse_AI	UC0VPfXugFoglBQTrai0jR8g	ok		Bhojan Verse AI
 @bhojpuri_gemar_yt	UC_7Dj39p7IOwObLQKcrxxHA	ok		TK_VIKAS_7 8 6
 @BhooBhookidz	UCf7PzYMxQQZHYtUaFCaA24w	ok		BhooBhookidz
@@ -6564,6 +6575,7 @@ handle	channel_id	status	current_handle	title
 @charles-vs-the-past	UCaWj2ql_J2M7Dqd78B5U7yQ	ok		Charles VS The Past
 @CharlesAIArt	UC09OjGkeQzJqo9TePo6xMWw	ok		Charles AI Art
 @charlesmayer-c4c	UCXKDn1W9btByCMAfqAAJ_NA	ok		charles mayer
+@CharlesMorgan-d2b	UC-DqgusQKwIjamaTl_A5q-g	ok		Charles Morgan
 @CharlesSurrealDreams	UCC1CuSboG0owwFUisog58WA	ok		Charles' Surreal Dreams
 @CharlieDriscollAI	UCo5IwtSTv87iEc0ih6qD3PQ	ok		The Darkest Age
 @CharmaigneDamron	UCWlCqtz7CLEG4VAeeBXpaSQ	ok		Olivia Martinez
@@ -6621,6 +6633,7 @@ handle	channel_id	status	current_handle	title
 @chesteraiforfun	UCQMtol-lzvgDjtdwOSkhNzg	ok		CHESTERDOTAI
 @ChevroletGarage	UCDr-7q2RdJOP-vCToXekygw	ok		Chevrolet Garage
 @ChevyCentral-HD	UCYEhVsqbm1MlcbVcf8kYLFw	ok		Chevy Central
+@cheyennejackson-c7g	UC5ZdoxCUwRk1ReWQfwg7L8w	ok		Cheyenne Jackson
 @chheangchamnan-v5z	UCCRQYFSKd1Q8Fr2FJRT0gQg	ok		Crystal Cut ASMR
 @ChhotiRasoi2	UC-210X6MCPnsLNUUgxCVQsQ	ok		Chhoti Rasoi
 @chhotuyadduvanshi	UCUISf2pYdcPmpeoLx1Ym-qQ	ok		@Ai Shorts Video
@@ -7146,6 +7159,7 @@ handle	channel_id	status	current_handle	title
 @ColdWarInsightss	UCWZ_hUvoSosmLlesqbvOZkA	ok		Cold War Insights
 @Cole-Xi	UCJiiZvn5PXNpo2BVERYLzaw	ok		Cole
 @ColeExplains09	UCaz64m_puU8fco78PK9N6eA	ok		Cole Explains
+@ColeRanchStories	UCJYfLA-YKGZxx2Vbh7Wld0Q	ok		Cole Ranch Stories
 @ColitasDnB7	UCeXO09clv2m3NbIFWg7ycKw	ok		Colitas DnB
 @collab-e7l	UCZQbAuJHtxdoNs1kCfCnOIQ	ok		OBUMNEME D
 @collapsedplacesyt	UCOG_1bNygANgsOHQjmRHpHQ	ok		Collapsed Places
@@ -7213,6 +7227,7 @@ handle	channel_id	status	current_handle	title
 @comprenderlafisicaconfeynman	UCfj9xcGrVD2tVSiDxXbf-cw	ok		Comprender la física con Feynman
 @ComprenderlafísicaconFeynman	UCfj9xcGrVD2tVSiDxXbf-cw	ok		Comprender la física con Feynman
 @conceptburstyt	UCT6Ug9R9kNk8LQsHvwIPu-A	ok		Concept Burst
+@ConcertHallClarity	UC6GJl0iWiijoKXLtCzhblQA	ok		Concert Hall Clarity
 @CONCUBU-o4p	UC2nw9rcq_3WYO3UDT3Da0Eg	ok		HoffnungsQuelle
 @conductajudia	UCOaxp_5KHg5XclH4vPIgAJw	ok		Conducta Judía
 @conductajudía	UCOaxp_5KHg5XclH4vPIgAJw	ok	@conductajudia	Conducta Judía
@@ -7330,6 +7345,8 @@ handle	channel_id	status	current_handle	title
 @CosmoRyderTributes	UCzTKbOfX6at6DdwgGxC_j_g	ok		CosmoRyderTributes
 @CosmosDustTalks	UC2yS7DO9dZC-nzOfr6lprwg	ok	@sleepthroughspacetalks	Sleep Through Space
 @CosmosinaNutshell	UCSlIEJOA_fiXjX27zFBmp_Q	ok		Cosmos in a Nutshell
+@CosmosObscur-q8i	UCfXiCm8-IPU1l4hcJaPrnMA	ok		Cosmos Obscur
+@CosmosUltime	UCfTcnlqWm8XbPmCb-6rQjAA	ok		Cosmos Ultime
 @COSSACKSua	UCTpjy-SKUfeufAC5GGJ1nNg	ok		COSSACKS
 @CostieraDeep	UC59HVIoBEKbyFWA_4JYEMzA	ok		Costiera Deep
 @CostOfFreedomYT	UC0CP0sDxSkZbhGmQ6wjCuwA	ok		Cost of Freedom
@@ -7547,6 +7564,7 @@ handle	channel_id	status	current_handle	title
 @crocaze	UCR26bOEeVULTAaWGFl85dEA	ok		CROCAZE
 @crochetandocomamorr-k9s	UCYHG4AVpH-BI0vXYJrhwxpQ	ok		crochetando com amor
 @Croco_Beat	UCosTwYVf7mqrAgIvv3Uqj1Q	ok		Croco Beat
+@CrocodileBaseball	UC-9Dh9r31d3f0BYuzMkv2Bg	ok		ワニのやきゅう【海外のMLB】
 @CROFTIQSTUDIOS	UC7lEQPZOx2u57bhIyCA99bg	ok		CROFTIQ STUDIOS
 @cronicadeljuicio	UChD9GGsuTyAuNd55IeF5vPw	ok		Crónica del Juicio
 @cronicasdelasnaciones	UC1ucW93eyt9xA1wMhBBlMig	ok		Crónicas de las naciones
@@ -7664,6 +7682,7 @@ handle	channel_id	status	current_handle	title
 @CuriosidadEnLíneas	UCnb7TYB9Cxpq2rTGutfzh2g	ok	@curiosidadenlineas	Curiosidad en Líneas
 @Curiosity-Orbit	UC5zgQpnuHPvEJkCmaPRwPZQ	ok		Curious
 @CuriosityandFacts.	UC_1PIfKHeUtrGJaqJ382Dig	ok		Curiosity&Facts AI
+@CuriosityGapDaily	UCuF3hlJo5Ub-b8po1qCGEpA	ok		The Curiosity Gap
 @curiosotomas	UCV4Bz21M0KD4YZCjTvAkmSA	ok		Curioso Tom
 @curious-h8u	UC0WJWSyskqT6i2Xgn2j7mwA	ok		A Curious Observer
 @curious_babies	UCNOf_BqZxXAOOaYOulrSq-g	ok		Curious babies
@@ -7674,6 +7693,7 @@ handle	channel_id	status	current_handle	title
 @CuriousElephant-h2w	UCKpSeX1L6Xqk8td7O1ChfgA	ok		Curious Elephant
 @CuriousFactsYT	UC4jBXgx1vli2V8PN2Qvb-kQ	ok		Curious Facts
 @CuriousFM90	UCZb8koPlEM86goINZiLMiAA	ok		Curious FM
+@CuriousMolecules	UCp7C23T4LnVPcWftMafL4Hw	ok		The Curious Molecule
 @CuriousOwl-l5p	UCmIQKT-RzmE1qFTpMK9a_rA	ok		A Curious Birb
 @CuriousPlus	UCbSjS5qrkFpPiTDs_abjLeQ	ok		Curious Plus
 @curiousrefuge	UClnFtyUEaxQOCd1s5NKYGFA	ok		Curious Refuge
@@ -7983,6 +8003,7 @@ handle	channel_id	status	current_handle	title
 @DailyDramaStoriesX	UCwP2nRmd-JQeWqZokyjG3XA	ok		Daily Drama Stories
 @DailyFinance-q9e	UCxIsnLMHVZFf_SClrnYKfgA	ok		Daily Finance
 @dailyfunwithkittens	UC0zO6zWXn0Zy-DklOzizV2g	ok		Funny Cat and Kitten
+@DailyGodDevotional-ph4qu	UCvWrmtc3zqMfVxs_MiM6N_A	ok		Archangel Blessings
 @DailyhackDrops0	UC3G2cw1xnY9Xk6IWUFyyJ5A	ok		Dailyhack Drops
 @dailyhistory_tv	UCoK7wIb4JbLeJZmHpHduPHQ	ok		Daily History
 @dailyhoroscopefree	UC8JT7cltQQ2ptD3LeBg9HRQ	ok		Daily Horoscope
@@ -8629,6 +8650,7 @@ handle	channel_id	status	current_handle	title
 @dj58-koba	UCF5V9cUruE0Sctp3rNzMByQ	ok		DJ58
 @dj_appolon	UCxH061KjNxnqgIt-nDARpIQ	ok		DJ Appolon
 @dj_hiro	UClkuMG38I12dKcMkioUvwBQ	ok		dj_hiro
+@DJ_Mogo	UCFQOgXtNKBBw6zUy1QWk0ZA	ok		DJ Mogo
 @djanimationshorts	UCx32YXEWh6V0qgUbWgC6Deg	ok		DJ animation shorts
 @DJBECKZUMofficial	UCyrU0F0nQdaW5UG2sPUmbEg	ok		DJBECKZUMofficial
 @DjCentilmen	UCDdx527212RF-OGgc3-qzPg	ok		Emrah Erdoğan
@@ -8860,6 +8882,7 @@ handle	channel_id	status	current_handle	title
 @doulu-w8u	UCuZLM46hUQ5yoCrs8nNVYhA	ok		doulu
 @DouyinDrops.oficial	UCcWTrxWnS_rtDGOiFhv_xsg	ok		Douyin Drops
 @DoveFolkTV	UCvXlpnaZ3eBBX0IQ-0fstrA	ok		DoveFolk TV
+@DowbniaFilmworks	UC4SWlZlhyeIMO_E3YdUsupQ	ok		Dowbnia Filmworks
 @doyouknow-x7x	UCNz5-GiZwZVvWv3zrsW1GLA	ok		Do you know
 @DoYouRemember007	UCVy7xPW893FYjWqLKQFFQrQ	ok		Do You Remember
 @DozingHistory.Channel	UCWAH1AOKN-dJAqCFRGk5lIA	ok		Dozing Through History
@@ -8971,6 +8994,7 @@ handle	channel_id	status	current_handle	title
 @dramzofilms	UCaq6syAedacxjMYmNufPTCA	ok		Dramzo Films
 @dranwinglover	UCXMTYW_9JUXD5fn9j-0F2VA	ok	@cookingroyal	Cooking ROYAL
 @DrarryVisions	UCNGMVg_iOIyT_O-bJlR-u_Q	ok		Drarry Visions
+@drawdownfinance	UCcMX4eCtClSxETFMjHy39NA	ok		Drawdown
 @DrazExplains	UCx_rJCIDyJ4D84CKl3v47ag	ok		Draz
 @DrBenWalkerOfficial	UCwrRcfdTfO5vdALusSClNmg	ok		Dr. Ben Walker | Useful Senior Health Tips
 @DrBonitha	UCRbzTrOCd6jjHNfjc9d15HA	ok		DrBonitha
@@ -10314,6 +10338,7 @@ handle	channel_id	status	current_handle	title
 @FalloutRaccoonUSA	UCBm-Z0WL2PlMAEqZ83CA5XQ	ok		Fallout Raccoon
 @FalloutSquirrel	UCLW7vgRRvTrUBdaRuwRltPA	ok		Fallout Squirrel
 @FalloutWolf-r1b	UCetCRw2TJCmPZFCXND1pvpA	ok		Fallout Wolf
+@FalseAwakeYT	UCYKjoUvTEET_QqohSq53FhA	ok		False Awake
 @fame_school	UCvk15wBIZGbESlC8ztHE4BA	ok		Fame School
 @famechronicles75	UC3AIY7Sx-229cOeN8HY64Wg	ok		Fame Chronicles
 @FAMENOOK-d6x	UCUpgmOw1yEw381oGMfPl6vQ	ok		FAME NOOK
@@ -10519,6 +10544,7 @@ handle	channel_id	status	current_handle	title
 @Fenja-w8f	UCNx6_82p13KNg2RoeBrHTfA	ok		Fenja
 @FENMOCHI	UCJgQ05tzoF1f7XdW-m6v74A	ok		FEN&MOCHI
 @fenxin-shortdrama	UC4wuNS4YaF9ePSVeGO9v4cQ	ok		焚心劇場ShortTV
+@feraisexplains	UCoS4UXBEijJ_4b5TJGk5UVg	ok		ferais
 @feral-r1j	UCA6eO1dUts6xV6F-Xl7H4OQ	ok		Feral
 @FeralCry	UCCZ-7j6iUTnjgOD2OExQtMg	ok		Feral Cry
 @feraldawn4	UC5tnuF9h3a_BD7jmHvnao4A	ok	@cattoonixt	CatToonix
@@ -10733,7 +10759,6 @@ handle	channel_id	status	current_handle	title
 @FirstSightDrama	UCN1usj2gnqBRGw4MPQDH-qA	ok		First Sight Drama
 @FirstYearWild	UCeNtt2tH7JoFFfWolQDIO1Q	ok		First Year Wild
 @FirtsHistory	UC6_FCDK9GHe_Mqs-lJqZ98Q	ok		FirtsHistory
-@FiscalFlow08		missing		
 @FiscalFolders	UChhMk0hgZi8Fu6hQvwynQog	ok		Fiscal Folders
 @FiscalRelics	UCQVU-poxzQzgG5av9duz_5g	ok		FiscalRelics
 @FiscalWarfare	UCy4Hl92ma6Tq26BDw8vD_tw	ok		Fiscal Warfare
@@ -11017,6 +11042,7 @@ handle	channel_id	status	current_handle	title
 @ForgottenCivilizationsYT	UCmbJCNfN1hZG4XBG08SOm_Q	ok		Forgotten Civilizations
 @ForgottenDiscoveries2026	UCAbyT2YAzEih8qq52P8sspg	ok		Forgotten Discoveries 2026
 @forgottenfarmerarchives	UCoO8U3QF-wpyD5Cq8pNB-1w	ok		Forgotten Farmer Archives
+@ForgottenFleetsWW2		missing		
 @forgottenfrontiers22	UC9v-Oh8_NcU8TwVdGwKaEgw	ok		forgotten frontiers
 @forgottenhistoricalstories	UC21VtuI5Vj0wEQysPJCQ7hg	ok		Forgotten Historical Stories
 @forgottenincome	UCaiMwpVs0y3jb9UBa0m6etw	ok		Forgotten Income
@@ -11055,7 +11081,6 @@ handle	channel_id	status	current_handle	title
 @foxytunesbeatz	UCj0owdFCFvo_FAnzb_2tPcg	ok		Foxy Tunes Beatz
 @foyersound	UCQTENR9E431JiMhEJx7axiw	ok		FOYER Sound
 @FozilxonSaydaxmedov-xf7je	UCCnam2Gp70ZHLou_4uXskxQ	ok		AI Movie Transform
-@Fp6.0	UCHbVvlhrMru6Sup_IIea9KA	ok	@thelastpayback-i5x	The Last Payback
 @FQtube	UCx1F3woGyX0kG3aE-cbrfeQ	ok		FeelQueen
 @fracoai	UC3u0INifeKMHNjrTHi_LOCw	ok		Fraco Ai
 @FractalHaze	UCtBb3zOdRZisVgdqr4YRQjA	ok		FRACTAL HAZE
@@ -11837,6 +11862,7 @@ handle	channel_id	status	current_handle	title
 @glellcmv	UCiQa811jFGcMODPqcvo_2uQ	ok		An AI-generated music video by グルエルシー
 @glennabaya700	UCv1MxruF2F0a-nRiIOm2Fgg	ok		Glenn Stephen Abaya
 @glennharperthehonestchemist7	UCYRNmQ-xt0KRkp41GKQ9lqw	ok		Glenn Harper | The Honest Chemist
+@glg-u	UCmQqW9KM3radvHV03XLfX3w	ok		glgu
 @Glimmer-t9y	UCj5vup3vwy5bBkCJlsGH9kQ	ok		浮光剧场
 @GlimmerGlimpses	UCFc_HU6mT-d0OvWhAucaAXg	ok		GlimmerGlimpses
 @GlitchAfricanStories1	UCCUPCb7SdGHfIvN4hDHplmQ	ok		Glitch African Stories
@@ -12110,6 +12136,7 @@ handle	channel_id	status	current_handle	title
 @GrandmasStoryTree	UC05gcYvIfGSROYcpcM3shUg	ok		Grandma's Story Tree
 @GrandmaTrueStories	UCRgpp0Qpl13c1m7gxCvU3cw	ok		GRANDMA TRUE STORIES
 @GrandpaExplainsHistory	UC2fzM4OS1UDOh_ig6hUm9MA	ok		Grandpa Explains History
+@GrandpasHiddenMethods	UCzx7DI0CT0ok8NZuVA5qy3g	ok		Grandpa’s Hidden Methods
 @GrandStructures01	UC4z2lXNr5eKsAkWb6pnL7FA	ok		Grand Structures
 @GrandTheater-GY	UCna-a0hxpjsiyA7s0Fcillg	ok		Grand Theater高雅剧院
 @GranHistory	UCjEpN5D0UTdYALW65lpfVBg	ok		Gran History
@@ -12385,6 +12412,7 @@ handle	channel_id	status	current_handle	title
 @HardwareHits	UC_hG5PxYZeibYNswGHVaXSA	ok		Hardware Hits
 @HardwareKnows	UCcdJMMB-J0TEqeYc5-30wXg	ok		Hardwares Knows
 @HardwareReportsByAD	UChl2owOZiAqnza6PI18NaIw	ok		Hardware Reports By AD
+@hardwaresbrasil	UCLLlA6l7oIyXdsZ3I7UZU3Q	ok		Hardwares & Tecnologia Brasil
 @HardwaresLab	UC7DRTj7oZCb9wkWw1R5OLgA	ok		Hardwares Lab
 @hardwarex-g9i	UCbswhU5JPLmsX_PxG8BtajQ	ok		HardwareX
 @haretaro-animesongs	UCxOLSv4hBahxTEkIkdghflQ	ok		Anime Song Arrangements アニソンアレンジ-AI実験チャンネル-
@@ -12784,6 +12812,7 @@ handle	channel_id	status	current_handle	title
 @hiddenfamilyrevenge-n8n	UCUKSgCap_-X3hsoquexTrTg	ok		Hidden Family Revenge
 @HiddenFamilyTales	UCBvdApZ9CWntJVOmgjiXAgw	ok		Hidden Family Tales
 @HiddenFear-f7b	UCLaeP57jrfNsGJAgbf3Qp8A	ok		Hidden Fear
+@HiddenFortuneStories30	UC7vBUSL12hDp8B9lHaY4nVA	ok		Hidden Fortune Stories
 @HiddenFrontHistoryy	UCGzrf9SQv6fzbNlUpNlKqVA	ok		Hidden Front History
 @HiddenFrontier247	UCHtt_4JvzWP32IfS_rvMjOA	ok		Hidden Frontier
 @HiddenFury-g3v	UCLB4eK504c5nYnoJJFyYquQ	ok		Hidden Fury
@@ -12807,6 +12836,7 @@ handle	channel_id	status	current_handle	title
 @HiddenModeYT	UCqIYnnmomwf-_-3tJzZu9HA	ok		Hidden Mode
 @HiddenNexus11	UC6Zn6zMGfToxGFNOu_h3ztQ	ok		Hidden Nexus
 @HiddenonEarth-yt	UCYzAnvUEMceR1KxcM2ARKag	ok		Hidden on Earth
+@HiddenOrigins-c7s	UCYrA4J_Xg1qtCTj4ef3QyYw	ok		Hidden Origins
 @HiddenOrigins-h6w	UCJ5QjgDN7FTK7Ij8ojyLtHA	ok		HiddenOrigins
 @hiddenorigins53	UCQOkug_xlBE3-W6eyzNT0Rw	ok		Hidden Origins
 @HiddenPhysicsHQ	UCiimFKvPE-lS6xXaTWAOiZw	ok		Hidden Physics
@@ -12862,6 +12892,7 @@ handle	channel_id	status	current_handle	title
 @HightechzonebyMAHEER	UCUJzVYpZGs_UeOk553L2gJg	ok		High Tech Zone
 @highway-tales	UCpYHkvLbLiwFosUSK341rTA	ok		Highway Tales
 @HighwayChillHQ	UCL31yWqCJN9_RfqVU3yhjNg	ok		Highway Chill
+@HighwayLane-m4l	UCAZI1puABH6g3_KgQAaN0EA	ok		Highway Lane
 @HighwayRootsMusic	UC1Y72Gde1MOEV-TgFywDlDA	ok		Highway Roots Music
 @HijabGirl-11c	UCEKnOsQVZB5I70i-ZNOrLMA	ok		World Podcast
 @Hijabi_coach	UCJ7xRBtMcrRR4oyBoLEsWng	ok		HIJABI COACH
@@ -13380,6 +13411,7 @@ handle	channel_id	status	current_handle	title
 @HolyRosarySacredNovenaPrayers	UC2GKOLmrAogbW8U-vuByxKQ	ok		Holy Rosary & Sacred Novena Prayers
 @HolyTales-e8f	UCHrX5CQCUWsdCvHPe6__YNQ	ok		Holy Tales
 @HolyTruth7	UCVCogdzG4YNU9yvO88xIDyQ	ok		HolyTruth
+@HolyWordsFromGod	UCYAlGJpSQVneghPeZ0cNyZQ	ok		Holy Words From God
 @Hombres_con_Poder	UCg1zO7AZw-uWQ_z4dIHTZNQ	ok		Hombres con Poder
 @Home_Me	UCF7AvL2nqWNOoA5f6TcqAbg	ok		HomeMe
 @homealoneagain.	UCFwIMLfEFfEHyaC89twYU4g	ok		home alone.
@@ -13402,6 +13434,7 @@ handle	channel_id	status	current_handle	title
 @honeybunbun_123	UC7YuXlyl90X3A2XvEpeDUww	ok		Honey bun-bun
 @HoneyBunny25299	UC5L8JexcLow1eZB5E0K1cXg	ok		Marvel Aesthetics
 @HongleMoneyOilWar	UCIxV-aVBX3pc_0X7KT6BaHg	ok		Pro Jiang Lab
+@HongNhu-p9d	UCvfEy8pN0Zm75FPpSvuz4Tg	ok		NOCTURNAL SYMPHONY
 @honjrai	UCNd0fLugcbKkyz5pUQU-Xog	ok		HỒN JRAI
 @Honmokisdu	UCICCkL3b9sAQ51UH8NVHCTg	ok		Honmokisdu
 @Honmooon	UCZUmqpHaMaj6ypQ67FBW_kA	ok		HONMOON
@@ -13442,6 +13475,7 @@ handle	channel_id	status	current_handle	title
 @HoryzontxZdarzeń	UCFUAEhzGtKwrafkLqnYuDqg	ok		Horyzont Zdarzeń
 @Horóscopos_del_Sol	UCIqWp3nrdWyAJGya2fvsjHw	ok	@horoscopos_del_sol	Horóscopos del Sol
 @HoshiAIMusic	UCDIloCskZeTyShWapOOqNrw	ok		Hoshi AI Music
+@hoshineko_music	UCXIHS51iKyxLzbrKTvcj8fg	ok		HOSHINEKO — 星猫
 @HoSong07	UCA-7C0x6GsvJoX4JB4RXqlA	ok		HoSong
 @hospitalchronicles	UCnIfEvRfWuuM0MtmJmUGCmw	ok		Hospital Stories
 @HospitalHeartStories	UCTCeEYODXtwDvbkxXr79wyQ	ok		Hospital Heart Stories
@@ -13694,6 +13728,7 @@ handle	channel_id	status	current_handle	title
 @IfeanyiEzenekwe	UCHeg__0adRuBmM-kVlGVrCw	ok		Onye Nkuzi
 @ifemioluwa_Ai	UCLgNUtw_iqrPN14EiMAMKKw	ok		_ifemioluwa_ Ai
 @iFinney	UCYGBeSayC2Q9QO1Qs5pRtBw	ok		Finney
+@Ifiology_if	UCsPcXcHG4-oigrlueT5O61w	ok		IFIOLOGY
 @ifmusic20502	UCoUvmrX259FR5-RDFn4ccjw	ok		If music
 @iftikhar.hussa9	UC1AJ9vsmj9HUpHaifW41j4Q	ok		THE IFTIKHAR
 @IfunanyaCinema	UCDGaSrrn9zAriOg9c2TAfMg	ok		Ifunanya Cinema
@@ -14023,6 +14058,7 @@ handle	channel_id	status	current_handle	title
 @INVESTORALARM	UC4TRzxWHk3QcWVLS7t084QA	ok		INVESTOR ALARM
 @Investors-Compass-1	UCPliN7l_Y56VHk01xhup2lA	ok		Investor’s Compass
 @InVideoOfficial	UCgxMiiBKk-xYskc2KNLiBTg	ok		InVideo For Content Creators
+@Invisible_Rich_Stories	UCP1lBmRYbwLnKcCQP5-vpjw	ok		Invisible Rich
 @Invisiblegyan_official	UCCZFE8t-7VXHUBwBY9R9fww	ok		Invisible Gyan
 @invisiblegyanextra	UCAUlDXokuapWuOpwD5loqFA	ok		Invisible Gyan EXTRA
 @InvisibleUniverse9	UC8Flfhy8mogzP9DJ0WtGd0w	ok		Invisible Universe9
@@ -14390,6 +14426,7 @@ handle	channel_id	status	current_handle	title
 @JesusDeclaresOfficial	UCzXn3Hv1Fg5JxdNaOGj5OfA	ok		Jesus Declares
 @JesusDevotee	UCPW7iAc_NHqjsSqLXa4-tIg	ok		Jesus Devotee
 @JesusGlobalPath-Officia	UCq-CZdd4vm4CVhC5-oZ4i3w	ok		Jesus’ Global Path
+@JesusGlowUSA	UCTzlP6IxTMc_hhFQnfgUF9g	ok		Jesus Glow USA
 @jesushelpusa	UCCWU1Jr7lER5bwFTFaGl-8w	ok		Jesus Help US
 @jesushopestories	UCctAxKvMlx-DktgG-pbDByg	ok		Jesus Hope Stories
 @JesusLightAI00	UCD8qRHsvBuQf2gzIvSzIh3A	ok		Jesus Light AI
@@ -14962,6 +14999,7 @@ handle	channel_id	status	current_handle	title
 @kidsanimationworld-4u	UC2t4fj3oiUMva4d1f7vj6VA	ok		Kids Animation World
 @Kidsanimeai-v9c	UChxQxraNklMnA-JyOQ8XiVg	ok		Kids Anime AI
 @kidsbhaktiworld	UCkB-KNNDdxLek6RhBv8Qdcw	ok		chhota cartoon world
+@KidsBitzOfficial	UCbox45s-5pjL-F_yOnN28GA	ok		KidsBitz
 @kidscartoonsworldd	UCl5kUZjmfYky3LvMrmhcafw	ok		Kids Cartoon World
 @kidsEducationUk	UCOnqEZ-DT9F9aydRtHVnE2g	ok		kids education Ai
 @KidsELand	UC7zbcnO9UcKqd4_akdWtGPQ	ok		Kids eLand
@@ -15166,6 +15204,7 @@ handle	channel_id	status	current_handle	title
 @Kobinathmarak02	UCL8Uge1spkshMehiXrZovQw	ok	@kobinathmarakai	Kobinath Marak
 @kobinathmarakai	UCL8Uge1spkshMehiXrZovQw	ok		Kobinath Marak
 @KobiStorylabofficial	UCvBG-gsqmdSncpgbj-loW_Q	ok		Kobi Story Lab
+@KOBTRAX-b5v	UCwZRGgjWFDzNmc7V0D_qBEA	ok		KOBTRAX
 @kochansong	UCB0wtU8yQXTXUlHiCYeUQDw	ok		Ko Chan Myanmar AI Song
 @kodilofi	UCNaAEEC2W6lSnzTmmKjMCMg	ok		Kodi Lofi
 @KodSiły	UCBQR3N8jCVXMMI0xCi1K64A	ok		Kod Siły
@@ -15852,6 +15891,7 @@ handle	channel_id	status	current_handle	title
 @LockedBeatsmusic	UCVlmi8FzfX6ThwtYYa9CU-A	ok		Locked Beats
 @lockedRecap	UCgGI1TF0PURoSnivnS09eww	ok		Locked Recap
 @Locketledger	UC7xsGRXPsvnLla2KYoQTYxQ	ok		Locket ledger
+@LocomotiveAnatomy	UClOmqmF02qqomzcHbg86S9g	ok		Locomotive Anatomy
 @LocomotiveGeek	UCRpibJBMzdzqod1Q79-zLMg	ok		Locomotive Geek
 @LocumIntegration	UCLs5lyxLNA6sxXtgr67_RcA	ok		The "What's Next?" Podcast
 @LodiBotPH	UCirmnX3lvXmhQTvAaJMvM1Q	ok		LodiBot PH
@@ -15894,6 +15934,7 @@ handle	channel_id	status	current_handle	title
 @LofiNightBeats-e5j	UCMYXMIxKvNj6rU9JYy48Uhg	ok		Lofi Night Beats
 @lofinightcalm	UCrnXHMhZqjjNmkFP3mbB48w	ok		lofi night calm
 @lofiondo	UCJqTZAhkz62uzYrNsAyNaSA	ok		Lofi ondo
+@LofiontheRooftop	UClBrT0ADeJnemAyp2EbzVFw	ok		Lofi on the Rooftop
 @LofiPicture	UCYlhMXgU9rfp6Z0Wwmz3MIQ	ok		Lofi Picture
 @Lofiradiochillstation	UCZsygU-W9gcj0TcDLMfgJCg	ok		Lofi radio chillstation
 @LofiRainGlow	UC3j9N-7oK_RzL_Hn6TamZsg	ok		Lofi Rain Glow
@@ -16152,7 +16193,6 @@ handle	channel_id	status	current_handle	title
 @LuizaaoAIMovie	UCwyXAlELATIiBE0kBjaNPWg	ok		Luizaao AI Movie
 @luizahafner	UCL7PVgtYl-Npl6x2pY0h8zA	ok		luizahafner
 @lullabands	UCVFoR_chZgvwcQCtXwchB5Q	ok		Lullabands
-@lulufolktale	UCJhPB9p4YINVx82iN9vKoLw	ok	@nightingaleseries	Tales by Nightingale
 @luluofficial22	UCIjzC-pWfQduiBbozEEcrWw	ok		Luluofficial
 @LULUstories49	UCPDqU1ug52DI0s66c_lSmfw	ok		LULU stories
 @luma_baby_vlog	UC8iiaTOq9np03ztAM4cWkFw	ok		Luma Baby Vlogs • 11M Views • 24 hours ago ...
@@ -16192,6 +16232,7 @@ handle	channel_id	status	current_handle	title
 @LUMOSCURIA	UCRaHjbF3NP-y3ODS5WWahZg	ok		LUMOSCURIA
 @LumosManhwaRecap	UC8KmgQABfwRXJaJYmABwVSw	ok		Lumos Manhwa Recap
 @lumynorofficial	UCitkuIrJr8XmZNx7Ok1CEnA	ok		Lumynor
+@LumyraNova	UCookZWjDxEXC57EDVXGClDQ	ok		Lumyra Nova
 @Lumz-Cinema	UCCo25w2DOn9UMkg3jJW9X1w	ok		Lumz Cinema
 @Luna-AI-ASMR	UC68tn-IBYZDmf50JhOj00Kw	ok		Luna-AIHOME
 @LunaAIArtStudio	UCKLSkOnDrEDnnDiRPDqWhDg	ok		Luna AI Art Studio
@@ -16618,7 +16659,6 @@ handle	channel_id	status	current_handle	title
 @marsmarsm	UCQoVMGQ6Z1y1KjNBpfyUTyA	ok		MARS
 @martaplaywheels	UCxlUBU1Qs13Xg6krUfZLAQA	ok		Marta Play Wheels
 @MartikFinance	UCZjVE44LOvxPyKA-tymFoyQ	ok		Martik Finance
-@martin-mafia	UCQYnvW-t4LZrcVzJNav71jw	ok	@aikazo-official	AIKΛZØ
 @MartinAIArt	UCCGxwggSDDyVGQ7N11GmiUw	ok		Martin AI Art
 @MartinsAIStudios	UCo624UFEar5b6MRG7MDwDSg	ok		Martins AI Studios
 @MartyWisdom	UC9VYoe_799f2PrrhRqOidZA	ok		Marty
@@ -16766,6 +16806,7 @@ handle	channel_id	status	current_handle	title
 @Matshubaba	UC7f-PfEgpaJc-R1V4hztTPw	ok		Matshubaba Studio
 @Matt_Reconstructs_History	UCAcoda6jlC-xpxGhwW7yFZw	ok		Matt Reconstructs History
 @MattEvkuranPodcast	UCnVaibb232RhDkcDlqC1AhA	ok		Matt Evkuran Podcast
+@Matthewfinds	UCWz_AFHrqOBSaEYmMzQLbEw	ok		Matthew Find's
 @MatthewWilliams-j6p	UCDlA-q5nUmQKAbRJ8BouecA	ok		Matthew Williams
 @mattinvestsUS	UCIscuhryANiaqg1gPcPKrjQ	ok		Matt Invests
 @MATTLABS-AI	UCmtwZO2EHoPBkBm3iruAcrA	ok		MATT LABS
@@ -16802,6 +16843,7 @@ handle	channel_id	status	current_handle	title
 @MayaVoyages	UCmyXpGg4r38a61HMRxFJTbw	ok		Maya Voyages
 @MayhemMesa	UCTrg2efa5ypcFSYq9UbGNvg	ok		Mayhem Mesa
 @mayhongtv25	UCWj9FCP1mtXNgJaYucHpo1A	ok		Mây Hồng TV
+@mayijazz	UCsqNxG28Axmt30xySkHnGGA	ok		mayi jazz
 @MayorKingAI	UCipX6v0OQpzWGsy9nmz2VYw	ok		MayorkingAI
 @mazedarai3	UCGYh-t_FkMfE8o1lmYq-7qQ	ok		Aivideos
 @mazeguru_ai	UCdgTp3QJb5VULVTh5_6awXw	ok		Maze Guru
@@ -17968,6 +18010,7 @@ handle	channel_id	status	current_handle	title
 @Moto.Engine	UCvZYvziXLK8p8gr2f0s1tmQ	ok		MotoEngine
 @MotoChrono	UCVXO2YVvj7SpsNw2xfES88g	ok		Moto Chrono
 @motoelite-n5r		missing		
+@MotoInsight-j7e	UCnpKyEusS73mMQycHS51dOw	ok		Moto Insight
 @MotoLynxpro	UCt7IVdIrnmmwx96fucjEsfw	ok		MotoLynx
 @MotoMagzYT	UC85X1riGO-nTlears_v-ANw	ok		Moto Magz
 @Motor.Majesty	UCKlhwUnnI5HnVsA8TyO2F3w	ok		Motor Majesty
@@ -18001,6 +18044,7 @@ handle	channel_id	status	current_handle	title
 @MovieAi-official	UCdnZyuagKpLdmtCG_kLl8Kg	ok		Movie Ai
 @MovieAiTrailers	UC8MVxJBK7rkSpmCbrk5ncCQ	ok		MovieAiTrailers
 @MovieAsAService	UCrdmQeN-pjyBMXjUZx45bHg	ok		Movie As A Service
+@MoviebookHQ	UCDMyF93WiDvcHD37ewaQ1qQ	ok		Moviebook
 @MovieBytes-k8i	UCxnnSTr3G-qjkFc9qZaGdsQ	ok		Movie Bytes
 @MovieChain-0	UC0_7VO0iaKzTm9SzFMYpg3w	ok		Movie Chain
 @moviedramaexplanation	UCizy3CAoxMynkwsa2PFD2FQ	ok		funnybank
@@ -18074,6 +18118,7 @@ handle	channel_id	status	current_handle	title
 @Mr.Silas1	UCCWBRPAvd3db1Gj4g0fKAhg	ok		Mr. Silas
 @Mr.TheodoreStories	UCr3R1gUPaE5cS-2JPuFbYOw	ok		Mr.TheodoreStories
 @Mr.ThomasStories1	UC-8Bw7Dl7rf_lF-_KwdH0-Q	ok		Mr.ThomasStories
+@mr.tod.d	UCIj5FKfWojV412WojnJHZgQ	ok		Mr. Todd
 @Mr.Twist.2077	UCkOQCslS8BC_zP3Cu5FQKvQ	ok		Mr_Twist
 @Mr.VelMash	UCxFAv-dgmKXwo_nzXViLHbg	ok		Micro Science Explained
 @Mr.VincentStories	UCjHo7xrWrsvVFiV29fKxIgg	ok		Mr.VincentStories
@@ -18083,6 +18128,7 @@ handle	channel_id	status	current_handle	title
 @MR_ARUN_5	UCuo_4xTPJkobNWNNPxshNAg	ok		MR ARUN 5
 @Mr_foxAi	UCfodLHvduejtkgNkGZY18Fg	ok		Mr Fox Ai
 @Mr_SkeletonAI-d6q	UC92hKp-kmL1YSD_KefunDyw	ok		Skeleton AI marvel
+@MrActingTV	UCEYd2XkzBn0PyvWymwOzjtA	ok		Mr. Acting
 @MrAdilART2026	UC1keMrI8rZIvmGhDqlrQqMQ	ok		(Ai-dil Vlogs
 @MrAG_Asian_Guy	UCys0vc-_z3pHMqEPebkdFgg	ok		Mr. AG (Asian Guy)
 @MrAi51214	UCNlkbjOAEkelg30FbZ4pUjA	ok		Mr Ai
@@ -18231,6 +18277,7 @@ handle	channel_id	status	current_handle	title
 @MuqadasSahilkhan	UCbWYhZl5rY3-nvOvaKnqg1g	ok		Muqadas Sahil love
 @MuqiiVerse	UC_h7VGcrmboc79G-eIHpRlQ	ok		MuqiiVerse
 @Murph-b5y	UCdPsd7GBKrHAYn0p-ojZ8Mw	ok		Murph
+@Murrayi29x	UCn7mVgG31TTbgX_hHvAi_1A	ok		Grandpa Murray
 @MurthyFinanceAcademy	UCjna-8tmgFyNjP8gr3YfR0Q	ok		Murthy Finance Academy
 @MurtRGuitar	UCpkoJxTTb_pwRRfgS_6VRwQ	ok		MurtR Guitar
 @musafamusic1	UC2zzV1XpKtCO-oL5nfCX2mw	ok		MUSAFA MUSIC
@@ -18265,6 +18312,7 @@ handle	channel_id	status	current_handle	title
 @MusicCans-007	UCGc8qUcCnXI9eFiqsn1OUMQ	ok		Somewhere in France
 @MusicCatTv	UCTNqh14T0TPyzhvqMVVrcqw	ok		MusicCatTv
 @musicchill5694	UCStddLPOmTZcfc88s7cIApA	ok		Music chill
+@MusicDoggy	UC4Oi54HlWKgMk8p8Kmkqt0Q	ok		AI Music okasaburounosukenoshin
 @MusicDubara	UC-_hR40fGLyM0oECY-6Ogdg	ok		Dubara Music
 @MusicFilm1	UC3OHzK0lBU-w5g0NKyfly4w	ok		Music Film
 @Musicfusion_34	UCY7L8DWtyRruePbzcrC_mow	ok		Music fusion hub
@@ -19046,6 +19094,7 @@ handle	channel_id	status	current_handle	title
 @ninosdejesus-r8w	UCsyj_qISGfjBlNnmMfPW19Q	ok		Niños de Jesús
 @ninosgeniosconmozart	UCBL9fk78k27zEssdFaXHt8A	ok		Niños Genios Con Mozart
 @NintendoDreams	UCU2wee5tu4VXXHCez-3VtaQ	ok		Nintendo Dreams
+@Nintenvana	UCnfKYZl0E1gA-bOBmVKWD6Q	ok		Nintenvana
 @NinthLifePictures-p9c	UCoF4HRofoU0dPe-J0BqlM_g	ok		Ninth Life Pictures
 @Niomagickids	UCw_-92a__oCJp-YnO02UWDg	ok		NIOMAGIC KIDS
 @Niraj_Cinematic_Universe	UCAHpcQ7xHmj_vsEC0mZ71Dg	ok		Niraj Cinematic Universe
@@ -19731,6 +19780,7 @@ handle	channel_id	status	current_handle	title
 @oriondemirage	UCmBvJE-o4417nYEos7KyR9g	ok		Orion
 @OrivonHorizon	UCmlgx9sNjta3XLkkTqcCcjw	ok		Orivon Horizon
 @Oriyalofi	UCDaB22-Kqw_cse0jBBVcikA	ok		Oriya Lofi
+@ORKESTRALMUSIC	UCP9BFw4FQjXrqioylAfsUnQ	ok		ORKESTRAL
 @OrleanStories	UC9whfpskG2faPYQueOVTvoA	ok		OrleanStories
 @Orlestra	UC8uFChOiBSgFiPRrsronXCg	ok		Orlestra
 @OromoAIMusicOfficial	UCWV-8oXczuiPNTocuwc0KvA	ok		Ali birra Remix
@@ -19887,6 +19937,7 @@ handle	channel_id	status	current_handle	title
 @paniepodróżnik	UCWaVrfHDXeE4QGA1QCKwsfQ	ok	@paniepodroznik	Panie Podróżnik
 @Pankajtech2550	UCAN0qVErtSY9XRv4vFfEFdw	ok		Pankaj tech
 @Pankajtechnical28	UCIUSYhliWLmaU2-gghxsrBQ	ok		Pankaj technical 28
+@Panny55	UCjElW7GhJ4x7RfE7Nv-JPiA	ok		Panny
 @PantryFiles	UCyHJZ1kIphlEpsJGvmatIBA	ok		Pantry Files
 @PapaAIStory	UCB_PgCb3Qm6j-y_DHmX0rUQ	ok		Papa AI Story
 @PapaKitty22_US	UCHl-jclKzEakGUYGJ242HWw	ok		Papa Kitty
@@ -20965,6 +21016,7 @@ handle	channel_id	status	current_handle	title
 @PyratheonOfficial	UCbJbv3bhYqnpXOG9CzY7h5g	ok		Pyratheon
 @PâmelaMessias-p5s	UCO4T1X7cYpR56y3rB00uquA	ok	@pamelamessias-p5s	Pâmela Messias
 @Q.TECHSTUDIO		missing		
+@q77e	UCUqRWGc0nUIaZXI6oSZ8n_g	ok		butteR 🧈
 @Qadirvoice.786	UCZG_kRtIXOWn75lQBo2Qe8g	ok		Qadir Voice
 @qafruityasmr	UCOZQkvsjLJA8wZtpp_e_etQ	ok		QA Fruity ASMR
 @Qajarjazz	UC6Xw8Jrwf009nHTV165UuQw	ok		Qajar Jazz
@@ -21023,6 +21075,7 @@ handle	channel_id	status	current_handle	title
 @QUEENROBLOXabc	UCsdqoaX6aD9BW8q1vnTH-pA	ok		QUEEN ROBLOX
 @QueenTales-s8o	UCnunYU3V0O4OjZjTaNX7ddA	ok		Queen Tales
 @QueerFolktale	UCywb5MULSxxyg7vEFLrnv6A	ok		Queer Folktales
+@Quency-w2o	UC1v8NaJDIwG0dwkcq4FKw_w	ok		Quency
 @QuickAfricanTales	UCgBFYUaUf-ubb8KU3QPHOiA	ok		Quick African Tales
 @quickai-f3q	UClHmbAAaB35XqhQGpc-VTQQ	ok		Quick AI..
 @QuickAIClips27	UCcpAs98YaWkqxL4tDu4NZXA	ok		QuickAI Clips
@@ -21383,6 +21436,7 @@ handle	channel_id	status	current_handle	title
 @RealDrip7	UC6iXrBuF_knRmbX7YTOC-fw	ok		RealDrip
 @RealeRachegeschichten	UCpetkR9bvhAH15nQcYT_Kug	ok		Reale Rachegeschichten
 @RealEstateDramaStories	UCfJsLE_PJh5gRxYlLQ7n9Cw	ok		Real Estate Drama Stories
+@RealExplainerVault	UC2Uinq_jY5dZaEaLVLQQVug	ok		Explainer Vault
 @realfacadify	UCXZBKx899dX1lSNL3Mzy1TQ	ok		Facadify
 @realfactsquotes2969	UC4aSRZ3bUbT2R01TEbA36ow	ok		Realfacts Quotes
 @RealFamilySecretsHQ	UCT8eip-w49965cswOH7n2zg	ok		Real Family Secrets
@@ -22149,6 +22203,7 @@ handle	channel_id	status	current_handle	title
 @RockOfAgesWorship	UCF6fUP4NBgR-jbFoWhp3BZQ	ok		𝐑𝐨𝐜𝐤 𝐨𝐟 𝐀𝐠𝐞𝐬 𝐖𝐨𝐫𝐬𝐡𝐢𝐩
 @RockOrigins.x	UChqDhDNt5ZTKdINwgswODeQ	ok		Rock Origins
 @rockpapersong	UCHXjx52m09LHWEzfu9sET_A	ok		ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤЮ
+@RockPulse-v9u	UCu78lMKG-aviWR6XjScUIow	ok		Rock Pulse
 @RockRomance80s	UC7RYpY-iKmyHnZN369tpL5w	ok		Rock Romance 80s
 @RockStation80s	UCIl9atxwE2LYcK0zrDKbquQ	ok		Rock Station 80s
 @RockverseAI	UCkavrkg3C7Vlfu8WgzvMXTg	ok		Rockverse AI
@@ -22185,6 +22240,7 @@ handle	channel_id	status	current_handle	title
 @RomanticPrints	UCJRDN21ihxz9W8WVGqnfPnA	ok		Romantic Prints
 @RomArtemius	UCBQkVvs_z9VLz-ZPSWxbxEQ	ok		RomArtemius records
 @romaticpianomusic249	UCyBbHsWiovEXB_QVbNwugsg	ok		Romatic Piano Music
+@romatoonwars	UCs8rI3fl9UeJNtCJmIftLjA	ok		Roma Toon Wars
 @romedayzero	UCpkl1uO7e6JCMQrZED-iJ9g	ok		Rome Day Zero
 @RomeoEpicAnimeMusic	UC_-bApyIomeE2C5L7AGq3Sw	ok		Romeo
 @Romeomaroon	UCU76GWhmR4kX5MbMpMbEAMQ	ok		Romeo Studios
@@ -22268,7 +22324,6 @@ handle	channel_id	status	current_handle	title
 @royaltales8998	UCe90fMVOp3W0nJCXV5FXsrw	ok		Royal Tales
 @RoyalUnveiled1	UCz-DQStlLMBOTMGOlDoahlw	ok		Royal Unveiled
 @RoyalVowTales	UC3zjiXi3y4l8L3l0nVPJ54A	ok		Royal Vow Tales
-@RoyalWhispersStories		missing		
 @Royce-j9o	UC_sOtjzb92tMClEOOwZCtLw	ok		Fruit Drama Astores
 @rozwiazaniaprzetrwania	UC8ZxFUQruQYDhQjp6F7BVkQ	ok		Prymitywne rozwiązania przetrwania
 @rozwiązaniaprzetrwania	UC8ZxFUQruQYDhQjp6F7BVkQ	ok		Prymitywne rozwiązania przetrwania
@@ -22999,6 +23054,7 @@ handle	channel_id	status	current_handle	title
 @ShadowsAndSmiles-AI	UCQYXf4tu9w6eqaCH5fjwOeA	ok		Shadows & Smiles
 @ShadowSEALArchives	UCg-3z78D_khxb7jMcX5orhg	ok		Shadow SEAL Archives
 @ShadowSelfRevealed	UCBAdS67Y6Z1sb4aqASECj4A	ok		Shadow Self Revealed
+@Shadowsof_War	UClGH-10B7axr2Cx5ZPyDhlQ	ok		Shadows of War
 @shadowsofthedungeons	UCXDuLrXK66I1H4gdAggkxNQ	ok		Shadows of the Dungeons
 @Shadowsofwar-n1z	UC91VZNVJVoxrjwmjLiJP-AA	ok		Shadows of War
 @ShadowsOfWar3	UCGuQv6JfxX0RqzW4IzLezAA	ok		Shadows of War
@@ -23074,6 +23130,7 @@ handle	channel_id	status	current_handle	title
 @ShelleDiaryStories-z5b	UCpmZ56OaQ9YsTbsE62QhvvA	ok		Shelle Diary Stories
 @ShelterStories007	UCuDzksIRB6bQTxo5KaB25AQ	ok		Shelter Stories
 @ShelterVanta	UCWuPW4cf6dDf3tbSsN2RW3g	ok		ShelterVanta
+@shen_key_music	UCGtQfhdk_KbVWfO0_2360-A	ok		Shen Key
 @Shenanigans_AI	UCwyAv_qokzYgL1O5JIdBjTA	ok		ShenanigansAI
 @ShengshiDrama	UC_GcrznCXn6b-i1Y7DOn54A	ok		盛世短剧
 @shenharmony2798	UCDxWiMJuvZKtldBkekNG5Zw	ok		Shen Harmony
@@ -23285,6 +23342,7 @@ handle	channel_id	status	current_handle	title
 @SilentVerdict-h1l	UCJkMhW2kJWNbDSVUYjeYoCQ	ok		Silent Verdict
 @SilentWonderpeak	UCagaLvJlYDKYzhljWmZlr6g	ok		Silent Wonder peak
 @sileoworld	UCYuz560Zh_3jq5RFwglM02A	ok		SILEO WORLD
+@Silicon_Decay	UCqdRmVab2FVmIECSECDdpPw	ok		Silicon Decay
 @SiliconDreamsASMR	UC708ki3yZh6sCc9Y-xAgYAA	ok		Silicon Dreams ASMR
 @SiliconMinds-789	UCG2pcxYNY71HfYwr-IeSH-A	ok		Silicon Minds
 @Siliconsatire	UCTJC3ez-RNTFIkSxc_pC2cA	ok		Silicon Satire
@@ -23349,6 +23407,7 @@ handle	channel_id	status	current_handle	title
 @Simplify364	UCZRxeUJRB7i9skhk6tpvffw	ok		Simplify
 @SimplifyTechh1		missing		
 @simply-explain-1	UCOdisboMCk5mooz8REXd7NQ	ok		SimplyExplain
+@simplyaishow	UCFFGbAmHdA0gMoLTKcw_ymg	ok		Simply AI
 @SIMPLYAPY	UC6fpOOK3cYRlq2nm3BCPohA	ok		SIMPLYAPY
 @SimplyAStickman	UC0jMMV_htBKSFM25KIAbgkQ	ok		Simply A Stickman
 @simplymoney-s8p	UC7vVZwrolAwcMiWYV9FIL-A	ok		Tiny World
@@ -23746,8 +23805,10 @@ handle	channel_id	status	current_handle	title
 @solouncovered	UCzJ2ZoPTBj2rrRm6soJI6rQ	ok		SOLO Uncovered
 @solovibezlatestjam780	UCLeyX2uJqXCjgbI_qXmfRHg	ok		SOLO VIBEZ ENTERTAINMENT
 @SolowestJourney-r7c	UCwYLYtkKs4YzkKsu32DR35Q	ok		Solo West Journey
+@Solstice-vt5tq	UCFrVTmFG4ePx6m_btG4p6HA	ok		PrimalSolstice
 @SolusAICinema	UCpCR33MgM68SDg-LgRVSCGw	ok		Solus AI Cinema
 @SolusMind	UCx8pOyUi0-59927jLHffWUQ	ok		Solus Mind
+@Solvanae	UCurKEfGHqj_hjjjieSwnPPg	ok		The Solvanae
 @SomaticMediaLab	UCRNkdpFvO2GpaSIZub4IMig	ok		SomaticMediaLab
 @SomberTalesAI	UCR1yb_XKilE1fbK6K0p0rlQ	ok		Somber Tales AI
 @SombrasdelaHistoria77	UCjNur5y19geAy_03Q3n6c9Q	ok		Sombras de la Historia
@@ -23809,6 +23870,7 @@ handle	channel_id	status	current_handle	title
 @sonybabatv	UCydmoNRz9UYjTkwGRBuPL1w	ok		Sony Baba tv
 @sonybeatzrecords	UCADFMBuQrLlkEE61cemDGqw	ok		sonybeatz records
 @SOONofficials	UClDHUEwvyg2SfyoqKrHPpJg	ok		SOON CHANNEL
+@SoopyChillBeats	UCML5kD_rPdi9KL46kGtBgTA	ok		Soopy Chill Beats
 @SoothifyLab	UCZga_3Lti4PrBC_pNS0xBeQ	ok		Soothify Lab
 @soothingasmr-j3n	UCUz9LAWowpzWlsj1u0KiZxg	ok		Soothing ASMR
 @SoothingDreamASMRAI	UCxqC_6LooqVWqOufV5FXTqQ	ok		Soothing Dream ASMR AI
@@ -24073,6 +24135,7 @@ handle	channel_id	status	current_handle	title
 @SPSoundsChill36	UCO8lCv6NE1-8tCmM8VsGNiA	ok		SP Sounds Chill
 @SPUN_AI	UCYgmekFkqvJ67p2QB94TsCQ	ok		SPUN AI Powered Inbox
 @SpyderPaul442	UCvYQQZ6occDTj90C3DlJrDQ	ok		Spyder Paul
+@Squarelings	UC_BtywQU-gdY8U4l0W4ViAg	ok		Squarelings
 @SquidGameSlimeASMR	UCdeAHVeABoZ7HGHF0eB6GYA	ok		Squid Game ASMR
 @Squintist	UCV269T352IlIFMot1Sqx1BA	ok		Squintist
 @SquirrelPablo	UC06hSL_HzdwPisgmKjlT_vQ	ok		Squirrel Pablo's Adventures
@@ -24182,7 +24245,6 @@ handle	channel_id	status	current_handle	title
 @Stellar_Verdict	UCtZPABiGBQZC8UCpJ5_xnnQ	ok		Stellar Verdict
 @StellarboundHFYSciFi	UCLVKf_cCdjP1EZHexppS7Xg	ok		Stellarbound HFY
 @stellarcanvasai	UC-z93p1smZq-WysnG6aY8BA	ok		Stellar Canvas Studios
-@StellarCornerFilms		missing		
 @stellarcruisemusic	UC29ydnpCEKKmYjy6nPMq8sw	ok		stellar cruise
 @StellarDocumentary	UCNSbgDRlAHM55EXMxEKPrmg	ok		Stellar
 @StellarHumanNarratives8497	UCu3RiHHhxGklP943gzbftMQ	ok		StellarHuman Narratives
@@ -24207,6 +24269,7 @@ handle	channel_id	status	current_handle	title
 @SteviesStories	UCzphwJyYHKcmkPTcJfnULqg	ok		Historyishhhh
 @StewsGamingCorner-x4v	UCci9qhrLrAb1oodORE_t0Gw	ok		Stew's Gaming Corner
 @Stick_nic	UCYUWFpnYrjR_C7Cu5gFNKMw	ok		Sticknic
+@StickAndStoneHD	UCNfxomqMNM2Z7Jw8Knd2QBg	ok		Stick & Stone
 @stickcomedytime	UCNnvKVAvBzBEwrnwbha2m1Q	ok		Stick Comedy Time
 @stickfinance101	UCRKWy7TIu-Od5EA_yyc3Zxg	ok		Stick Finance
 @StickHistory-2641	UCsdE27SBYI9wwazwp4z78Sg	ok		Stick History
@@ -24510,6 +24573,7 @@ handle	channel_id	status	current_handle	title
 @streamtone	UCE-Gb3bWmKpRI8RLDtIcBIQ	ok		Stream Tone
 @StreamVaultChannel	UCdaTJeLlPBvAB182fKzAuww	ok		StreamVault
 @StreatPawStories	UCghdu57K400JCtU1ljvr43Q	ok		StreatPaw Stories
+@Streetauto-g4v	UCDBchtbbZkNtc2LYsT6W8qA	ok		STREET AUTO
 @StreetBeatFactory	UCtbb_bOU3vMIJFKg8wzSBvA	ok		Street Beat Factory
 @StreetCameraStories	UCEWPc5y-5YhdzQjI24ghtTA	ok		Street Cam Stories
 @streetjustice-f2u		missing		
@@ -24701,6 +24765,7 @@ handle	channel_id	status	current_handle	title
 @SurfGeier	UCfs_BJDvl62nmOi2lY4dhZw	ok		SurfGeier
 @surjomusicaluniverse-w6j	UCHY8asXMGKTWQkEBwydpBcA	ok		Surjo Musical Universe
 @SURLEY_STORIES	UC8Vdo2M-Onrt_QfHL8UVBRg	ok		SURLEY STORIES
+@SurmaAkter-v8i	UC7LdkhImZQMgjKJcwbVIiag	ok		Surma Akter
 @SurrealAIArt	UCpSoiXN2gf66dkhk5WDy0pg	ok		Surreal AI
 @SurrealAiMusicLab	UCO7G-nmRmVqvZtVOJnpVLZQ	ok		Surreal AI Music Lab
 @SurrealDreamy	UChqUZMfSQ6gxalDf_LQ_lzA	ok		Surreal Dreamy
@@ -24834,6 +24899,7 @@ handle	channel_id	status	current_handle	title
 @SyntheticImaginarium	UCg4RwAx5AOzeJqU9JC0shrw	ok		Synthetic Imaginarium
 @synthetickayfabe	UCy8yGE88u4OUE8csNRXDGcA	ok		Synthetic Kayfabe
 @syntheticsanctuary	UCuEEAw2hPQIo2sYUbAUb7nQ	ok		Synthetic Sanctuary
+@SyntheticShanties	UCNbaYQINGAaowZ8jBWrH3_A	ok		Synthetic Shanties
 @SyntheticThinker_exe	UCaOF2Tsw6aO4LNYyJr-8dVQ	ok		SyntheticThinker_exe
 @Synthezik	UCCCUtJIbzyOi3-wg4hZKmFg	ok		Synthezik
 @SynthiaCat-AI	UCHZV_IP6xT2evS_cRuZqhOg	ok		Synthia Cat
@@ -25030,7 +25096,6 @@ handle	channel_id	status	current_handle	title
 @talesbywaveandhistory	UCSnQeXYGMzRhuNZAHuriHzQ	ok		Tales By Wave and history
 @TalesbyZagocha	UCtJhPUEonyHQyq-u8Rfik0A	ok		Tales by Zagocha
 @TalesbyZainab3	UCKBnoNyZ82Rw9wbai3eK3FQ	ok		Tales by Zainab
-@taleschronicles26	UC8qBLa1wUbGkL83kN51O4Kw	ok	@greatbelieve2021	Tales Chronicles
 @TalesfromAfricaStories	UCsjKPN9L1FDyn1T2QR4wXtg	ok		Tales from Africa
 @TalesfromAI404	UCR765G4qus8LfjqPIeHZNhQ	ok		AI
 @TalesFromForever	UC-024vZvHjHqpPXqiiL8j8g	ok		Tales From Forever
@@ -25536,6 +25601,7 @@ handle	channel_id	status	current_handle	title
 @TheAIRequiem	UC-A735ZSlbCWbNhbzkxx7DQ	ok		The AI Requiem
 @theairgap	UC2KAXe_DI9RyvNzEjTJ1D5A	ok		AIRGAP
 @TheAiSeer-b7w	UC-seWwOR-ODdMSi-LOtCTlQ	ok		The Ai Seer
+@TheAISignalTV	UC-s2G0VVaMoqQ0OyYpugsBA	ok		The AI Signal
 @TheAISloth	UCtKZtnZFzQ9AYbw1CC6fNxg	ok		AI Sloth
 @theaistorymaker	UCH2nrXvBoT6zhrc2yJ9b8vQ	ok		The AI Story Maker
 @TheAITales	UCBWMWsP6x6_DTQrUclNl1dA	ok		The AI tales
@@ -25691,6 +25757,7 @@ handle	channel_id	status	current_handle	title
 @TheCarLux	UCxfI-yXzSrq4YWpfVT8ck1g	ok		The CarLux
 @thecarpulseusa	UCkXO3H3eKXPrtrWCwVwB7ag	ok		The Car Pulse USA
 @TheCarReviewHub54	UCr4W08TcM2NBR8n5zNfq3Yw	ok		The Car Review Hub
+@TheCartoonHabit	UCah0nI1W6MlFe6xPiSZe4Dw	ok		The Cartoon Habit
 @thecarvingstudio7	UC1VQvCaFjjvnGeSgtWF7Ncg	ok		The Carving Studio
 @thecatbonds	UCpg52OgmEBfo5apLjlqPsfw	ok		The Cat Bonds
 @thecatfamilyworld	UCfF8vFiTNKU6EuryD43nnqQ	ok		The Cat Family World
@@ -25803,6 +25870,7 @@ handle	channel_id	status	current_handle	title
 @TheDigitalTemptation	UCHXGwI2U3o8XddbrqYse2Cw	ok		TheDigitalTemptation
 @TheDigitalVassal	UCxkbcqx5K_hWlrKwUCLg0vw	ok		The Digital Vassal
 @TheDimonAnalysis-i1v	UCgoZZOVmLWmiXY2IXzCYm7Q	ok		The Dimon Analysis
+@TheDivineCall-g5p	UC3YsgW0hQi209mz95QcINXg	ok		The Divine Call
 @TheDivineInterpreter	UCD8giajmsXvbjiCQNMCOzSg	ok		The Divine Interpreter
 @THEDMSBAND	UCWiAsjMB6bKhtt4aGwpQRsQ	ok		DMS BAND (ORIGINAL UPBUILDING SONGS)
 @TheDNAFiles123	UC4pN0bEQlLgxnnJ8EV6rrXg	ok		The DNA Files
@@ -25884,7 +25952,6 @@ handle	channel_id	status	current_handle	title
 @TheExtreme-Edge	UCr17eO9Sbr1Jh1jcGexcXQA	ok		eXtreme
 @TheFacelessAiProject	UCu9e7o1AZy8yjf3a-okYWTg	ok		The Faceless AI Project
 @TheFactLine-e5y	UCW3Nb7RSkQzltDUCzy0dvog	ok		The Fact Line
-@TheFactoran		missing		
 @TheFactumGhost	UCxZK_QOk42cmxqC97a20c9g	ok		TheFactumGhost
 @TheFallOfNations	UC6nMgl1_XBgbr2ufa4UOZDw	ok		Fall of Nations
 @TheFalloutLeo	UC2E1wKV2p3QuuT5P2u-FAgg	ok		Fallout Leo
@@ -26471,6 +26538,7 @@ handle	channel_id	status	current_handle	title
 @TheRisingMindTales-l4q	UCR7rf5BXeq1l9IlghyTLqDg	ok		The Rising Mind Tales
 @TheRiversideTavern	UC1bg7mMo8sgnWGk9Cg-VMaQ	ok		The Riverside Tavern
 @thermalrootcause	UC0aVzvrWbGAjH_YNcsPK-BQ	ok		Thermal Root Cause
+@TheRnBMood	UCo-mmJoQmvSwBw_tqVaf3Wg	ok		The RnB Mood
 @theroboticsfrontier	UChUfGxwXpmNPZCH4vgxFYOw	ok		The Robotics Frontier
 @TheRockefellerVault	UCrLCPJLpsr13OaQLh_3CK4A	ok		The Rockefeller vault
 @TheRogerPhysics	UC3VJGcPDDNaUae_KGoN5D-Q	ok		The Roger Physics
@@ -26583,6 +26651,7 @@ handle	channel_id	status	current_handle	title
 @thesowers-band	UCTioloofNUUrIVJqgXJdIGw	ok		The Sowers
 @TheSpaceFrontier-r3s	UCQc3jZy2hHP6QtNpMLyi9gA	ok		The Space Frontier
 @TheSpaceRaceYT	UCeMcDx6-rOq_RlKSPehk2tQ	ok		The Space Race
+@TheSpeakingReset	UC-iExrTdet3zmqj85OcePgA	ok		The Speaking Reset
 @TheSplitTalks	UCmMX6peCy3b8SJjHltQasXA	ok		Thesplittalks
 @TheSpookyTeller	UCOJSsJ71Yhy5OkmILUWMe2Q	ok		The Spooky Teller
 @thesproutlabb	UCyYv3h9LMSNcKORi5zj6_wA	ok		The Sprout Lab
@@ -26691,8 +26760,8 @@ handle	channel_id	status	current_handle	title
 @theunrelentingshow	UCWtIko1Z11VcOTFjXxgSPpg	ok		Unrelenting
 @TheUnsaid02	UCVLKrkqa2bCTGMAQ5PuuOMQ	ok		The Unsaid
 @TheUnseen-us4ph	UCIejG_j_cqMSvzdbt6JZrpA	ok		The Unseen
+@theunseenchange	UCGEgBtUxuLDubUoGlGoMK9A	ok		The Unseen Change
 @theunseenlink67	UCda4kTkWD4H4qM-htg54e3Q	ok		The unseen link
-@TheUnseenTruth-z1p		missing		
 @theuntoldchapter-g3u	UCbfiniVExTELqMboL3RzIZg	ok		The Untold Chapter
 @TheUntoldJimiHendrixStories	UCJBYjzvZTfSL01zpLxP3TvA	ok		The Untold Jimi Hendrix Stories
 @TheUntoldValor	UCIdxO7CXQKdPLI1aakYuPHQ	ok		The Untold Valor
@@ -26731,6 +26800,7 @@ handle	channel_id	status	current_handle	title
 @TheWealthArchitect-US	UC1OUxEDah1y-a8OqvhvnigA	ok		The Wealth Architect
 @TheWealthBlueprint-p1h	UC5PIfQzvQ0fQf-8vToeQdSw	ok		O Lado Oculto
 @TheWealthContinuum	UCaJrVBIOwHkYiK1nTB1K9rw	ok		The Wealth Continuum
+@TheWealthFilesus	UCagN7lIgjArYqyoMxM13I0A	ok		The Wealth Files
 @TheWealthForecast	UCczrNpkWkYWN4abkE4x6whw	ok		The Wealth Forecast
 @TheWealthPrinciple26	UCBK0dRrYS7K9MW47gmwKLww	ok		THE WEALTH PRINCIPLE
 @TheWealthRecordsus	UCEUhj2_PuQaFUZBn3KjQBOg	ok		The Wealth Records
@@ -27343,6 +27413,7 @@ handle	channel_id	status	current_handle	title
 @TOWFN	UCGYwtz9ptnnr4xmRUlLxb3Q	ok		The Oneway Film Network
 @ToxicBibleFutureAI	UC6TkSWXdMrediQV39KjAu3A	ok		Toxic Bible Future AI
 @ToxicHOA	UCp23xJXiIT9t4PslqVtPVOQ	ok		Toxic HOA
+@ToxicprojekRNB	UCdyxi0ZmLpAZwuBVpXZHh5g	ok		Toxicprojek RNB
 @ToxicSugarMusicChannel	UCiapCTS7ZGp4iYXkafNzRYQ	ok		Toxic Sugar Music Channel
 @toy_familiy	UCPEDz9olZ051jls6zmEr_4Q	ok		Toy_Family
 @Toyinthecreator	UC-Q3ZZ0qvZwrJFecphZflXw	ok		🌸Toyin's Diary🌸
@@ -27498,6 +27569,7 @@ handle	channel_id	status	current_handle	title
 @TruePayback-j4h	UCAOhoRKmjQiOG2FKJcLnp3Q	ok		True Payback
 @TruePulse247TV	UCGMRHuwPezfNWLzd9DGcK8Q	ok		TruePulse Narratives TV
 @TrueRealms01	UCJMcEP20Lalkc9cdka85w0A	ok		True Realms
+@TrueRomanceStories-c3t	UCddG4__x9kzwrUaXjLOMuKw	ok		True Romance Stories
 @TrueSilentStories4real	UCMJRUDBVthE_VWJyO8rqUpg	ok		True Silent Stories
 @TrueSingleDadStories	UCNHz4XqgsKn4KRCBBEhXC6Q	ok		True Single Dad
 @TrueskinCinema	UCTGiAtqOosbAFkaFO65_o9Q	ok		Trueskin Cinema | Short Movies
@@ -27684,6 +27756,7 @@ handle	channel_id	status	current_handle	title
 @ukworl	UC58a29csm-Pb5pu3qWXWYEQ	ok		uk s world
 @uldwifa	UCTRrNjTO0LYtK8FFvmsZknw	ok		My Little Friend🧸
 @ulfi_love	UCJgzQGNlyrSDOc7wK9UommA	ok		Ulfi Love
+@ulg-y	UC-o3XZGeAAOkRfdKdSEBVSA	ok		ulg
 @Ulqen	UCOJCn1g-vlUpgJHqQ9_fPaw	ok		Ulqen
 @ultimatediscovery	UC3hQxO2yb4TjIar90ccXjfQ	ok		The Ultimate Discovery
 @UltimateFactory-u7b	UCLHCwuhDq9suwRNM1ka8BhA	ok		Ultimate Factory
@@ -27717,6 +27790,7 @@ handle	channel_id	status	current_handle	title
 @Unbeviewlable	UCy4IpyJjyJE35vRw2RDo_aA	ok		Unbeviewlable
 @UnbotheredCatJazz	UC_zebPC4BWcZr98GZcSSVPQ	ok		Unbothered Cat Jazz
 @UnboundTales1	UCB6s6WQOUTckstixlkTsbEQ	ok		Unbound Tales
+@UNBOXEDNEWS-w9j	UCpM7LQO9rVD-22fMv395AOA	ok		UNBOXED Media
 @UnboxForgeAI	UCE3RkcejZMq1S5XesOCHVKQ	ok		UnboxForge AI
 @UnbreakableandArmed	UCvUl4OGaUTfzbYnF_7gJugw	ok		Unbreakable & Armed
 @UnbuiltWorld2	UCstmnUY4kXUR0Djz2DBGSuA	ok		Unbuilt World
@@ -27773,6 +27847,7 @@ handle	channel_id	status	current_handle	title
 @UnfoldsStoryHT	UC8bvYJDZ5TQyE6sR22d9_zA	ok		Unfolds Story HT
 @Unforeseentales-o5m	UCPFFYvIbs0Mk1IU4rm4_nsA	ok		Unforeseen tales
 @UnforgivingEarth4K	UCwUFhg8KUfGEROq3GluR5cA	ok		Unforgiving Earth
+@UnfoundedMedia	UC7xdUus7Y_H-bqCBCkxgauA	ok		UnfoundedMedia
 @UnfuckEverythingYT	UCvxPZUIEE6KWq--H0tsSqtw	ok		Unf*ck Everything
 @UNGGAHKONTENOFFICIAL	UCsAZQiHg0KZSR_b5URRK-rw	ok		UNGGAH KONTEN OFFICIAL
 @UnheardRawStories	UCeHH8oMvsZRIdgRX3SnVhAw	ok		Unheard Raw Stories
@@ -27950,6 +28025,7 @@ handle	channel_id	status	current_handle	title
 @UsaCarUpdate44	UCtEnydH2vmXKVf-b8ib0n-g	ok		Usa Car Update
 @usachannel01__1	UCw2JX5D-Ky-zjSGgDxg_fyg	ok		Usa Ai
 @USAClimateReports	UCVIAaVA1d3ut-5vh_7KjU9A	ok		USA Climate Reports
+@USACNL-s1r	UC4y0JFI1z984LcsvIy4tObg	ok		USA CNL — Vehicle Battle Zone
 @USADaily-f1q123	UCmTZqyVCk0V71fTFBRP7DNg	ok		USA Daily
 @usadailyallupdate	UCi9geLP3GH-10efxuzvqmPg	ok		USA Daily Update
 @UsadocumentaryHub771	UCVn9ZGAb-MGRz98bjdEYnOg	ok		Usa documentary Hub 771
@@ -28043,6 +28119,7 @@ handle	channel_id	status	current_handle	title
 @vaka.belgesel	UCUGxqvMhllZq3BUbNYviC-g	ok		vak'a
 @Vale.Kinetic	UCi5ucI_jdbxEE5QyliXKUPg	ok		Vale Kinetic
 @ValecrossStudio	UC6ERdyEa_VAbUCMyfsKvUJw	ok		Christopher Caraway’s Valecross Studio
+@valelapena2	UCvQfFbUlfrG6hQ4Coh4u6Gg	ok		¿Vale la Pena?
 @valentinasooofficial	UC7NJJji--hLA2Pg2c7bCDJg	ok		Valentina Soo | 明燕疗心 Clarity Reset Method
 @ValeriadelAlba	UC7bbVaCLWZmBdFWofM9r4Zw	ok		Valeria del Alba
 @Valerin-u9h	UC4MXoyAan52iN_Zkmk4TfvQ	ok		Valerin Luna
@@ -28366,6 +28443,7 @@ handle	channel_id	status	current_handle	title
 @VietnamUnheard	UCxRXtjab5t79_hI4D1zMGkw	ok		Vietnam Unheard
 @VietnamWarChronicles1	UCrTgupt1kU8SxC9hepWeXMQ	ok		VietnamChronicles
 @VietnamWarExplained	UCfLYMBhgzYSzrVE2lIb8lDA	ok		Vietnam War Explained
+@VietnamWarUncoveredChannel	UCGbasG5TnN6CzU_Te9rpM8w	ok		Vietnam War Uncovered
 @viewtechid	UC2bCCKqr3Fj4Unyk_ri1buA	ok		Viewtech ID
 @vigowmason	UClcr8R9h-j9b_2EeEIAI_8A	ok		Vigow mason
 @Vihannah-AIART	UCqM1J6bXg5sqPZMZsmvxNWg	ok		Vihannah
@@ -28638,6 +28716,7 @@ handle	channel_id	status	current_handle	title
 @Voixai	UCMMeXdIic0UUeagYWj8PzoA	ok		Voixai
 @VOLTAGE_WORKS	UCZZpcga5yk46dfqn0KhnwnQ	ok		VOLTAGE WORKS
 @voltones	UCvL1B3QCtkVqbi-6HNwE-CQ	ok		vol Tones
+@VoltPress0	UCrY_blbBTDYtvU2u5rH8biA	ok		VoltPress
 @volttech-ai	UCYCuuoIaUvzHxceza4D03Nw	ok		Root Cause
 @VoltVerse-x4h	UCEdeLT3BQLeWt9eNvLDn26g	ok		Volt Verse
 @VoltVibeSK	UC_Dn6GpYI8OFG6kZKbw_eTQ	ok		VoltVibe SK
@@ -28744,6 +28823,7 @@ handle	channel_id	status	current_handle	title
 @WarBreedHFY	UCk8_tbhYUrMSj6b054V5tWQ	ok		WarBreed HFY
 @WarCamp45	UClfxlMRJgQZvjaEPNSY-jSQ	ok		WarCamp
 @warchronicle1878	UCokuUwoymhRkrZdeNRgkZPg	ok		WarChronicle
+@warcraftexplainer	UCrblEhy6w_zZXA8s3KoXgVA	ok		Warcraft Explainer
 @WarcraftMoviesAI	UC9Hs8fXPLqdzslhN3i2IONQ	ok		Warcraft Movies AI
 @WarDeadeye	UCq9KLL6iDapjKGsUf7MwH2Q	ok		War Deadeye
 @WardenCinematics	UCWUl9TcPyVEwV3K5tvwVJjg	ok		Warden Cinematics
@@ -29180,6 +29260,7 @@ handle	channel_id	status	current_handle	title
 @Wisest-Quotes	UCYrHTRvymer9eHTc498Vwow	ok		Wise Quotes
 @wisetechnexus	UCncXOosuudsd6Cn8Qf5k5WA	ok		Wisetech Nexus
 @wishstudio05	UCaPic6GK445jBt5oQ8pmIEg	ok		WISH STUDIO 05
+@Wissio_YT	UCnj-_-Lt_tqWq5jR5GEegsA	ok		Wissio
 @witagentai	UCmIk3l7VELRK0gABk7xkBJw	ok		Wit AI
 @withaistories	UC2pxRvSDHxh2phSgAiAWXoQ	ok		with Ai Stories
 @witzmonolog121	UC67MYYInRdstCDlyUnXh8BQ	ok		WitzMonolog
@@ -29957,7 +30038,6 @@ handle	channel_id	status	current_handle	title
 @zoozingstories	UCziPr1yByZMbcjy1TKPaE-w	ok		ZooZing Stories
 @zoozleworld	UChFs6t9iB1yv0X8fuKtNIvA	ok		Zoozle
 @ZopaAI	UCb5c6FR9CwsnkwrxXnrgN2g	ok		Zopa AI Music
-@ZoraChroniclesAudio		missing		
 @ZoraEverly.u	UCEKxVdpFg-kc-HKBztz-JNw	ok		Zora Everly
 @ZoraHayesStudio	UC-ZHa6qQeVL0uEHhowwVZ0g	ok		Zora Hayes Studio
 @Zorgo33	UCGawx90uMtYlhA_O6UoW-Gw	ok		Zorgo 33
@@ -30042,7 +30122,6 @@ handle	channel_id	status	current_handle	title
 @عزربحي	UCfS3ayHXitNHFYLu3uLWozA	ok		ابو العز ٢ _ Abu Al-Ezz 2
 @දැනමලෙකය01	UCMuvWyi7J8Jx1LC8Ak2ISRw	ok		CineToon
 @ෆzarah-leecutiechanෆ	UCe9avfFKW-ZxVip0NxpnSiw	ok		#°~Zarah-lee
-@เปาฮอรววหนง		missing		
 @ẾchBietTuot-g4n	UCXxWmHx866lKiQjtOgEKGPA	ok	@echbiettuot-g4n	Ếch Biết Tuốt
 @あたらくしあAI_music	UCEX_9o0hrYTAnqjsKpL9f3g	ok		Atarakushia Ch. あたらくしあ
 @おにおん-h2r	UC0ADJTj2Sep7vmgO9lVVGKA	ok		おにおん
@@ -30172,6 +30251,7 @@ handle	channel_id	status	current_handle	title
 @발로차기	UCY2fBVqjDdnx1M4lTUBRJCg	ok		발로차기
 @밤의음악실-w3m	UCmzqKcmYXPfXVlGFqdM98ZA	ok		밤의 음악실
 @생활미용꿀팁	UCq4tEWbUSC6n05T-2TZPm9g	ok		생활미용 꿀팁
+@셀찐픽	UCHMj_XArzchzA_CWVwbukqQ	ok		셀찐픽
 @셀픽랩-z4i	UCZuvRfDzkOJgKyHubT7M_Jg	ok		셀픽랩
 @소래야담	UCEa-jZ6AmNZ9ZH82ADUXRwg	ok		소래야담
 @소소한작업실-z8d	UCU46ob7EWX1aHkM4VZIf1dw	ok		소소한작업실
