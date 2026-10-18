@@ -1,12 +1,12 @@
 {
   "counts": {
-    "blocklist": 30195,
+    "blocklist": 30191,
     "warnlist": 1065
   },
   "quota": {
     "day": "2026-10-17",
-    "used": 510
+    "used": 540
   },
   "rechecked": "2026-10-17",
-  "source_commit": "a5ef83df3b65622ef649935f945ae771785b4d22"
+  "source_commit": "16f0655e4eb6b1f9de53cafaecafcdd5d0d79134"
 }
