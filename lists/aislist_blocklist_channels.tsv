@@ -1,9 +1,9 @@
 ! AiSList blocklist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/8d04b48ba6c745cddce22e59c51bdd9d05f5ed53/AiSList/aislist_blocklist.txt
+! Source: https://github.com/Override92/AiSList/blob/aea8c5abc2a09a77854564c46f301919e839b7c0/AiSList/aislist_blocklist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: channel ID, a tab, the channel's name on YouTube as of the last check; lines starting with ! are comments
-! Names: 34723 channels
+! Names: 35010 channels
 UC---VSS6clgbT9mXRPqzzZA	Demon Hunters AI
 UC--1M2MGDAWI1EBcEzWbKJQ	Second Chance Romance Tales
 UC--4XQRRSgqOI1e0Zmj94Rg	here_is_joy
@@ -53,6 +53,7 @@ UC-47YH1aM9E3905MjMg5OCQ	DIY & Crafts
 UC-497x0LG8wL7s5k2hey_tA	Global Economy Explained
 UC-4eN1msQQ1mdFnvT_0nh5g	Rio Marks Finance
 UC-4hm4glI8d_bs6uNJhjdOQ	SobStories
+UC-4jEQ_P3zxF88uN6qfQvsQ	The Gilded Shadows
 UC-4qpzVRls8kos4ywHDjEqA	Ai Alpha
 UC-50G3bpjjsdpAXhAcd3JAw	Canadian War Secrets
 UC-53gMKt6Ncr-dp3XzMbOQQ	Western Tales
@@ -279,6 +280,7 @@ UC-UDB8pHcKEQQTaVzDz129w	BackyardBanditsTV
 UC-UmAdqaS9_kdxdvt-yMm3g	What if Anime
 UC-UuALZggu1HUptnl6T6Mfw	Popping Animals AI
 UC-UyI1OGAVhs07mzzAqROfQ	Nova Stream
+UC-V2K13AvX0HXZ7d1lsZabQ	POV Master
 UC-VJfdJxMqbTcB9yVDEwfcQ	MIRANHAINSANO
 UC-VO6JuJu5fitRgYaIRlGbw	Systemy Obronne
 UC-VPSQdVNJyI1afN27L9Jgw	UFO SECTION 51
@@ -336,6 +338,7 @@ UC-aaG6qnOSr9GXz3s5adNgw	calm sense
 UC-afYq2c9wglKvZcfWgwsKg	Tales by Kelly
 UC-aisrDvLUeIyBxCWzb2eyA	Think Out Loud
 UC-akqDggF-a_VmLVehbjlmA	MeowMeow Story
+UC-bN5BSmSzOKi9RW7flT0Gw	Schlösser & Burgen
 UC-bNnFHbOJ4aSOGQ0xXK7wg	Juniper & Minuet
 UC-bQfmYPgpZ-mGX1TvnxW4w	David Jiang
 UC-bSSAcElJVW5leC99ZwEUA	AI Flux
@@ -409,6 +412,7 @@ UC-hm9eJ5M4UNUtvEpitYsfQ	Prasad AI Studio
 UC-hop73q0ZCAzgT4pywqDKw	Triad
 UC-hrX73uHD1jdoZ7UEf9QxQ	Ancient Indy
 UC-htPrFXbEwon1aCNB0Ue6Q	Funny And cute Cat's
+UC-hyg6DmcQ9cCUUzKFLW_tg	Buried in Silence
 UC-i-tppABPj922WkBmm7HGQ	Tripedia Today
 UC-i0jalxX6xpVDEyjRHMRNA	キラキラハート
 UC-i29DZ2yA6R7uaZUg_ydtA	Stories & Dreams
@@ -426,6 +430,7 @@ UC-j7U5hdRHVr_yyEMZQpdgA	Black Justice Files
 UC-j8zJk-Z2f5KLeRhFnlTvA	OrbitraX History
 UC-jDShJ6xs-XAjnKnoxpUMw	I Reborn as an Anime Opening
 UC-jR7_GVG1cwlZUJZy9Vzjw	The PARAnnoyed P.I.
+UC-juL0Oz4S4qPytx9KPISYQ	Mystic Historian Finance
 UC-k42aeT67waeUtYSQ7uVrQ	Echoes Of The West
 UC-k8Y0Ja52S7Y0-FRso3EFw	Triple Leg Shark
 UC-k8dqWs_J2iEEzZkWXJWrw	Project Uncovered
@@ -1058,6 +1063,7 @@ UC0rFbUEoXjLMRQRHl9saBpQ	Inside Factory Process
 UC0rIRnAjhT1CpAuHl4qxyQA	Justice After Dark Stories
 UC0rMQ-zkLa9T8g6EdDrZRsg	Fashion Design work
 UC0rPNoEu9EfE_49LzaqDENw	Dream Pulse
+UC0rR26jVs8ugPmuMX_s0xTA	Quenn and Jack Official
 UC0rWt9022XWKTtiSfuZnylg	Crush Drama
 UC0ra0vN_iF5AwwU7G8q79rw	Majestic Studios
 UC0rcwykktXFPjoyVd6wRFbA	Finance Infinity
@@ -1624,6 +1630,7 @@ UC1m-FJ9cvAzqgDc8apB4iWg	JuryTales
 UC1m0Y9nU-ShYcVg3DB8f7Lw	World War 2 Archive
 UC1m3X51t-Q6rFZ328SI1Q7g	Patrick History Remaker
 UC1m83Aol_HKl1tZuUM8zHwg	Crazy animations
+UC1mMu36rCzv9JaJdNEpoVqA	Zutto
 UC1mQlEF38P5mxk8TdzScjGA	Selina's Love Chronicles
 UC1mj1hkEt3nPMZNhzcFRjdA	THE 150 TALES
 UC1mucxdhdaRgVQ6tybEH4ug	New Imagine Studio
@@ -1689,6 +1696,8 @@ UC1tjC2eZNShFsnBOuD0_i7A	Gadget Shopping
 UC1tkaoCUTWSFCM8RiEfRLfg	Presence & Purpose
 UC1tpZASJBdsJAl5Oajib2Xg	VOX Plus
 UC1u-xU3hgezNW1JvfwPm0Qw	KashiLife Stories
+UC1u0ejI87UEPOAdtnxGcprw	Atty The Kid
+UC1uNq9qnroOoVl0RJ-PHmLg	The Gnostic Path
 UC1uPyjvtztpDf1cn41ALO3Q	FlashRanks
 UC1uRZjD4Ipkihs3wRodha5A	skull animation
 UC1uTj0hmT-7fDaFaVY4h9iA	Dra. Alba Doménech
@@ -1862,6 +1871,7 @@ UC2Doy2hIVfbmPd9l93oTipA	Urban Folktale Stories
 UC2E1YZz3KYOS6LEHR7bmhoQ	HOA Stories With Damien
 UC2E1wKV2p3QuuT5P2u-FAgg	Fallout Leo
 UC2EG--m7SrIodnBy1OBU4QQ	AFRO KOREAN VELVET TALES
+UC2EKLhctJxHcjFJ96xjlD8w	Rumi Universe
 UC2EVhK6YSf-pfJ6T3bslenQ	Starisle Anime
 UC2EZRF6PIzhD6PQ27T2pu5g	Stanky Chicken AI
 UC2EgVd_3E1eyjV_sDBzkSFg	Devotion Universe
@@ -1936,6 +1946,7 @@ UC2NEuTOF-kjB3bIvDUdImdw	Crime Unsealed
 UC2NIo3zXnOXZDqdYQhTJ9Kw	Feel_it
 UC2NLae1urSTqbqy-xQlfuPg	Senior Health Doctor Anderson
 UC2NRf0-PH8IiMq5uA5FHJnA	quack doc
+UC2NaqUGhp8jgYd2uO8zwJNQ	GrumpyRev
 UC2Nb7QTLZnE3rFSgyad2oNQ	LostInScene
 UC2Nb8Ej_8Iw9a3Xm40U-d1g	Rehoboth soundtv
 UC2NkdSpe6Y4GyPoDdk5YRYg	Vincente Aldoori
@@ -2040,6 +2051,7 @@ UC2Y-_-z6-UpCLRqbkis_h6g	FoxFire BL Stories
 UC2Y9aMA0kA0ksz0cWKtrk8g	Barakah Rizq Quran
 UC2YFfqSSIskk3yTsnnfB0tw	Diego Carmesí & Elena Vargas Oficial
 UC2YJYTiCEsW6JjDmqi8APGA	Heart of Africa Films ⭐
+UC2YP0QVBnF77rIg_U3Wk1Kg	Gin Recap
 UC2YQaxUopNC5VIDPTxNvH-A	AI Girls Fantasy World
 UC2YRAVX4O0FPJjYgXyGA1Xg	SOL077
 UC2YT8g0nI6peQIhBxe_3hnw	AI GENERATED
@@ -2172,6 +2184,7 @@ UC2nB-0qy2y2RwkaHI0gaq_A	Słowiańska Dusza Przodków
 UC2nFb0EQUPZwmZev7535y_A	Re:SONG PROJECT
 UC2nTcppTbJ2MoGIaCulUgMQ	BabaBakchod
 UC2nZWUuGC1bG_S2r1ylkixQ	DramaRush
+UC2navr83RUl8icgI1O5Tvwg	Viral Aidolz
 UC2nw9rcq_3WYO3UDT3Da0Eg	HoffnungsQuelle
 UC2nzpub-88tbM13g82FX9QA	SoulshareTV
 UC2o1-_Ij9MwiKuWNNOkwsdQ	HOA Confidential
@@ -2180,6 +2193,7 @@ UC2o696WnZgNd9XAHN86Tn6Q	Eternal Human Spirit
 UC2oHiHgPJ-0aEvqNYsfYhqg	SAHANI CINEMATIC UNIVERSE
 UC2ocafsfoMIH09T8Im4QTBQ	Cat Story Ai
 UC2oePK1EzYQSEEqs6gCSsEg	Jo Jinks
+UC2p2hnnFjVFdkT9uNicnqug	Mystic Lens
 UC2p3JC0FIoKxDUhL7oKazdA	Back in Our Day
 UC2pHAYtIM4gzfy5V-cW72BA	Alpha Market Meridian
 UC2pRMazJ70H6a5NQnx-gC_g	GL&AI SERIES
@@ -2667,6 +2681,7 @@ UC3hU6ruyxVyI7t0JcVIy9WQ	Kids AI Fun
 UC3hZzJSuSOyEHl-3cfd2Y_g	the money vault
 UC3hclVyHTNofNO7v0Dr3EXw	Alpha Dynasty Stories
 UC3hoOrddIH1mQnSsKzC5vSA	Princesses Skit Club
+UC3i4_YxwIxBpmAVxPp-4qgA	NKT Music
 UC3iQ-VTNQYbik-Tn_gLFDZg	Sci-Fi Journey
 UC3ifTpwc9yK5gk84Ejn1U1Q	Drama Hati
 UC3iytv9lbi67DYVg22w5c9w	Dolce Sera
@@ -2691,12 +2706,14 @@ UC3kDUZtfm7O3zc7ICVKbZwQ	ONE VERSE TODAY
 UC3kDpzotKEXUd1aPxb-hSog	Hidden Wealth Files
 UC3kVhCKKGaaRB65njISeFgg	Digital Tearjerker
 UC3kXb7J0Ey7NkcrUiY9_ueQ	The Power Ledger
+UC3kirhKN0zhPBOr-5YJn8-A	Neon Kitty
 UC3krh6fN6UQsRV3yl2TQWkQ	GAMMA YT
 UC3kxXOwdikyRwVeS2v5EQ-w	Ground Break
 UC3kxh5lnWk0ARuVbEB9hmtw	GRT Business 4.o
 UC3l4DC7Nhq4o6R296tZanYQ	Multiverse of Movies
 UC3l6fjOOk0AsDgS19_VLD6A	Fluvex
 UC3lCrI47hSkwCT4kfHyzUWw	LegendToon
+UC3lOCFl0ik3W0u9gb2ppq9Q	Divine Mysteries of the Saints
 UC3lVJbc0phLY3pN3mvNXGAA	Odkryte Sekrety Bushcraftu Retro
 UC3lvQs5lDgS2m4UShVBI6lw	Magnetic Jazz Club
 UC3mLVxMAUxN_k8KYo86t-iA	Magic Uncovered
@@ -2801,6 +2818,7 @@ UC4-6M7PdvaEu9IbPsWbgPuQ	Tech Odyssey Pro
 UC4-9bVo00riN65U7JphYrnw	Truthful Reads
 UC4-D5Mexi17AIJJ5GPKTKJg	Ancient Africa Folktales
 UC4-J3l9bjayoCPraKwDdHJw	TX Gaming
+UC4-O8Xeo5louW2X8H-rrNpw	Final Betrayal
 UC4-V69illzCbCSDQDGQncHw	Pets Ai
 UC4-r2y6qhQG17b7B9UxnQuA	Regency Hearts Audiobooks
 UC403Uh4q4SqVGlVkE-9QuPQ	PoolBrooks’ Band
@@ -3277,6 +3295,7 @@ UC4o1ffbPCpzswhvQNYJxsOg	Ai asmr
 UC4o3mPE0ht8HsmaJDBCg8yA	Evie Miessa
 UC4o9dUkOSaQlEsMSgr9La2g	NAGI
 UC4oOA0pU7YvHPGOHubo2chg	Gossip Goblin
+UC4oSTH4RxfnULN6mINL3J2A	Lume Studio
 UC4obzbCsFQABhe-RhBBzYsA	Sweetheart Melodies
 UC4ofBasVF1D6Fhs6524lrtQ	SmartyBuddies
 UC4oj5hqdyPfigmwWDPKidZg	The Brand Audit
@@ -3406,6 +3425,7 @@ UC5-QA1F8Ar95bWwjMJWJpqw	Basically Primitive
 UC5-TzJYcRwLk6bQAcbMWdDg	Loquenoseve
 UC5-fd-OwOePwNCsKcN6lnUA	Neon Neko Hindi Horror 💀🕷️
 UC5-fqjuZ0OYDC0kyY0p9DbQ	The pet channel
+UC5-pBdfdA3KUo-vq72l-umA	Mistral
 UC5-xMpyoCp-wjHoDtKFYOVw	The History Page
 UC5-xaYrdnYsOAiWDYkaxE9Q	MeltyLoop ASMR
 UC502kQx5c_TIebAov1UsPxw	Korean Romance Tales
@@ -3423,6 +3443,7 @@ UC51vtve31AxfprzdPWHLzTA	The Vanished Nations
 UC51xiAWbHDbs-3V9i8NDFKg	Men Revenge Tales
 UC524OZYTlzMni13F_c090cA	Cold Reason
 UC5283Ue6Ut_wdajHRNPVZRA	Jak Wczoraj
+UC52TJvQ9l16Dqi8Rcs-YhSQ	The Most Painful Historian
 UC52UMpBCsU884H1_huMuqDw	SATO
 UC52UwGSjglNVRiQR6GtjYLg	WonderNest Stories
 UC52VweV9fqpfa71FKqra_CQ	Medieval Legends
@@ -3442,6 +3463,7 @@ UC54GM2-or9BFHnk03wXvLBw	Faizan Amjed Official
 UC54NGNzWgDpsfe3mRKV3bWQ	Aschensturm
 UC54PuFFuuSW3sXfKIxWk0WA	Cat Funny Dance
 UC54dnEXkWkgjhAqnEp_jMVg	Marvel Ai
+UC54eGcPLmyxkHYs10Y-2hFA	Wild West untold Stories
 UC54kloYSqRCYPRi4rQmFrxA	Red Frontier News
 UC54uGBmgbwQERPsRDfS2OiQ	Aiko Karate
 UC553ZCbT1llRx_923SvOc3g	Exploring History
@@ -3508,11 +3530,13 @@ UC5BoLX7OEyfHKn2udaTP7Pg	Muzik World
 UC5C5JA9GAXZl2XgMEbEW54g	Deep Sleep
 UC5C5aZQqldxRqQ2hs1bwHaA	Big scale process
 UC5C9WyULjfmGYjqLpMTs5lg	Dream Retrowave Mix
+UC5COMIC8QPaZLY5NGXYDytw	Onyin’s Tales
 UC5CRF6W1-KsI0HcFpj62n8A	Rosa de Granada
 UC5CWUyXDqGOd2597iT0gXbQ	Shamisen Cyber Fusion
 UC5CX69QYWvTJfrwjdVoKLfQ	African Stories That Touch
 UC5CXEtmx6qjARim5qwd5-lw	Dark Motions House
 UC5CcZQxZV7NEFqyu6STvv0A	Неизведанное
+UC5CehQc520w5kI3u7lqqz5g	Dead Game Archive
 UC5CmqKAHmWfX1iZp_5V0pmQ	Hemantha Gallage
 UC5CxfumHhUcI_VtK78bZw4A	Mira Beyond the Screen
 UC5CywYWtGtdcKtUaK3y1KAg	DriftToSleep
@@ -3636,6 +3660,7 @@ UC5TcQcGhxhHS0ThUqzjLC5g	Badger Sounds
 UC5TlI8osxVCQY0JdADZDP_A	ZAFAR VIBES
 UC5TlQ7Ff5Lb2yyAeA8YfplA	BuyingAdvice42
 UC5TtuPafJIA-EBjDbjiUoFg	The Music Recording Network
+UC5UE8cZcis3VW8hkqky-I5w	IntelliCore
 UC5UIocKuaMWc3vB9ZgkZKEA	S12 AI
 UC5UJlkIPS9Tu51MVJHrQ9pg	Alien Frontier Stories
 UC5UNngt87cLMSUMn3rCzmlA	Dylaner Whites ORC TALES
@@ -3691,6 +3716,7 @@ UC5YipOOhdcr-jPUS1Evh_qA	Alina revange stories
 UC5Z1TifD2QFDAXxpLQbtU8A	The Anthropologist AI
 UC5Z5660yzkJyMLpDdWm2ERQ	Archive 9
 UC5Z6DaIOhS6NnxZv_LNfFAg	Currency Archives (AG)
+UC5Z8Nm4H8KxqwnfgkpoJROg	You Rock
 UC5ZDxNa_AxJO-Op1zcQ2cXg	Vuewa
 UC5ZFC9Dx66TAiYCK4767FNA	Kemi folktales
 UC5ZJICxkJx2NteC75oKnMzw	Luxury collection
@@ -3716,6 +3742,7 @@ UC5arjgdmd2MZT2i5p4IlqAg	Mythic Sounds
 UC5arkcPHpa2wHAAREedddSA	Review Ready
 UC5ascL7IvoH-91VN6d2Vx3g	Plotberg
 UC5b8DaCG1SadDAvtFt1wlmw	Ruchin_official
+UC5bHEdH3IJ24uTW5hB0ivHg	Siya Stories
 UC5bM4S-Ci2Y6q2T4EYKYFpQ	Case Xplain
 UC5bWyAkAVz5MKcPpPqEfVuA	Millionaire Love Stories With Mr Shawn
 UC5b_OtQDfeAZ8acTrExuz8A	cute creatures tales
@@ -3834,6 +3861,7 @@ UC5mQRWyFOu75E6CwSnzozMQ	Her Mission Stories
 UC5mUHAwjlLfhUTEBO4hn1tA	Zorvix AI 01
 UC5ma72RfHY-h8hRcZ4IWbHg	Compow
 UC5mbj3n4iRD7EfVxkwzMytQ	Solborn Vanguard
+UC5mcqoCija-aU1RDkQvIL-g	Six Minutes
 UC5mf1vmzAWQY97-FHO8s3BQ	Timeless pov
 UC5mf6ZLRW2fON0mVi9ZAymQ	AI Animal Adventures
 UC5mmk9DTFfWqPt1SrSYYiIA	Sci-Fi Vault
@@ -4015,6 +4043,7 @@ UC66qMlBxKHOH7wWKj64jpIA	Knightly News
 UC66sjEIrASFPbCmGULvDuKA	Heemotion
 UC671NaJZc2mJ37tgEC5AVoQ	LoFi in the world
 UC675q_wzn-4auvqtewgUWrA	EL HUMANO DETRÁS DEL LÍDER
+UC679gKyulSuc1we-wrOAhBw	Crowned By Fate
 UC67MYYInRdstCDlyUnXh8BQ	WitzMonolog
 UC67ZLqnQb0D-dq-MO51eREQ	Kindness Tales
 UC67mhtzsNIld-tvAHrKYjFQ	Retro Mecha Music Lab
@@ -4172,6 +4201,7 @@ UC6P3FFuDzv904nz64qqTsow	VELES
 UC6P8FQkmznC6XDT3eKM2Vng	TerranBrah
 UC6PDhLkZUtyLs60OVkAZydw	Nwosu Chigozirim
 UC6PFe7vr5Sl2U-_z0zFs7mA	CCTV Files HUB
+UC6PKj4Mw73JgB4nvpn2v3OQ	Unleashed Secrets
 UC6PLY3ARTdr6UNiDg8eJeaw	Marian Grace Music
 UC6PMEPa32IUm1xuMgWHKt6w	Epic Marvel
 UC6PZDAiMWRy6qYG5w9b8kSQ	Músicas IA
@@ -4328,6 +4358,7 @@ UC6fJagizoziFAsgcWiTPF9w	晚晚小北鼻
 UC6fVug8legpKp_uZ9JRJlQw	ROOFTOP BEATS
 UC6fWzr5R-nZGKZB2Srm9fQA	Stories By Biola
 UC6fffh09lTc1RNMho5XTOrQ	Jedi & Lords
+UC6fmwGotHwXxLDTgYYKF07w	Sleepy Historians
 UC6fodm0uE08lr2S8tajOBSA	Bruce Lee Eternal
 UC6fpOOK3cYRlq2nm3BCPohA	SIMPLYAPY
 UC6fw5_6mFVCh7PO51xdUVmw	Bahar AI Art
@@ -4430,6 +4461,7 @@ UC6rNRDa0ifZGQHNQCk_NSGw	Path of Knowledge
 UC6rRJTWGsV7TC7XMFL2zxlg	Golden Goals Mike
 UC6rnmpQfPEZWA8HlCn4-LjQ	bored_shorthaircat
 UC6s1j_h-bMpub1da7Uu5s3Q	AI Cat Short 2
+UC6sDAUGZh_crItWQyxSWIgQ	The Heritage Hub
 UC6sG94gS8l2zC1fZyyBwcEQ	Homestead Legacy
 UC6sHJSGORx1RZjJLKazsVUg	Der Panzer
 UC6sY4AfPhzCv1Y1JCyXiJ_g	AG Chronicle
@@ -4719,6 +4751,7 @@ UC7Lu79XfwiJcEgNfwGcgOGA	Sonic Sidekick
 UC7LuOfSCU4YWN1bOne2lk5A	Baobab Tracks
 UC7M4F3oyYTQiyi_u8ORPGjA	The Hidden Duke Chronicles
 UC7M7B6h_3gJvi5ncKOYUXzQ	Burning Drama
+UC7MKiFCzyozE--zZqsgEjJQ	The Battle Historians
 UC7MRr1bJskgIv27cZPWwvkA	cats funny video
 UC7MgCm0Cj7z0SKjyXr5YxEw	Production Process Secerets
 UC7MkxlmfUdx0z89s2aoCTlA	AI Film
@@ -5092,6 +5125,7 @@ UC80ZBtV4m0xQjr0xDJYTpUw	Epoch Timeline
 UC80kkbeUasT3VYjM9D6L73A	LATEST SERIES
 UC80qQDj1aAHNV-wudapTuIw	Hollywood Observer
 UC80s9fWnqRsA6HW1LAVNjJg	Ai cartoon shorts
+UC80wPJMGfz66fGzOXUay2Kw	Obsidian Veil
 UC80ztI40QAXzWL94eoRzWow	破晓动漫社 Dawn Anime Club
 UC81C6Uc3CiIE9OdTeFfIx9A	Stormborn Vengeance
 UC81Hv_CI2ZhA5jJnIChCUVw	Revenge by Charlotte
@@ -5240,6 +5274,7 @@ UC8KJN0j4CnvCySKYhbCVCxQ	FUJI SOUNDS | J-music AI覚醒
 UC8KYmaFF_jEastQzu1C-0hA	LegendX AI
 UC8KaB8GBTzOgbvvldlQ4QqA	Aimee's Stories
 UC8KhUiF6XGUC7VRas_9TAug	Scifi Time
+UC8KlKs85BLghdvWPff0RHOQ	Eternal Mysteries
 UC8KmgQABfwRXJaJYmABwVSw	Lumos Manhwa Recap
 UC8L3JRgN9GMUV6r2o4CzDKw	Raw Rust Restored
 UC8L9_jMYoUUzOdAcJJiV0Zg	cosmic drifter
@@ -5247,11 +5282,13 @@ UC8LM-lUtTujlZShsBkqAHSA	Bumi Lala's Visual Poems
 UC8Lbjz64bdrK9fS2NJ9niqQ	Vale Stories
 UC8LjaPSjJ8phGNcu94IzdNQ	Taktyki Przetrwania Retro
 UC8LmZ9CeZd7vc6VxZCBxHQg	Awnest Instrumentals - AI
+UC8LxlwULLBEvDYWBfOB0y5Q	EPIC ORCHESTRA COVER
 UC8M2042mnxDerxayGEi61Zw	Ancient World Uncovered
 UC8MIJVd3YEvPJeMEoyr_6ZA	Tiny Workers
 UC8MIsP7Ae6Dqm4CGon2OmpA	GREAT SPACES
 UC8MPk_HtGTjllHQXbrIC5Gw	The Nightmare’s Tome
 UC8MVxJBK7rkSpmCbrk5ncCQ	MovieAiTrailers
+UC8MXwCHJnomwb6ddbqkSqUw	Deep Past
 UC8MY6mGu15PUZPehlTamcvg	The Saigon Tapes
 UC8MmzOx-WVWaoD_-F-zd6dg	Top upcoming dramas
 UC8MveLUORye_YcA2PEmeo0Q	AI Infinites
@@ -5287,6 +5324,7 @@ UC8QHCUdJTSyxmAKUZBVIcFQ	Ra1n Labs
 UC8QJEsghJxMK5yTL83qMclg	BNG Ripple
 UC8QUgxgRmxQXG1LvXs3ZRJg	Blissful Enough
 UC8QUxrp0ejt_DEvnI08sNOg	Fluff & Fables AI
+UC8QUzDAwj7oiDetMsZJCQfQ	Worms & Warriors - Gaming & History
 UC8QVXfjZG8d8JpmMwEkwSCQ	Suspiros de Cine
 UC8Qg2u16YHFPv3gC6yJYy1A	hoastories
 UC8Qo4pxPLBtq63P5LBbrNKg	Rahasya Raat
@@ -5463,6 +5501,7 @@ UC8hXEMu7dqgoFbSMK1lTDaw	Anasheking2020
 UC8hffWl9tgwNBAkZw24l5EA	Mr. VEX Horror
 UC8hjBebbMEqijTSgwi4M3aQ	Reddit Sphere
 UC8hv-pgyruEMLR9nsvLHO0w	The Raven's Tales
+UC8i5I8koGVVL7frzMchAMzw	The Loreweaver Podcast
 UC8i9Cqd8x-E7C0rrg5E0x1g	ClimaRescue Stories
 UC8iAOVOlgfATZWxySquWmyg	AFRICAN TALES BY SAFON
 UC8iJIV5WrbGNhGtwxMzRDlA	Safari Story Network
@@ -5573,6 +5612,7 @@ UC8sRhSI2DGsrHUcEfWFTsDA	Cultural Exchange
 UC8sXKLsFfU79vBgjwMj7h8A	Seoul K-POP
 UC8sfY-65FETw1-7PWEFD08g	Fantasy Lab AI
 UC8siIRkloU6xa3IH_7grbKA	AI DreamCreations
+UC8sryTRoEx59g5t0da3_fnA	Bit Wonder
 UC8svcN57ivFbcvXF2Js7HRw	Time Capsule
 UC8t9WHoLiUzn4IL_zNJXqNQ	Hernán Braga IA
 UC8tRZYjRhcxt_ROJ0U8iO6A	Untold Money Secrets
@@ -5696,6 +5736,7 @@ UC95C4kP075xT-x1pn1Bh_uw	Cat Histories
 UC95JnlaMpBP-6iGwfTFifbg	Wonder Ai
 UC95Pt4wpaOn3z3-mKcodREA	Hidden 404 - Next
 UC95VaC9xoZhSHrk0b80xusA	Heal My Dog
+UC95_7XZwOjZwh_DgmWLCeYQ	Fantasy focused
 UC95awt_LdZOx6YeeB9LfbCQ	Strange Origins
 UC95e3HPHzhcRUUasssRH7Mw	Apex Galaxy
 UC95ghLnrhPl6LjqTQ_pexpg	Tropica Harmony
@@ -5712,6 +5753,7 @@ UC96J_IdbCKxm5URyrnDOeTA	Silver AI Wealth
 UC96RpqZJunRWX4X3m60yCFQ	Pam Healing
 UC96VqFUjDIMW_c-5_BaprJQ	Prof Patrick
 UC96XSgpbtJnxWGp_QwUWIFg	Knock AI Videos
+UC96qha2YK-JLxqOCjb63noA	Spiritual Wisdom
 UC97ENUfzoEfUE0uBuiRu7iA	VS Tech
 UC97Ej_4_KDzhrLk6JtJp7BA	Ysarka & the Magic Tales
 UC97N5nnNv3gWRn9gSAQX-Qg	Christmas Music
@@ -6017,6 +6059,7 @@ UC9f7p3ye6J2OqvZxqlsV_1w	Nostalgic4life
 UC9fAdT9klxdxRu5uda-oz2Q	Historias Vivas
 UC9fDkMRPFToD_35cysiV-cA	Beyond Process TV
 UC9fEqkXgzQBlCDZ3DysAtCw	Auraliel
+UC9fSIEKv1VLTq535erut55Q	Ravensmere Tales
 UC9fZBEfX5EfXMAfOhTPzaVA	Boring History
 UC9fcPHCw-abp6enftBlTzdA	Orc Legend Tales
 UC9ffkz-CKJvRY9un7Bo_eiQ	Warpath Chronicles
@@ -6423,6 +6466,7 @@ UCANUsHpNfl-e85Ua6Ki_eJw	Ai Sani pro
 UCANYfkjexeHitI1OosatGkQ	DragonRise Stories
 UCANg53_dQpzhIMIakWr1K1w	Angraangel Music
 UCANjxwnZlWNoKefZMBSXPKg	Factory progress Ai
+UCANprLIayRL8S_S2ZqGu5ag	Z-Real Studios
 UCAOHLTur2VLEImOAP9ZmPbw	Muft prachar
 UCAOIsGCZPUX-5SL-64jG81Q	Nexy Sports CricKet
 UCAOJR-Ob7w7086wwTs1KavA	Capitalize
@@ -6437,6 +6481,7 @@ UCAPjn_clh9rxktGSBntLl_w	Abyss Archive
 UCAPmPlUz9RGrNYPzVwfzDmw	Heritage Diaries
 UCAPyNaJ2Wabzz8y1s3OeBIg	The Opening
 UCAQ1kbru2kS53Jb2k7bZhBA	THE VELVET SYNDICATE
+UCAQ2unGhSHLDpqyrfilOKkA	CreativeMK
 UCAQL_jluYALfWUFoXtKzQdw	Green chickss
 UCAQckiVro423IScXGKP81IA	WWII Hidden Courage
 UCAQsq0RhwW5kGLko_xvZJyQ	مكعب
@@ -6490,6 +6535,7 @@ UCAW4CoC13oyipMGGx4pHVDA	Now it
 UCAW9T7tWYF3TzWSMcIPPfwA	GameJoy Explained
 UCAWFNIt8OJuXiHxE3rBSA5A	Sundown Bodycam
 UCAWUn8Eitc7XJjVW18ZObcw	HazyRealm
+UCAWZ4XdkZdk2Iv6K3peSgmg	AISLOP
 UCAWlsY6toZaTrXHOMRvv0XA	SharedWaves
 UCAWmwEpmYs10hcMaf19uxaw	Tales By Eni
 UCAWsiuGuCzzavd_2YOBR7eA	Ifsphere
@@ -6502,6 +6548,7 @@ UCAXKibEZATP9ywy6ghsCKmA	Urban Monkey Vlogger
 UCAXR6cC9B09yLOrpwENLtYw	Bruce Lee Diaries
 UCAXSCGeigMp5v_pCvMwjzKw	Muse & Snooze
 UCAXvpFXwsm3CyM-fwArWItg	Think Science
+UCAXyQXyaWiADferIWCZdqHg	crazysongs
 UCAY4hxegU4g7OSgOUVrKL1w	AfroK Drama Tales: Seoul After Midnight
 UCAYBE8Kx8XJxw0kuFt6_2SA	Soft Power Stories
 UCAYJCemdJyz3sz28dEdI7Ag	Ring Doorbell Footage
@@ -6524,6 +6571,7 @@ UCAZUhQoN6JNkldctZrFTYUQ	Ai Cat
 UCAZfh3T7I1UJjiEqcwvJ1Pw	Cats dancing
 UCAZh_8DEBzj-S5AiHsIR01g	Short Video AI
 UCAZmu7-nJPiM0JLJrx70RAw	African Folk Tales Untold
+UCA_2T-r67qNz6UU4uAd-new	RumpelstiltskinTapes
 UCA_C2_6tqDrAKZg_t8zArNA	MYA AI music
 UCA_CrsQwitzX9m0s1ddU9og	UnravelingMythology
 UCA_U2822TdDSrYz_LST3i9A	silverbullet2008bb
@@ -6716,6 +6764,7 @@ UCAu42JjW_0Bp5Y-Bdwt55pA	Ajipha Music
 UCAuD2ofx09vGaR-caV-N6BA	Sandra's Supernatural World
 UCAuFGYHehZbqhmHHxntIFUw	Emerald Hollow
 UCAuFTqqlfNnMmnCBfh_wNkw	Drifting Echoes Records
+UCAuJ24hWSMl9afFUDTQNe_w	Sibanand Pattnaik
 UCAuL3wFzHKN3T3SfxHBPA0A	Insightout
 UCAuNcLAdoxc_486tVN6zR8g	Anime Tuned
 UCAuPv4YomqtCh92I_u1gDDw	Lost Chronicles
@@ -6938,6 +6987,7 @@ UCBLbqhYNAve3LmpThhB4OXA	Doctor Laura
 UCBLia2TDUsQR_MjDZCyXe_g	Save the baby
 UCBM1ibfZqq1xoEsm_QtzQ8w	Vintage Jazz House
 UCBM8O2H0efa33X_smAaahdQ	Golden Garden Life
+UCBMGnacsm3Ljfg3QX0YrWUA	AKRITES
 UCBMKvNwe9w_y-cpDvd5IsgQ	WWII British Files
 UCBMfSQFioD0Zres22AKitUw	THE OWNERS
 UCBMowd4eVO05d-LoxKUpMKA	Meme Flock
@@ -6957,6 +7007,7 @@ UCBOxRnKVIBqPs85MXrfxjig	I Wanna Hoop
 UCBPAt4SGEkkX3ZnZNl1AiRg	Dilip Nayak Records
 UCBPMXEUZ8e3WOIa4D4gtWvQ	Anime Is Science · Servokind
 UCBPNFYtOdTgO4TlOERFICLQ	FruitVerse Stories
+UCBPVACvFPFHV7WmKQLwOX_A	Krishna Message Today
 UCBPZ7nQAmqQPozGuMQPAaBA	Ai Puppy Emotions
 UCBPsiwiimMjGxU6_fA5qOEw	Josh Deutsch
 UCBQ05U1tqq2ApVKCFE1RFKg	ThroneSignal
@@ -7254,11 +7305,13 @@ UCBw8zrFONdGXTCaV-KUyBGA	Kitchen Aİ
 UCBwD23jMMSzQTN2sRMCa9Og	Historias de Millonarios
 UCBwPY23G1B7lq4PRMx8KyyA	Maid & Duke Stories
 UCBwTYYSoJJmG4iaFjzvoBOQ	The Crimson Seal
+UCBwb2aL7GeYaqFAh0Eycv8Q	Battle History
 UCBwgHnwcwRN7bM2rBY3SdMg	INVESTIQ LAB
 UCBwuj8Ba6VjI6_TtOPn_53g	RevAuto
 UCBwvUzGULLBsFfhSOwJjgKg	Orange Chubby Cat
 UCBx-CXmPaiJRI7qYh5mJpng	Coast Explainer
 UCBx-LMn4sUPhhSehmX79ZpA	Brothers Valor
+UCBx-cpWCc3OvN-EKWMSdBMA	Toyin-Parrot | AI Tools & Creator Tech
 UCBx2s9EENKw27BhDpb-Zd3w	Meaningful Souls
 UCBx8Ye88MLCaS5ZtSPyFzIg	Deep Focus Lab
 UCBxB7oR-FdkV7tqjRnAfMMQ	ShakeLore
@@ -7296,6 +7349,7 @@ UCC-SlGuIK9hsQcKdNsWUmKQ	HypeTech Picks
 UCC-Zhd1UVyJUmjpaunmHvBQ	ReallyNotAi
 UCC-cSoUQWYbpqnMB5UJzLIQ	AI cute cats
 UCC-lqAMZO70eO_waKjV7f1Q	Yamyi TV
+UCC-z6M9BpxavGn-D1suMAbw	noema
 UCC06d6hsnIeO3Lkjy-fromw	Dream Scale Stories
 UCC0954l_dsoQQsZk2Bqbl8w	Manav Singh
 UCC0CDzn8AXABKZKA1TENICg	Oopsology
@@ -7435,6 +7489,7 @@ UCCHKfjHw3cMRmbjog9v8lEQ	Fahbam Tales
 UCCHLgsUk4aApztD0eoSoCpA	Jesus Guides
 UCCHMBwgNXN852XwcgGCFAyw	Afrik4tales
 UCCHO7VUThRG8Ul6OWlbM2yg	Moving History
+UCCHP5QLx6tfACcSW46PKGAg	The Eternal Cipher
 UCCHl2WFD3DSWIaNDKk8zonw	HELIOS CINEMATICS
 UCCHnN9vnz9JAcDUhfZAYDtA	Factory Insight Docs
 UCCHoyM_LsId9yyNijqH5uag	Anna Back in Time
@@ -7583,6 +7638,7 @@ UCCZ_dOybu2Bd-Ji5xZQ9WZQ	Beyond Stillness 静寂の向こう側
 UCCZbSrILEE5oso8t39_pIjg	African Folktales Stories
 UCCZkcn-eliHBxBamYsMDRYw	West End Sounds
 UCC_Elu8OIu5xKxHRtEyQfVg	Smart Cents
+UCC_I2PUFouBXu612xfZECWA	Nu metal - Static Riot
 UCC_I9BhlvtVvIsRU6bzue5w	Drama Rush
 UCC_LTisBEDp_-aNkAt3vHgQ	Framia by Converge AI
 UCC_OoMnHiKmX6Jd_sYOCFIw	Gold Line Tunes
@@ -7686,6 +7742,7 @@ UCCkvT9HAriRL9F_OSgYv5Ew	AI ANIMATION VIDEOS
 UCCl1noqajbf8_5aWrKVcPXQ	Luxe Love Lab
 UCCl3Xa5Y-o17f4PcVHwRUbg	Geschichte Entdecken
 UCCl70mEEF7l93GeU4udKs4A	Duck Noir
+UCCl7FDyVpy3d1h_tHKGVjaA	Wisdom Light
 UCCl9qRITDZ2uE1XLSHCxisg	Dettagli Prodotti
 UCClKc3pZ03jYHd25Vj1KCRg	World Of AI
 UCClZiNLIqCqMAiLDLETO6Zw	CraftCozy Room
@@ -7950,10 +8007,12 @@ UCDHByN_U4H-XdfU4GHcZToA	Civil War Dose
 UCDHOoB22CE8bX8NxWMjmeZw	Grow with Chesh
 UCDHPs-K6s9C3_ohGmxk_yDA	Hendytsle
 UCDHTgxenDJo6rFkW8XzjZEA	Historias De Vida
+UCDHZh7fFfmQbqJC1K4aWppw	Iceberg
 UCDHq0J8U7LIiPMewNzOFXjA	Fruits Moro
 UCDHxkE1ySbvDZfvj0eI2EWQ	Jay Riddle - Das Reine Böse
 UCDHy_qf3CJ8azlfbJKEGIHw	kaye.creatives
 UCDI1U5cMR_L1tMdAWTgHiig	War Sage
+UCDIDlwQLfpQ9lMtgpp5hl1g	AIYA SONGTELLING
 UCDIJYu6Bgy7IhicWPB5MeSA	Radio Bot-Fi
 UCDIPBIhdWXUCdGR0VL7MjDQ	LabubuVerse
 UCDIaUyfzcdINDY37qJBwQdw	ai tiny cooking
@@ -8108,10 +8167,12 @@ UCDZoiqaE3ijpuWWuz-JZIlQ	Airline Power Reveal Stories
 UCDZvKJoSE8B2oD2eeQ7tA1Q	Soul Stage Moments
 UCD_0n-z7kI3rCdKVmc2--Uw	Smirkzy Studio
 UCD_2vi_Lu_d9XHe_5fOG-0g	AI-Generated Music
+UCD_5XsAdtWa4A84TeTVm-EA	Why The Weird?
 UCD_CotReLgB9uYeNhMtmD1A	Soundmusicforjesus
 UCD_ZKcZisEvaTVOaKY85-5Q	Tales by Fotech
 UCD_ih1_S3rY3GE_lCq7mX-A	Alex Tavi
 UCD_rSwr7H9o90pCEnQ00jVA	USA Factory 5M
+UCD_zbo9HYqfNW2AH9jNiqXQ	RomanticVerse
 UCDa-bpo7ZrG4VhYE1szPn0Q	THE HOA FILES
 UCDa4D6xnLpm7dZp48LwbdtA	Universe of Stories
 UCDaB22-Kqw_cse0jBBVcikA	Oriya Lofi
@@ -8184,6 +8245,7 @@ UCDiatw42jJsWKCznYLcAi_w	Vietnam War Tales
 UCDieEo2Ev3DBMO1VKFBM_lA	StarFire Anime
 UCDieTds47MAehHCAIIFIcVQ	AI Cat
 UCDimzdVAejM6TN2pdVxg8Qg	The Cosmic Perspective
+UCDirYxXQ0nKHxSqYCmAO_9Q	Sam's Diary
 UCDisoOfZOCiQhWKN-NMO4dg	“SnowBaby”
 UCDj--lNnEKnQMRkL3Tj2lRQ	Forever Rooted Music
 UCDj3uUSLhMhuAksMr_FUwZw	FruitVibe Studios 🍎🍓
@@ -8338,6 +8400,7 @@ UCE-ShHbjgpGqsvTjOqSBI5Q	Hunt Forge
 UCE-WhuYUSPcF-2V2BzWVdGw	TechNova Insights
 UCE-becdM6g-9r3maz_Hywmw	Ai Fruit World
 UCE-eDoRhDI12VnQmQdi2eWg	Jedi Knight Stories
+UCE-l6XCyyTJmmc-fDhePR0Q	Hidden Echoes
 UCE-lMvUTHaMP0luwfaGr9kA	Zenith AI Films
 UCE02T2Hto3IKWhVEaF7bWqQ	Obsessive Mafia Love Stories
 UCE0MTvrQdHjgWDCcyaGTNzg	MedInMinutes
@@ -8371,6 +8434,7 @@ UCE3kICOugFGgSfBkLO5fJUQ	AI Clip Universe
 UCE4309mKD93dLPmY_srwasA	Nowa Doktryna
 UCE444aOGhqikb1GKaxI-now	Mama cat room
 UCE4692ty-jrXudsMnagz7ew	Full Moja Story
+UCE46zGlSLJk3N8ptw0LQtGw	Historiq
 UCE4CwHCOVG7mCdbmp8hjXgw	Science Before Sleep
 UCE4Iy6mCjgm1PFzBRAmm8Xw	Panda Tales
 UCE4Vo1p35TndfOMB7GHN3bg	Le Cafe Paris
@@ -8448,6 +8512,7 @@ UCED087qslX84gbfvlkGZ4FQ	Heart of Justice
 UCEDAWMMvlN9yjimsnmzZB9Q	Akrion
 UCEDemnbfwC_JaT_M2wijK8g	360Songs
 UCEDfPzFX7OuUVXawUH2GrnA	Two Scuffed
+UCEDs4jvRZeL3VGIiUbCwDsA	Enichrons
 UCEDsGJJGwu8aGhB0ZCr1QiQ	It's Clyde!
 UCEDulZ43GUpo9FAMFRdSJ9w	Anisha Movie Review
 UCEE4Krci-VQGmXxJSGYkspg	Zero Sum Stories
@@ -8456,6 +8521,7 @@ UCEEFgk2c_A6LSW94u-7u7mQ	YingMei Guzheng to Focus
 UCEEHw9AAhZmv4VYVZFaqO2w	Almost Gonzo
 UCEEJ-FKrkFy0FOoRYD5Dm5A	Botany Ai . 55M views . 2 hours ago...
 UCEEJCc3VtNTM4iript46rHA	Funny AI 25
+UCEEN3ETcxCsVWaCtGAcUW9g	Westeros Untold
 UCEESP3tye8wi_DxuobWSdZg	mr potato44
 UCEETv8KatjmFMIdK5WO8gGQ	Gentlemen Secrets
 UCEEn8cArKGcMRbtseait6Eg	Mr. Peter Forever Love Stories
@@ -8520,6 +8586,7 @@ UCELlZN48UxQF7VpazkHh2Wg	Tiny Paws Kitchen
 UCEMAPO42ko8QTBluN__X35A	AI TOOLS
 UCEMBdnodVptWpRERmyxxFLg	Life By Rank
 UCEMCpeC8_LHW-vV-Bo6NqKw	Telugu Knowledge
+UCEMGF2Q7u6wwmrDUCeP-kVQ	Raw of Now
 UCEMIsu_enIlEb_eCMtdy66A	Velorith
 UCEMLTIduGkhNEXUc_QJScbw	AI Doorbell
 UCEMOkkKf8AeI1mHKV1mziAA	AI Fun Podcast
@@ -8624,6 +8691,7 @@ UCEX_9o0hrYTAnqjsKpL9f3g	Atarakushia Ch. あたらくしあ
 UCEXfqZObkhO8bXJCAOTSPGg	Dapur mini Adis
 UCEXlRXwXmWGEhybpI2i4AZg	Cat dance channel
 UCEXs-yXWJOOvLS0x_3fU2fQ	AI Kids Academy
+UCEXs4ip6WIlI19fy3uCbypA	PapaK_Music
 UCEY-WTMr5lpmsD6VFVi__5g	Outdoor Tube Plus
 UCEY2v9gNVBx_uvUBfaH6nsw	Pixshaala
 UCEYEcLslUnNrgQrJI7PWmQg	Sleepy History Stories
@@ -8822,6 +8890,7 @@ UCEs3pTKjW92VviG5Bp2TZmw	AZ Studios
 UCEs8u8iUD3luz8RdXM5gmug	Africa Tales by Born Great
 UCEsEFEjRruouOd9G_EcIpqA	80's Lo-fi Chill Radio
 UCEsM79e4MHYv3RQiZcUecQw	Bauch-Rebell
+UCEsR2swZRvkG9sp0y18xkHw	Blue Shorts History
 UCEsRYsquHKio-3cS7l7O24w	Abyssal.
 UCEsRqK2vHAufN2iljlKqdhw	Divine Message Daily
 UCEs_tHO5w9MiXOXdvOFWUlg	香香漫剧
@@ -8901,6 +8970,7 @@ UCF-4rmJWSuAljp4OKGDmB-Q	BRO, AI?
 UCF-HeabHPDwj4b0VLDmeLHQ	Ai Cats Meow
 UCF-ITsWe6FUYh_co-8UbvTQ	OG JOHN AG 1990
 UCF-J9TQxBjXwh_3XaSSpgNg	ChillPup Lofi
+UCF-TcpNXG7kv3VyLk-dKSqg	SabiduriaBiblica
 UCF-VQJ-nOXU0zsO_tiJS1ag	The Awakening to True Reality
 UCF-tVBmHM_YOQCLcx3XDE1A	Mistrielle
 UCF07JYUDlGLHk8_D53-ovKQ	Duskregn
@@ -8944,6 +9014,7 @@ UCF4SCN1xmJREgDqIpHDKG3g	Omega Crown Tales
 UCF4bUh6kWdNN7C8ZWx79QdA	TRENDZILLA
 UCF4kPSkmjTRJ5NWth5Oao-Q	BeatboxX_X
 UCF4lcoYPJxDAKWcMMbl7CtQ	Ram Bhai
+UCF4t0lZ8aNNVV_NwpOX2X_A	Michael's Expeditions
 UCF578Kzxo0NNdlmzNWC1UPg	The Sing Bible
 UCF58DNNOQWyhophKcNQZeew	The Company Method
 UCF59ZRmgo6CTfXKcJ1iYM0g	Ai cartoon
@@ -9842,6 +9913,7 @@ UCGlE_Ptj6_vMcMrlhy5WV3w	Nova historical Vlogs
 UCGlFSLlyCKn6hwnN4ZwSLOw	Precy AI Stories
 UCGlFywzmt7KlSV-HxtZ43Kg	Valhalla Echo
 UCGlN6wFbVLfvyqhRF_OXtsw	Forbidden Mafia Love Stories
+UCGlPdBAuaqBSrPS-5pged4g	Polar Life Moments
 UCGl_McSuR5Ttko7xohF8O8Q	Global Parade
 UCGlmPAB2GXEQ1TBFrIwbufw	JK's Tiny Epic Studios
 UCGloNbaYcPQ20eERvzz9qtw	Amelia's Revenge Tales
@@ -9927,6 +9999,7 @@ UCGtigZksB1b_mKXKz8CQ7fA	Grizzly Tales
 UCGtqk2z4lE1df12-ie71L1g	EPIC METAL VERSE
 UCGtrmVYDOSBnRlnUVnRXWiw	Suno Hits pH
 UCGu4QFEbKAA6UerIXwUPYvA	Ufublestory
+UCGu7_HoJgSPJA5lIOUZnZig	WW2 Forgotten Stories
 UCGuKRVkrEriDR1XA5P4fNWA	Cosmic Cuts
 UCGuKUfd9mJMu91K4-iPh5mQ	Dzika Planeta
 UCGuKdstTnJ07JpfUKM5UItA	Zen Vibes Station
@@ -10004,6 +10077,7 @@ UCH-V5Thhp4E-fyimdqC-NQQ	AI Toon Zest
 UCH-WTOIj310qyjtLWArqL7w	WealthChain
 UCH-YcJVLvr5Z46PjYXSqpJQ	Ouside Tales
 UCH-uZmn5d-oXgCdHD6iwPwQ	Revenge Recall
+UCH0YhhqRP8c14gKN4vfXHDQ	History with Younes
 UCH0fYAmg-lg8BauZAthSMrg	Mido Explained
 UCH0gAWOLhPPT93nLnlZ8Dkw	MaxTVx
 UCH0hMCQcLqzr22m3_yc2Xug	Sci-Fi Orbit Wars
@@ -10018,6 +10092,7 @@ UCH209NLfQTgCK3rSAVQBiTA	Sleek Capital
 UCH26ujdxMe-Xp5CgzIuJWwg	Lorkulup TV
 UCH2FsgadLALQYQn-i7qLvBw	Single Dad Secrets
 UCH2W9VHoGzJxLeA8w0qpuCA	KHOA - Stories
+UCH2_cysfQK1vNknmvHqt38w	Mia Blais-Côté (MiaQc)
 UCH2h0Lzdj0LWTcNRytckGnw	Ký Ức Chiến Trường
 UCH2nrXvBoT6zhrc2yJ9b8vQ	The AI Story Maker
 UCH2uDnsKEbwrDRvFmfcjXrw	Product Overview World
@@ -10230,6 +10305,7 @@ UCHRi2mHRvtVGLRM1qsVmj8Q	SHAMANIC NAIVES
 UCHRmObF_2GPfgcIexmYPV9w	Testament Ledger
 UCHRnhKBvfhqFYLQo6VJPsMw	Niana Lynch
 UCHRx3w9GE3r-iqpvIKsTgeQ	nobody
+UCHS2UMJvmZSJlGPzeNpsduw	Sleepy Historical Figures
 UCHS8jyIxd_hRDZ-w2La997g	Where Tales Remain
 UCHSEkFpXqmoJZAXes8vWGgw	QuickToon Stories
 UCHSQ8z0h_Ho8_tKk5gwDlTQ	Tales of Valor-Podcast
@@ -10370,6 +10446,7 @@ UCHfvsFrryVCSrTvnK6BR5FA	the explainer
 UCHg4ZwZcJlsltcgRuuFRG2A	Mystora
 UCHg4bV6Nz7O20C8xDJcVlWA	Lumina Void
 UCHg7_803JHqI04rWkEJws-g	The Jiang Strategy
+UCHg9GRk-m7TcnMm2nzyzgWw	Mehar khaniya
 UCHgJFY91tmaMjMYAMOmbG8w	AI Life Stories
 UCHg_t8vELj4rICJjJo1X28A	Allied Arsenal
 UCHgcoaEXjrhhZTQQxGF2YVQ	WildWood_Creations
@@ -10621,6 +10698,7 @@ UCI7oIyyURJtBIIgI-GwZ7mw	The 49th Parallel
 UCI7sLuGzAfOrzUZgz_rEkng	Archival Terrors
 UCI7tYk1Mu1VhXjlEFvEMxTg	GEST Playlist
 UCI7wE6OQeJuVUKlazbSH3eQ	小鲤漫剧
+UCI80AKm5oo4jWvsQBTYggEw	History Unearthed: Lessons
 UCI84C7RaJc0AFC1uPPZBLTg	Divy AI
 UCI85jgcAMyKyfJxnjB26dcQ	Rapto Co
 UCI88uV8G1aq1ad-vMMWRjQw	BlueAbyss
@@ -10768,6 +10846,7 @@ UCIQulpwj1si--igCOLz78rw	sfskfsfsalfjslfspongebobadasdsdgdfgdfg
 UCIQy-nudHz4t-xxbMpFJoQg	lava
 UCIR7K-N1yEBHCv7tOAJYunw	Audioviser
 UCIRJUldgdLlLTAWE_hWMjKw	Wonder&Whispers
+UCIRP8hDYhcM78YpGVh069Cw	Lore Below
 UCIRRyaltSR3Q46hH9R610kg	Classic Romance
 UCIRgwuFRp98c0Avgmmd5wdQ	Epic Symphonic Metal
 UCIRpZKaseYkxQpWMhn3EYGQ	Digitalengineer101
@@ -10876,6 +10955,7 @@ UCIeWa1RxlDE2ISgAKM16sDg	Nzxbx
 UCIeXeOP3MMTvODbFjuqIHSQ	Emma Explains Everything
 UCIeZESv8skwy5Y0GJIwCqjQ	kitten Storys
 UCIejG_j_cqMSvzdbt6JZrpA	The Unseen
+UCIetlfqi_S98TNJT4ctTKdQ	Cayce Truth
 UCIewYB8C-pAGb2Kif65BQJw	Ecos Eternos
 UCIezPHWHrb5q9eFKg19Q9rg	HOA BUZZ
 UCIf8WyxvHNjPuPo0m9v23hA	Film Fantasy
@@ -10920,6 +11000,7 @@ UCIj6cDBunlclmC5JjN9FaVA	Neural Mini Food
 UCIj6jG_UnuZtIVYjYbZL0uQ	Canada Nostalgia Kitchen
 UCIj7E8QP-krYw9e64xaEJMg	AI Movie Studio
 UCIjG9Pooe2Tt72Bz-66H_FA	Daniel
+UCIjaqi6O3SzPBK8-Rc35K7Q	How in a Minute
 UCIjkEsuNYIVe0PRJxdvzFzg	Saurabh Walia
 UCIjkLgRzLpPo1zVL8B6r-EA	Ify's African Tales
 UCIjvCENwUG4B7gBeaeQyCVg	Sunset Flow
@@ -10938,6 +11019,7 @@ UCIkZExYAk6CdtuOSsKz0bQg	NeoGram
 UCIk__r_5wBabO0LymbA88-Q	Nitesh Nayak
 UCIkxZueUV6_yVJDAuI6HOHw	Officer Exposed
 UCIkxmNafGCGL3ATaaRU43Nw	Dark Mafia Tales
+UCIl2Q8Rpz9cy7oQOl30Wldw	Feral Planet
 UCIl2iCbgonMuwkN8anC3_sw	Black Diamond Tales
 UCIl87FVR9HnPbb96w7ZKNuQ	Stoic Mindset Academy
 UCIl8_NhIP7zzQuK2WZn0Mew	Real Black Stories 2
@@ -10970,6 +11052,7 @@ UCInPS9gqkALZ1wJ1fP0ByQQ	SoulStoriesX
 UCIncHz-MFqba1p0FYSao5ew	Black and White Bible
 UCIneMQwSYWtzWHAXT_qTWYg	DC ANIMATION
 UCInu2WmItUNe2cW9Rb35ong	The Mirror of Self
+UCIo2sDydR0oDgkzDudsk30g	Weird World Files
 UCIoB9xJ44OUYsZTIJyT4FYg	HWH BEYOND
 UCIoBw52ymLoaPSzE3ahfZhw	Manual del Filósofo
 UCIoPDRC0V7XDsKbnpVIgNFw	Black ceo tales
@@ -11112,6 +11195,7 @@ UCJ2bB90Dr5EdY5J4_1qkILQ	Gameskeys
 UCJ2nC_f7l_3SglR66gWV0RQ	Meowsterpiece Comedy
 UCJ30YnOef_jGlIvCeDZrHrg	Noctilion
 UCJ39fkZDb94g-BnOdbkuQeA	Moonlight Fangs
+UCJ3FzN427ZbbXaqomJ93mQQ	Factsincluded
 UCJ3fP9jZz8zFEp51aOYcTyw	Cats cooking Ai
 UCJ3kXphF9E54Ri9pP-qzdzg	Crystal Cuts – AI ASMR Glass Fruit Slicing
 UCJ3lG1t2Gsw8AN26s-6H0Tw	mehndi design
@@ -11149,6 +11233,7 @@ UCJ7AgfvmqrAH62-GdGoHNJg	Sleepy History
 UCJ7bqtp9bjMcnt_gQwserZw	Funny AI
 UCJ7rbgfyqculP2E_m9b4UQw	Behind the Factory
 UCJ7xRBtMcrRR4oyBoLEsWng	HIJABI COACH
+UCJ80yBpSjvUnYg-bbFkGm7g	Medieval History
 UCJ89OA8V9_nZ5THzjTOwLPg	Freddy Weik
 UCJ8CLloV2hBnPS73o_LMMaQ	ljfrdoesugc
 UCJ8KjNJsg67Av7iKBSW4qkg	AI Music Atlas
@@ -11254,6 +11339,7 @@ UCJLBj144R6rKY7GChkAU-Jg	Bible vision AI
 UCJLCrlUq_0zjMdJK75rVqAw	African Tales By Eche
 UCJLr3zFgiP4og0pgwczVcNQ	Moon Story
 UCJLyxo_oPy3WJPuePUisjdw	Doggy Soul Serenade
+UCJMOVo75gn51YZ6WI4DgF1Q	Horrible Historian
 UCJMR_6tMa3aA-WQsQFgx82g	STEAMPUNK UNIVERSE
 UCJMcEP20Lalkc9cdka85w0A	True Realms
 UCJMdgCymy-SdgfaajBcbGxg	LouisDaneShubert
@@ -11423,6 +11509,7 @@ UCJfYJzHc2-2ytg6sH9zrNIQ	Risas en Corto
 UCJfktJt1w9PSDmJZ8OxuiNg	HOA Karen Storytime
 UCJfnHNA2Nl9zmEH2E6dc19w	The Old Vellum - Medieval Music
 UCJfrq1y9uywDxvmDmUp13CQ	Info Insight AI
+UCJg4AQSmbErBP5mdq_mk1kw	NADA HATI MELAYU 🎸
 UCJgCmATDcJSdqApj6Tx1YZQ	Coming The HFY
 UCJgOBSYR3Rr897P71L65Hrw	DenkKlar
 UCJgQ05tzoF1f7XdW-m6v74A	FEN&MOCHI
@@ -11538,6 +11625,7 @@ UCJsKIP4yTODoBw25pGlqMew	MrKrishna More Reacts
 UCJsYoqsvwUff-wVKyBLTBaQ	Maria AI
 UCJsaeGHlyMg7TMsPblIWjAA	WW2 Untold Stories
 UCJspmUxRIiI4CixMdi-JF1g	Słodka Zemsta
+UCJsqNxBM_hFLcC2snk-8vpw	History of War
 UCJsvbOW0DzcDjktu4fvfwGQ	Ai Cinematic Universe
 UCJsyVbjn_bcbtkDQ_oOlZkA	War Vlogs AI
 UCJsyufXthclBnfwHwxX5zUA	African Folktales With Dee
@@ -11559,6 +11647,7 @@ UCJuA66gQk6RQdZLBWse8ApQ	HeartTaleUSA
 UCJuCP8oBgs_IpX3COfSfTyA	abc explainer
 UCJuNCvWdTm3up3Y-AmZ_idg	Grossplus
 UCJuSguJXc1usC_ZajoVCKVQ	Hoa Revenge Lab
+UCJuWQD801YfIfmS1cRQLf0w	GROOVE SUNROOM
 UCJubB5OPQRAhONkVe0EKvGA	Craft Face
 UCJucV8mcPg-VanYJU1M_iZA	Manurath Universe
 UCJudcZ0LPiqLHVTj3s2H9Mw	AIVS
@@ -11576,6 +11665,7 @@ UCJveQPQCUpL8VFjbX4Nk12A	Karen Diaries
 UCJvl1KFFf6gvZvmhfPjZdIQ	Anurag Tiwari
 UCJvsdJEA4xFq0BvUctGRSlA	Grimm Smile
 UCJvwGsdpULe8SuU7t9Aenyw	Mini Asmr x
+UCJw5EwMuLdgO7OoU9yjzvew	Codeloset Bytes
 UCJwIWLglchc62A0fcpW-Y8Q	Tales of Valor
 UCJwVpnBOMCe2HrJZPYgoS2g	Runexis
 UCJwec1zUWPJKHznubACun2Q	Inside Military Lines
@@ -11591,6 +11681,7 @@ UCJyWrc2X75hd0vpBm2XnNpw	The Cypher
 UCJyZAS8ITzTozLvmWdOMa2w	Afro Korean Film
 UCJybjiGJ82baWp19QdSFx2Q	Starborn Stories
 UCJyj-UNuNtint0uVuASS5vw	Stsauveur Sheryll
+UCJyleYLJKKikZsgT_70CRhw	Echoes of the Frontier
 UCJyvwXcUg3zayJ9oDQa-aMw	Quantoma AI
 UCJz0d9vyrKvsSCEDZ4RTSNQ	Dharma Podcast
 UCJzLOXGLfvNsgk9u_XZSxrQ	Iron Ragnar Vibes
@@ -11693,6 +11784,7 @@ UCK8tDpLW-uMOCnjpQ9_xr7A	Archivos WW2
 UCK9-D0OT6NanCIGDc04ZKkw	PRISM
 UCK93RAZHk4XVXy_O3WQEz-w	Ai Cats
 UCK9HWLXOpsr-FKHWzE31bww	StringSoul R&B
+UCK9VzhTD-mH8Y2x4bIeT3mg	⚡ StarFaithBeats ⚡
 UCK9fQGQ3LRP9ginhHBpJQLQ	History Chronicles
 UCK9ftz3a-ArPCL-hDTliZpg	Prime Tales
 UCK9s06pMYIUqawhXiRVi0fQ	Hypothetically Speaking
@@ -11812,6 +11904,7 @@ UCKLi9haehZEMdKOa_E0eTEw	CineKrinoStudios
 UCKLm4FWvEde8qBCEiG-e-7w	Fact Flash
 UCKLzPU_58a9CPxmoqvwWXaQ	CrushFable-Drama
 UCKMCnUeqZJYp0XUQIQahrDQ	Barrietvstudio
+UCKMKpUam5CiRGX-UY2zsn-Q	Dark Plantation Stories
 UCKMQO6lv89FTxlFbgixh78g	Grandma Efe
 UCKMatOB2_u4AKCeMAuf5prQ	የድሮ ዜማ - Oldies Vibes
 UCKMc9n9yHR3tCe0H2iIjVng	iReddit for Sleeping
@@ -12027,6 +12120,7 @@ UCKm6hzhQahu1-66DAkX-neg	Soulful Studios
 UCKmAESnQ85q6iUZWe-C7L_A	人间故事會
 UCKmICL27Jyvwus8OSENwj-g	ZH AI
 UCKmgZ6a2Y-ytS3jmNwsYW5A	Family English Story
+UCKmyN-BtIU5VZWooBuxRtiw	Unveiled Spirit
 UCKn0Nq1SKSfn_hv00x6iwzw	What If AI Monroe
 UCKnFNcI-LhL1or1X_Jm6XOA	VistaVerse Drama
 UCKnFNz6ADWtAabeFowqnasQ	VoidBornApexHFY
@@ -12044,6 +12138,7 @@ UCKo4RMr8vyk3pvm9dGwRzNQ	Wealthy Mindset
 UCKoB9g0YqqSmJvEMa32VLbg	AINIMALWORLD
 UCKoL3eov0s1FstKU0B3rpAA	WW2 Crewfiles
 UCKoZgLXrVEWjOHUyrI5r30w	The Cowboy’s Muse
+UCKoai3iziktx6Npk_8YqUgQ	History Alive
 UCKobip49j9U4cVpQG2sp0Ig	Fred Froese
 UCKohZaPOj0BfEqkvbFJUhkQ	Tiny Village Doll Kitchen Stories
 UCKopO0gf2RHk6Ou9noWmiRA	微雨殿 Palace of Misty Rain
@@ -12061,6 +12156,7 @@ UCKqgbX0MOmE5ZzyFpTP524g	Tom Talks Money
 UCKr1FGCQrx6ZYl6w3vz5MzA	Snuggle Story Time
 UCKr7_wVJlxWLPnhtBLzrMmg	loving мє55
 UCKr9Woh5KS9uLUbgJ5npIWg	The Midnight Lab
+UCKrB8V4cAki3cuG5GAJCaKw	queen of metal orchestra
 UCKrBP3QtTQLC3yxRrw0mKHA	CINE_VERSE_AI
 UCKrEb9Iic0fbSJs6yy9u7bw	KamenGame AI
 UCKrN_N9g2h6ipUbMSMijpnA	Ai Debasish
@@ -12106,6 +12202,7 @@ UCKxyhT0XddrFmafM5pZGU_Q	Brave Cat Story
 UCKy8HJjHtfaSLTmdb9-wBaw	Ash Reed
 UCKyJgrhwrLgGkbUcNjdS1Jw	The Bible Unveiled
 UCKyLXkGPVi_WFpf4tPaWOZg	America Facticity
+UCKyMeINY15otMy7ukXBHxBQ	Secrets of Slavery
 UCKyh4sI9PdtwTmxYizurhVA	kinjalba_024
 UCKyolh-sZYyg1AFRhMuUmjA	British Records
 UCKyxRzhqhsUYXOQ1yAGRmZQ	Neural Mix
@@ -12269,6 +12366,7 @@ UCLF2e_0sLbW95huv1gmY8iQ	Manhwa Past
 UCLFV6fWcldBJJE4Q1t23pXA	Fletcher Finance
 UCLFaLwaesMZWt_Ljy3g2FiQ	Go sleepy
 UCLFibbhZnGVSkaAmSsNvOuw	SuperP Minecraft
+UCLFu-1mIxQrqdOS4DFQX1DA	Apocalypse Rewind Comics
 UCLG2bkcplw3SaIB9gR30_1Q	Meow flicks
 UCLG5YoGwl0V2rwiGAeuNPSQ	DANDES PURE LOVE STORIES
 UCLG7t7GHo9YToMBYFmqSSdg	Beyond The Mansion
@@ -12551,6 +12649,7 @@ UCLlHpOwMuOxGXrK2JlIO-Ag	Velor AI Art
 UCLlIgOPCaAby0zoDtr2b9hg	WW2 T&T
 UCLlJvd98TEjFBh2oQFFAgFg	Vertika AI stories
 UCLlOeMdWNFRZn_H1yTTUOMQ	Borrowed Lives
+UCLlPSgv9GzUZs3MQXtfpQJQ	Female Metal Anthems
 UCLlUPeA3tFUKrC-18Z_IfSA	Sky Stories
 UCLlVQ9GTzPgjjP7colm-qQA	HFY Starborn
 UCLlcmbH5mWxu8Dmi_0c7GWQ	ZOUK LOVE EN ANGLAIS
@@ -12795,10 +12894,12 @@ UCMCNp3R4H8PpvqnRfY0sEYA	AI Bible
 UCMCSp47uYfVTa0ayBqEbpJw	AI ZenStudios
 UCMCTHN5P0ECIMUGuISptQ9w	Rebrain - Moments
 UCMCckHItZwt6LpmYBY6YFjA	DramaTrap_English
+UCMCmX4a5qGkfD6LEbAyy9jg	Eternal Rift™
 UCMCnLBcA9krs31YSW34A5tQ	Day Dreamer Tales !
 UCMCq074s9uCntrIoJ2czvFA	PlAIboy AI Art Gallery
 UCMCqFsapnFdTAkD5gC5N0XQ	SKALVYR
 UCMD5TuKh3OsIraOKffub3mA	Ai Puppies
+UCMDAR7kM7jm27zjJ0sbs4TA	GraceStoriesHub
 UCMDBPIWhKpSbxtylyyFNE8A	Western Native Tales
 UCMDHm9pBWFY8r1NUkyWxPBw	Ask Big Jim.
 UCMDUwCJzpR7aGN-4-HjDYDA	MindNuggets
@@ -12984,6 +13085,7 @@ UCMVysluIbGAxrCNHH2p5TTQ	华泽造梦
 UCMW74W_nzvHmUWncFZlqmdA	Money Made Simple
 UCMWCRyD6A2xYAyE1h46GxLQ	AIニュースチャンネル
 UCMWQ6kIEI7KVc1J6McXlhkg	NextGen Trailers AI
+UCMWWIgHCswFKQz90JKuUyfQ	Father Nature
 UCMWeCboZnOpQL8j9IjwyZKQ	Iqra Faraz
 UCMWfKvRWzqYqvVyQB-zE88A	OMNI DRIFT NEXUS
 UCMWgkXXf2eKb2A3UKoXmFVQ	Clarified Mind
@@ -13016,6 +13118,7 @@ UCMZqgcL6gHM2dbJdlOeDo5w	좋아해 근데 교양은 없어
 UCMZt6Dp-8if2u9a8ErwJyEQ	Cosmic Lab
 UCM_7_dCQzGnXqftVoMun0iA	@AiCartoonStory
 UCM_9mJbghHmM9Y6UHFolkpQ	Ai Cat Shorts
+UCM_B0PQECIR3Io4IjwnQvfA	History Shortcuts
 UCM_R2LZu3qK0pit4NuYrXeQ	ArtSonica
 UCM_S0vC_YKjwddIuIzjOqfQ	Chef Meowster
 UCM_VDJbYR-i2zVuH5dxI3Uw	The Hidden History Project
@@ -13231,11 +13334,13 @@ UCMyRoXqEfFZOz9iAfhLroBg	meow AI
 UCMyr9StHUhU4UIdmSp-0DVg	AI TOTAL TOPIC
 UCMyua1V9cSnvFP1vx9pH3QQ	super_ai_0
 UCMzConhCVHM-Hmiyl6ZK-EQ	Sueños de Mar
+UCMzRTOugvDLwhSwJdoSWBZA	Altrusian Grace Media
 UCMzXXaE_Nj0-vxBbIhc8nfA	The Oath of Justice
 UCMzoSvi3JkBNT5_GEzbUjxQ	Estrellas Retro
 UCMzzpg-Ghsja1TS7EENbiYA	VIRAL CONTENT
 UCN-2qloXNFtOQELcCQuqwgg	The Infinite Testament
 UCN-7cVmFWYSnUlXAnZffGOQ	Mood Woven
+UCN-BkB2BkAPqxu9iO04gq3Q	OneShot SSC
 UCN-FW4I5QDIPN1S9JjEi2KQ	Midnight Medieval
 UCN-W-TAID0RAkj3EYbvc_sg	Viral Tales Africa
 UCN-lV11WwGYEtF3vG8_ycCA	HFY Galaxy Chronicles
@@ -13336,6 +13441,7 @@ UCNBBEWHHfI8MOXpnfT8GVew	Ashborn Records
 UCNBKyr7Ro6we6-FQABOcTJA	Aks Stories
 UCNBOuCPAFek-GNS1YNEUhmw	Ginny Stories
 UCNBXdYsn20LAcfvur3wHLlQ	Doorbell Zoo
+UCNBeMPYea2r81B-FirDr9cQ	Genai Linux News
 UCNBeWWQgvfUXN-rO5n4lB3Q	Million Year Journey
 UCNBi7nOE59-Az6MvqM61ZMQ	DuniaIrama MusicAi
 UCNCHaJLtTsD2OHusp5HI-Dg	Lonescapes Sci-Fi
@@ -13416,6 +13522,7 @@ UCNMb8AQc8ff5ROsZRAdjaZQ	Violet TalesNest
 UCNMbo7Ou0KyaiOOjtUdaszA	Ashley Chapman
 UCNMjx2u_5m2yWlsLVLZbT6w	Iron Circuit
 UCNMpDTY9brixhviMDm8_VHg	Northforge Saga
+UCNMpXfMpgn3tmzQPV4opKTA	Nomic AI
 UCNN0XICv2v3KUljVkPl9tEw	Kitten story
 UCNN91Iz1WqxZD2nzH0Nt2qA	Echoes Justice
 UCNN9UUoaB5mE6pURD5t0qjg	PopCandiz
@@ -13704,6 +13811,7 @@ UCNrE5KG0YtCH1BP8WG9S-ow	r/AskReddit-Swimmer
 UCNrEKYfJjwifBOEIg6GKhFg	Synthetic Hearts
 UCNrQjfDeJglmIcjcICu8_8A	Simple Finance Tips
 UCNrzw_E0OrT7QmbokXNNFLg	Futuristic Sound
+UCNs3D-dAA1AySu0mN4sDmjQ	Ashgrove Pictures
 UCNs4uDKMQrbkGnfHXx8b8sw	The Revenge Filesss
 UCNsBq8Dw5fPodia-anxMxsg	El Monje Interior
 UCNsHMacIWCVmzRE5E-oM0Ew	WedooGFX
@@ -13845,6 +13953,7 @@ UCO7G-nmRmVqvZtVOJnpVLZQ	Surreal AI Music Lab
 UCO7iqpYcqmeRz0my_who9kQ	Maqaroon
 UCO7jfDl6XdnzErrxMN8ufbg	SEAL Shepherds
 UCO7l2o54CCGzCejBeZf0eHg	BrickHouseAI
+UCO7pdL4xkmT33GN5y6huXrQ	Bag Head Films
 UCO83M4088BxEp49Q6is9oXA	AI Cinema Studio
 UCO89UGsMlNWJVEnVvmErSXw	Mr Cat 2
 UCO8LWCruCPE-CJZFc1AaX5Q	Starbound Extra
@@ -13861,6 +13970,7 @@ UCO97KXBeASrttA7cYnCNqhg	Tales by Mardhiyyah
 UCO9crvf16Z0XFJfhClqZxUw	ALPHA LESS
 UCO9n4XjQhFI8ovtTehtcTIw	Parallel Visions
 UCO9wHpE04fJ1y1p7ByycQ2Q	Hidden Rank
+UCOA7_lfFjP0xIu_vrKO4exg	SimpleProfessor
 UCOAIxxNyRdxtkzeTOw5HglQ	The HOA Truth
 UCOANPJHed34aa6M3ap3mN-w	Swingers' Lounge: New Bachelor Pad Cocktail Music
 UCOATpj_omkw13qiHQ101b-w	HOA Nightmare Stories
@@ -13938,17 +14048,20 @@ UCOKza1gnYS8h06DrS978IXg	Paper StoryBoy
 UCOL-e4061ucbV6798y13w2Q	Secreto Judio
 UCOL7plDi2Zr2WuhVgjW7g3g	Tracy Honda
 UCOL_kmxA1BhAvbM5EI_Uqew	Archangel Michael chose you
+UCOLfIlZfHFSKnpSwv-tPlDw	Sam Reflects
 UCOM2i4d1xGqdDcXm71NHRBA	Caine Uncovers
 UCOMOXCscYGNB1yMG9-ozVJg	The Royal Vault
 UCOMXRrDIbBmj6iy8t5O62uQ	Echoes of Patton
 UCOMjxHuYV0xJEC1v0ovVQIg	Zero2Launch | AI Automation
 UCOMn4Mlq5rIWJhMBuEVnlsw	Masjatika
 UCOMqINiPFv-6_b1RSuk5m7A	Funny AI Cats
+UCOMqU3_npmGz0N0AWf609zA	Ultra recap
 UCON-kPelce0i8AvrH3XVDaA	Dream Hackers
 UCON3LTagYd79WuHPDMAlj5g	Boris Tanev
 UCON4XzxJnXizZyx0atYYbZQ	Almost Real
 UCON7q82EcyFLPx6fKA0OSsw	Minimalist Wealthbuilder
 UCON8dVMh-mK0A1f0h_FjX5w	Chidimma
+UCONA7yF0C1q5qCmng0kC7oA	Awua Animation
 UCONAuggywKUn8Tq86EeheDA	Vault Theory
 UCONF3P6OLGIXTvZkJECrjXg	Tokyo Chrome Radio
 UCONKat5rKjkp5tPc_4jxC5Q	Twilight Tales of Africa
@@ -14013,6 +14126,7 @@ UCOUWy1Jumk5oNNOgy8hCfgQ	Moonlight Sounds
 UCOUhuSRzUY_70OoubzxfVXw	Neural Depth AI
 UCOUl1M6Zvn7fdFVPGNFH7jw	AI_videos_viral
 UCOUq5ZVuaOCTHsOrtJqO6kg	Olive’s Blueprint
+UCOVDhoHqihqPN88RsOMn4Vw	Forbidden Felix
 UCOVN4RpGGgqdkuaABpJmw9A	HOA Tales
 UCOVcYNJ1nqBhlnjEycoFMCA	Ai Marvel
 UCOVdEobMuq5OYkO9XVxShbg	Onyi's AI Digital Diaries
@@ -14116,6 +14230,7 @@ UCOffSbkE_jhlkmGLiSNmDig	Dark Matter Fiction
 UCOfkUhiTzE09lcXryfAoOsA	The Hidden Front
 UCOfn2sGc9PKv3cGiJ31MXcQ	TrueGrit Stories
 UCOfpNKPW0ev5FXLIIs3VPAg	Ai Spiro YOUnivers
+UCOfyYKuAbVLAoyJEBMyF39A	Big Brain Wisdom
 UCOfznp_CSyVBPV1pEBZ4FnQ	Neon Cub Tales
 UCOg8f6GP4OoCf1y-YHKUJIQ	Cowboy Tales studio
 UCOgGh_rsELiZ6cUAITNqnoQ	STICKROAR
@@ -14297,6 +14412,7 @@ UCP--k2Fli9f-fXzn7rJBMZw	ABALA Mini AI
 UCP-1SPchhB4-S0Fv3rL_pcg	Deathworlder HFY
 UCP-1l61H6sBXwACKLYOSBbA	Curated English Short Dramas
 UCP-LAVKGp5nj68tGD2beP5g	Chinese landscape
+UCP-eQE78IFEAQodregVGTHA	Being Stoic
 UCP-s0fZOWws8mXvU_PnoUGA	Kemet Saga
 UCP0E1FL1mQuWGzgRyx4nRhQ	AfrikCosmos
 UCP0Uv8C-jz8_m4lXiXPZqUQ	Sacred Stories of Faith
@@ -14365,6 +14481,7 @@ UCP65XDT18X3xAu9znhFIdTA	Mafia Love Stories
 UCP6MUef6v8jbPIaiHIyThRA	BrothersRedditStories
 UCP6Wj2BwEKGP6BSn5gTBaSw	Quiet Hours Sounds
 UCP6aLINCXeFFhf9SBKZGpuw	The Art of Investing - Sam Zell Fans
+UCP6fiF6VXi5CdZkWVg28PgQ	Star Wars: Alternate Paths
 UCP6patcxCbBixHsZInYZKGg	CountryMuzikHub
 UCP6rjw7qVsoeMhikSaXU1mQ	African Tales Studios
 UCP6x-bMPlv_VPRhs9DZXaXg	Física Al Estilo De Feynman
@@ -14423,6 +14540,7 @@ UCPC0d1Zce0rvQ_orLOR1F0A	UmmA Ai Latvian cover
 UCPC9GHRiMGYL1BI9QWDbRLw	Song Fairy Tales
 UCPCK5vabAZpsIpjOqA1yB5w	晚风影集
 UCPCPjbaLyZHeRdq27tkgD6g	HOA Horror Stories
+UCPCuvoFwZcOdk4hMzxH0k1g	BOLLYWOOD WALA WRITER
 UCPCvXgrwydbut6ZRUsJ0hXA	American Market Desk
 UCPCzfaymvx5cGad2yD8TcuQ	Afro Chill House Society
 UCPD515iXvX7M9zTgAJ7B8eg	NeoStar
@@ -14971,6 +15089,7 @@ UCQFifSoTCHIqO4lZLjvPrdQ	Cosmic District Studio
 UCQFreCIHqLJz2L0kfuAlpng	Cat cute animals
 UCQFuV7YkGaFEIqS-NOjjrFg	The Terran Mandate
 UCQFxk1mqT0yXlliwqUoSXGA	Chaos Cash
+UCQG3Md_oqtMa_2Hr86k7g8w	Ham Hain Technical
 UCQGAh-9MRS1QEANyk5aHIgQ	ByteTalkYT
 UCQGN3fSmYWoWnlxyuVSERhA	Wildroot Ancestry
 UCQGSzocziWvlnGhjUnIN_0w	Afro-Korean Epic Stories TV
@@ -15091,6 +15210,7 @@ UCQT1q9KeTIK5jwSH_xG0dJA	Cinemind Ai
 UCQT5BxQO5hUGOArSg8GGbAg	Future Tech
 UCQT7qubWKcRB4FnYjf435kQ	Sean Magnee
 UCQTcmLiL5_HMUnO1GRwCdjQ	Bro Pump
+UCQTkPAgya-tMFF268FmkOhA	The Disputed Lands
 UCQTtr3ZdjTCSDXxTAvzwutg	Good Biblical Morning
 UCQTznC4OW93pTFapkaYAHCg	Nature is my therapy
 UCQUBI1ePBWTGHxMPBh_rQXQ	Drew Ponder
@@ -15118,6 +15238,7 @@ UCQWM1R-M8x9b7iCYZ1Wkjjg	Ai Story Reel
 UCQWMx3Xn-IqOsZOwQiWUFsA	Synth CM
 UCQWibKv63KN3lPQvrqWrgGA	Black Eye Media AB
 UCQWnOaIARDsWe6_6uol4qaA	World English Hub
+UCQX2tpOQwRak-7T_mgu1UXw	Mythos and Logos
 UCQXCKcS2sCjB0SOm9tkfOAA	Tiny Taste Studio
 UCQXDe9wdNVpq4iMi-o-uAcg	StarRay Shorts
 UCQXEGD2E4f3GUANPfZX9viw	Otaxon AI
@@ -15628,6 +15749,7 @@ UCRVjmXJWrxrlxaHGY5MxWFw	Jazz Comet
 UCRWCGsQQjwEVBNwlKiBKLiA	MegaFactory Discovery
 UCRWH9H1yxLfNQo84P1NWC3w	IntoTheMap
 UCRWJsWrt4WCzOXE3_0yvcbA	Love Destiny Reveals
+UCRWLI6ncjGeXcl732FvUlVA	Intelligent story Telling
 UCRX5e3CNTUFM1eFtweXDeaw	AiAnimalstoriesAI
 UCRXTDBEKYRW3hgg5sgxCL0w	Anabiya podcast
 UCRXg2qB5v52JErXOYcSXaFA	Zoa Revenge Stories
@@ -15766,6 +15888,7 @@ UCRnTbqrSvYpPWYkGr8uNrxA	Simple Discovery
 UCRnbYed-Q1KN5pO81JN1VVg	NAGPURI LOVER
 UCRncFAHoxSnO9tVQweHOymw	Cozy Nature Jazz
 UCRnj7qu99vfQ37VpB0GXe4g	African Tales by Emma
+UCRo21PGsQqkNjcejogEtiiQ	Divine Truth
 UCRo90zsjuRuOXt73y0oUgSA	소풍가자
 UCRoLRgUHMMRFZMw7Ix8yO5w	Chubby Orange Cat
 UCRoMg2UiJtecP7U-74hYEfQ	LUXURIOUS LIFE STORIES
@@ -15980,6 +16103,7 @@ UCS9dz_917_0PiWu9SMJ48Fw	TiinyTim Productions
 UCS9n2E14Jn_49QKm5CH2n6g	Dusky Beats
 UCS9r-KROTe6UdcnPKXZpHPA	General Patton: Untold Stories
 UCSA8_OO4wDo3kF6WhD4ucQA	Peaceful Christian Lullabies
+UCSARfRuZJIJzX0iOwjJMOXQ	Bite-sized History
 UCSA_I1jsxywhgAa0mQ0CJ0w	Luciano Pavarotti Legacy
 UCSAapqqPrju-XV3ln5EN-Hg	A_H_Studio
 UCSAhPyXFVD-kqPEptq5eqJg	Scrollix AI
@@ -16225,6 +16349,7 @@ UCSZp2na9ey5o5q7jAhdQ5cQ	Rainy Nook
 UCSZuITi3UupsNt0MnIl_6Uw	Capo Mafia Stories
 UCS_AqHVAMYfZOrfcf8mqvXg	misaki 夢
 UCS_CTBRVzOY4jiHVv1R6Ozw	FULLMETAL AI COVER
+UCS_I80xHLoycVLPAVCzorSQ	NepaliAI
 UCS_MWpucWfIsh1IQBEQBTOQ	Whiskey Blues Sessions
 UCS_WGJGHmtrVD_gE0AR_5Ig	Half Hour Blues
 UCS_Zb52k9w_-ZZfzsdBuCIA	Ainimal Rescue
@@ -16263,6 +16388,7 @@ UCSd_37JhlS1-cTL-XhPuKdQ	Homestead Roots
 UCSdazpRY2o9Y8hLfI99RCPA	Historias de la biblia
 UCSdgR94R8l1gITcpkT7K3pg	Roseline Movies & Tales
 UCSdrkwOkBkmic9_E2JZNwaA	Tinyzozo
+UCSeIAP9ehBHO67aw7j-l3SA	Prythalize Hyakuya
 UCSeOWNuu77mQ8LDI4aTH7Jw	Capital Raccoon
 UCSeQMZmud1ey9SHKZUKI7oQ	mokkamonkey
 UCSeT_pnQFrmE5Pyn9MB6WJQ	Decreto Fortuna
@@ -16338,9 +16464,11 @@ UCSloszFPk0zbF3wgcqtxNoQ	Werewolf Romance Kingdom
 UCSlqbBqAo5i3ZOPSlujes4g	Wenn Herzen Heilen
 UCSlwgqAXct9Oa-8XnzzlkXA	Brand Meter
 UCSm5vg_XP_JpSGNzh0QT8gQ	Human History
+UCSmBVFUjKUtP1788GQ0_BkA	RTS Dominion
 UCSmDwq3zjo7_mp4kCm0O3WQ	Díłééʼąąʼí Yisąąʼí
 UCSmS8X_q_hfFW2OOt6Nltvg	Forgotten Art
 UCSmcissxhmVotG89G7Q964A	Chemistry with Pharmacist
+UCSmfWOCQ-n-laRWVXqnoixQ	AI Chamtkarr
 UCSmv6D7XkKt2rSmNAFTvXFA	Movie Star Rows
 UCSmvpG_f5NX2ilKnfxfad0w	barely jazz
 UCSn0SF75M5_4lUbdt7XO4GA	Dolce Romance
@@ -16411,6 +16539,7 @@ UCSvn43tGt1rJn5N-JrUMhKg	BingoDance
 UCSvzjyQPIJOFNkmKxGSqDmQ	Survival Unfiltered
 UCSw0P5J6P-Vtkp-x9sHBLHA	AI Mini Meals
 UCSw5r85fJmdlWoumGwxqnVQ	Rich Kit
+UCSw6ioYa5xF7xlSgHjc2Smg	Nov Drama
 UCSw8G0dDiPQa1wSmkxy5ZQg	wild west tales 72
 UCSwFGtWovhBaJLCdSLxjPTA	Amythecutestoryteller
 UCSwKtTOGNGRRZzh-wt4oZyA	Frankie Finance
@@ -16693,8 +16822,10 @@ UCTTvKxNwbhKp6Vce1B-0pWA	VexoWF
 UCTTvZdTj1gAg0qsyC9em_cg	African-Folk-Tales-By-Nikky
 UCTTz3qY67LwTaWmiBDVYzMw	Soft Shadow
 UCTU4hFlVv6NLTfEc6s1cCVQ	VosuAI
+UCTU7vVN0NYOCVjPpCmXwGIA	Kroluk Audio AI
 UCTUCF46n7neCx3fqwoEj1ew	WorldsPictures
 UCTUK_jfmLaZMWr9WfVaxL7w	Tech krisna
+UCTUeyjCW1NfSAOxscvmNrpg	The Hidden Codex
 UCTV-vchGPD1vgbYfcFoYBIQ	African Folktale Damsel
 UCTV213BWiOr-_jsuPHrOG3g	Koto Stillness
 UCTV4pS6xYHm7_-warHVWCDw	Marvel Facts AI
@@ -16815,6 +16946,7 @@ UCTh9mZjzPJLJhwclMjoU9TQ	Obsessed With Afro-Korea
 UCThJ17sBx1SvT7V28w1Z90w	COFFRE-FORT DE SURVIE INTERDIT
 UCThMAeVvI4QVgmveG0-s-nQ	WW2 History Hub
 UCThNf5u95tW1ssG48mZmUvQ	Ai Guy
+UCThSjrbxjFCnZvizypHM5-g	ROCKCATS
 UCThd9ueZ0hM0zXLlhhBmbgQ	Axel Frosten
 UCThkUQywHBFgEW10PybnJjA	Told by Old
 UCTho3F1nr9uSJjV9IWUmNQQ	kicking_tighs
@@ -16839,6 +16971,7 @@ UCTjByjGzbNYyVaZgc4nVy0w	Solo Records
 UCTjGcHkxLvu-y6bq_apX4gA	𝔸𝕏𝔸_𝕃𝔼𝔾𝔼ℕ𝔻ℤ
 UCTjJRMRMfTslehnhffRkWJQ	NBK AI Studio
 UCTjJVJ995QNh74k0nEYBJeA	Morena
+UCTjafxZ--ENWqP0tkxhIv8g	The Forgotten Historians
 UCTje2AVxhvlFgH2tJsbfLDw	DD Toon TV
 UCTjpSa-_GyWeQbpeu580lAg	BUT STORIES
 UCTjv3nWvko79mi1bPNvHQxw	Railway Relics
@@ -16950,6 +17083,7 @@ UCTuTw2dROlfBaY-HP--sC3g	Warm Homes
 UCTuUT6QuRKN1hDctdvFGfPw	Kobee
 UCTuhMAo5Sy9yQsJ5IFn2AHA	G Spider
 UCTux-IwyTbIQQCT0K128I4g	WildWest Frontier Tales
+UCTv0lqniBP7KR-j29zzVcZg	ETERNALWALK
 UCTvZjBjfTSyjCdRWJ-vo09A	kannada AI video
 UCTvdUAyoWAlBJGfNRfsG1Ww	Kraken Haul
 UCTvtA2BunRlwiv7QJG1hk6w	Luna & Vincent
@@ -17131,6 +17265,7 @@ UCUC7NGYw-25U5p7FBhFJW4A	Panda AI Duniya
 UCUCL5XCKhgyUeiLkl45zblQ	Tizl Ambient
 UCUCUoDjR18KROyLmRONqR8Q	Abolai
 UCUCY7Rpv5Q_aygXXKpP5xnw	AI Universe
+UCUCdJGcGd2ptzKj6ZkkjnAA	Yodel Metal Studio
 UCUCw7I1kWQ97RqrxR-0rNlg	Sugarball Sci-Fi
 UCUD3twgZdKLf61zLV531HFQ	CamMysteries
 UCUD5rA9lxwUFyCu35F5AWbQ	أفكار وتدابير الجزائرية
@@ -17152,6 +17287,7 @@ UCUEm5c9x8vMqJVnsJhvEYcg	Kids AI Rhymes
 UCUEqL16hk5nmrdCSPcnXHUA	Purr Meowgic AI
 UCUErpXVy7psDaj2RjWhYEwA	DAD'S FINAL WORD
 UCUEt2OGdPCzElZE9TxcUZDw	Dust & Sin
+UCUF1vgRv13xPMWHBctutKTw	NeuroBeat
 UCUFH1-EUb-O5MUgmz8OpwvQ	Amber Lounge
 UCUFMOUAcxXbBPKUnNxFxbPQ	Latongu Tales
 UCUFMPm9Ok28N19eq_RhZiBw	cookingwithai
@@ -17328,6 +17464,7 @@ UCUY4wor5mEP-SHaKJJFMjHg	HOA Gone Too Far
 UCUY7YFcw2yzLu0sXk9W-DoQ	Freydisa
 UCUYD-WDFIsF_ZA8njbymiMg	Reiki Além da Cura
 UCUYKn1RRo5fpBOA0mJ2YmGw	Maya’s Romance Tales
+UCUYjE9paUYn3_ulae0KsapQ	Story Confession
 UCUYqAH1K2H4JSa1I16-ev4Q	Ghibli Breeze AI
 UCUZ005RR2bQAqdsgCucoqWw	SimplyXplained
 UCUZ1Q4uiUrbpsJy1R6_eTeA	SB Style Viral
@@ -17352,6 +17489,7 @@ UCUa7f9MzS2UYXYdapt6D4dA	Jewish Financial Code
 UCUaLCbKbjxse2X2w5Us8X0A	Old Whiskey Blues
 UCUaMOqH7b0o9nBdXvNBaQTQ	Tajemnica Świata Ujawniona
 UCUa_ppQ1PjlQPXiJlsmm8CA	Silas Crow – Dead West Tales
+UCUadvBSBE7EtHlZ_IAJNu5Q	Awakening Wisdom
 UCUahjMmSxQaHgfQXKXDCnSQ	Manpreet on Mission
 UCUb0ar1kiFT5Y2fsc9_bZmA	OLAS STORIES
 UCUb53MOULcekwr60ITz8sgg	Light Of Lorien
@@ -17363,6 +17501,7 @@ UCUbc3iAbMRxECzza4ItCsbg	The Enoch Files
 UCUbnmjemgiqeUoS-jzdteFg	Hidden Earth TV
 UCUbxi1Q5n56q4F5MO-iv34Q	Atten Recounts
 UCUby0gd2VSQRuoJxTvMdBLA	Mianbao
+UCUc-08VGMKdKjQS5dj5XfjA	KDH Fantasy
 UCUcBlHLkNVKv0Bw4V5HWJuA	DNA Uncovered
 UCUcEhboLTz9nRMpZSe6to_g	Whispered Mysteries 247
 UCUcIKr3qUb1hAjcuHojDNOA	Genius Toon Lab 29.4M views
@@ -17447,6 +17586,7 @@ UCUl8TQnsUFcrOrTta4_4HLg	AI Beyond Reality
 UCUlDH0wexcGpw-MZdRwOGnQ	RexTrix AI Studio
 UCUlJ_wl7Z9nC-GDRlTgoDig	Cheater Revenge Stories
 UCUlKuCMMp4qy-GJmE8VnO8A	Moral Lesson Stories
+UCUlQt4_YGDQh6NcttFqC0ow	Aleks
 UCUlRB4Zv6XBEiiGRInk4YFw	Dr. Crazynovich
 UCUldMBc7qT0AWeMiAIqB7lw	Gracey Werewolf Story Bank
 UCUlptKo9d3URdHgR1Q8eSDA	Calvin Stories Chronicles
@@ -17565,6 +17705,7 @@ UCUz6WJO5rcdeqSFNcj8trZQ	Cute Life stories AI
 UCUz7YxdBTZb-2vBqXKx4Qqg	OFF MODE
 UCUz9LAWowpzWlsj1u0KiZxg	Soothing ASMR
 UCUzVQR8dWQlDmZpnqD662Lw	Celtic Anima
+UCUzuAsbRznmZSdWiyj92Ohg	Forgotten Pages
 UCUzuMtBsWhO-uMKEv4njBAA	Tiny world of Village AI
 UCUzvKkcpeGcONkLvSbpTq-g	Iron Doctrine
 UCV-FAK91ZCbDfbWkNkY2UeA	Afrokorean STORY TV
@@ -17594,6 +17735,7 @@ UCV20he5sg0CJV1YQybYwxEQ	Havana After Dusk
 UCV269T352IlIFMot1Sqx1BA	Squintist
 UCV2BOlOPFLX673LHUgn3L1A	ProcessVantage
 UCV2Dl0lZfcy8P1eJ48Jpbrg	The Phoenix Atlas
+UCV2Nd8Gg-DQyKwyYhZXjXpg	SEOULWAVE
 UCV2OhUlOMRRS5LHzD0XjM2A	Curious Britain
 UCV2VYe0aklHc9xQi1VWqAZQ	IndustraIQ
 UCV2YKspOlrecYpy_64saRxQ	Shadows of Justice
@@ -17784,6 +17926,7 @@ UCVRK-pcxfe0fVLwtFOZVZ0A	Beyond Color
 UCVRi-uJGlR29878fLlnQG5g	Heaven's Anthem
 UCVRl6qk7PQ5RUsZjqe5MttQ	TheAIJudgeShow
 UCVRmdXwxzV9TTZERiZjEgtQ	WW2 | Documentary
+UCVRtgpU9d0Ih5E5olavLgsg	Estrategia de Sangre
 UCVS58ZAPpu0H5S7_mTp308A	Quantum CoreX
 UCVSSO9QOkUreWEKOraFy2Kg	Continental Brief
 UCVSTJ-5XqNiUIz66xOzSFdw	F1 Pro Explained
@@ -17798,6 +17941,7 @@ UCVTCfQ8A-VDuoA1rzIi9mNg	Ai Animes
 UCVTDUp8ciJ4LX_yXzZYZjjg	Good Story
 UCVTNJfxR1TYHISPK45NyQjw	Boom Bap TV
 UCVTP1Mhh71PR0ROe9A1dUWQ	Cat World Cute
+UCVTUTg4ylPt5005OT7CMSJQ	Tribal Faces USA
 UCVTV9cvYIoW-EIN5myW2P5g	My Legacy Studios
 UCVTYtB6zHGUysum2QUYSeWA	Nem - Nova era musical
 UCVTa_S52u9-0SANjyn1uA0g	Terran Doctrine HFY
@@ -17822,6 +17966,7 @@ UCVWLWX0uGrFADNRuU9VAlUA	Beth Dates Through History
 UCVWM1r4UjUaKWuUcA8NwVxA	ZenSlice
 UCVWOQQDjoD1LSuLRjtp2W9A	HISTRY Studios
 UCVWUbDXSGri66uvJLTlzZyg	Shy Cat
+UCVWcs-fRKf1Pot_f12jkQmg	The Crown Historian
 UCVWiioD3xt9Tc7Bi4U6097A	Aida Cati
 UCVWn4nKX-VHR8u0wbJXydgw	Mr. Dean Stories
 UCVWoiF-yHlD0vQbcaLZP9Tw	Child of Nature
@@ -18192,6 +18337,7 @@ UCWAPW1utuRw8DyvyoIMqkZg	Aurix Tunes
 UCWAU9J71WmGVwzd2726f1JQ	Nova Vid AI
 UCWAZKjzw5zJeq6IzSI9nHag	CatGPT
 UCWAbKxobWMrkVK4_RjVjtzA	Huggy Pillow Tales 小抱枕说故事
+UCWAkfNPt5mb-g9kb4AV-BKg	SAMARANTAU AI MUSIC
 UCWAlsB2b2CeXIEgaddayvzQ	Buckshot Belle
 UCWAv1gwc5QqXldesHjjSBew	CinderFence
 UCWB1kjheVdzHdpMtY8SoZzQ	Shailu The Vloger
@@ -18317,6 +18463,7 @@ UCWPKFshU6Wwl7XfrrRMRH9g	Motivation & Inspiration w/ AI
 UCWPRP7VQMWlKizM2SetHPkw	AI Life Stories
 UCWPVL5IF3qyTYrrfQ1e10eQ	AI Telugu Creations
 UCWPjp6vfuZoRBzUt5qfWtPA	Dra. Emilia Suárez
+UCWPkr8TE9RbAkp0-p69t8Sw	Ritual Dark Metal
 UCWPpJoKzZ7Cfbc8in6Vtp6w	the AI tech toolbox
 UCWPvVgaI9nXulV3q7EtugTA	AI Toon Studio
 UCWQM0hBG9vcnBIVhMyvQWiQ	Dust & Whiskey
@@ -18365,6 +18512,7 @@ UCWWXp675FM4Kk-aS447kXJQ	Gadis AI
 UCWWv-sl2D17qkcr0embHt8g	Grandad Drill Rappers
 UCWWzGYi6SS0uR_yZ7qs1ciA	grv.
 UCWX6wCtguuSLAz118nNG46A	Bruce Lee Encounters
+UCWXCRtxfmhkVOO7UuhV95Qg	Ingeniería Monumental
 UCWXD8Uxa3QJhFcM6w1wWu9A	Drifted Tapes
 UCWXFIQXtXRMAxry0weR-AQA	VELVET EMBER TALES
 UCWXFSTBtmgUECD5ou9p-NaA	SoulOnVinyl
@@ -18438,6 +18586,7 @@ UCWeM0NsADJJ8PAPLn69sHOA	Dreamworld Odyssey
 UCWeNC2usafcdgBcUhhMlSMg	LangitAminor
 UCWeZow26qDojsNcTXCnLQ5g	Grit Vs Glitch
 UCWe_Nepg9zfDu3WUg_gxzSQ	HOA Stories
+UCWereJog0_pYT7cVVLg0H0g	pixelationfacts
 UCWeuKRMJRmo8K0qjYw_BeQw	DramaLane TV
 UCWf1CrEX3Pf4co0GbXKRe3w	Imperial Iterator
 UCWfWRybKfxMpvoIB7tG7f-w	Moonlit desires
@@ -18535,6 +18684,7 @@ UCWskR2zCYvaqd8KFCSo8jwg	Rachel Today
 UCWsrp46NHqlcxi8btPnx0Lw	ConnectionInsights
 UCWsyHivG_iQAB6efAn-Vr-g	Cinematic Universe
 UCWt1kyzL6YmUJ55cdhSTNMw	Emma's Productivity Lab
+UCWtU1zr1pQhJXCJ_8AoAtNg	Amorous Sanctum
 UCWtWXFZN8tAZ_QBvxPV7T5A	Freedom Forge
 UCWtZ8qU2x9uhHTVF_J1sUbg	Anime Realism AI
 UCWtaF1n1ptl1MMVujQobO-g	States 2050
@@ -18611,6 +18761,7 @@ UCX08QpaMbPr4RazoVQUxtYw	Foxstar Media
 UCX0FQKht1xnMbTgzBw1VLKw	Western Sleep Tales
 UCX0LG28I4Gw1886i8XY5-mg	Classic Hollywood TV
 UCX0LviaF7Ga1QosWW0CyyFA	Soft Night World
+UCX0MNcwD9ZXKN63wNd7OB0w	The Echo Bard: Untold Stories
 UCX0Umfu2V6oNIy3TZwqAuiQ	Britain's War Files
 UCX0Zn3gHBqHU9eWY6l_FGXQ	Motoryzacja Na Bieżąco
 UCX0eEvwLCHwkxReqwRY0fLw	AIlithic
@@ -18642,6 +18793,7 @@ UCX3IgT_FquaY7cqJ3UCzHuw	Jazz Ink
 UCX3LOo3x5i7Z6EYkAFfhwYQ	The Vibe Lab
 UCX3TcmmJl1F5dWquW1-jVVQ	Stick Through Collapse
 UCX4A4q1aSxktInwenlTgTag	Profit Lore
+UCX4H60tBlPSA8q__GmQ9Kig	Pleb Explainer
 UCX4Rd2GSUb3DHxZtrI4G1yg	Voyage Past
 UCX4VABbrMQjq8kRSbBBYnxg	Die Innere Festung
 UCX4leYA7LzYwsLAIZqLtS7g	Polska Retro Deluxe
@@ -18792,6 +18944,7 @@ UCXMzSBSHR7JeAeBOn1y0nOw	Ai Marvel Universe
 UCXN2RCD99Nus64HRcTkfi0Q	Mastering AI Tools
 UCXNNyDGKZTo-dRLhFQ1o_wA	Novelasgay
 UCXNVtVRxb-rmnd3gttOetkw	The Bone Shadow
+UCXNXT2MxtKPhsBmhFWE6xsg	David Lightbringer
 UCXNhZvCSdxJf1ljPRu0CqZg	Star Wars Takes & Tales
 UCXNipNRV-wL7p5Gq9wCc1Ng	The HOA Insider
 UCXNp093v7j2yMu5Z0u9V6JQ	Dream ASMR AI
@@ -18890,6 +19043,7 @@ UCXa8tMSOhvfBBJEwIYs52Jg	Gunnar Hendrickson
 UCXaBBLZKdp1zkZ6G0ITXxHw	Live caught ai
 UCXaIP1bUTYSHV01JCY67B1A	Prehistoric Period
 UCXaJT1hv9MS0ECEVzjwHFgg	HistoryStoriesDaily
+UCXae_tEh5rLVF9FZZF01-3Q	Crimson Silence
 UCXapKZutmxULROxIDDGk3wg	Two Sides
 UCXavbumAdSQhTV7vobx0h2Q	WEAPON HUB
 UCXb0kT4jil8epKiEOTTI04Q	Simple Things Analysis
@@ -19122,11 +19276,13 @@ UCY0ulhAWRBu5C9OGV85lG_w	D2T US
 UCY0vegTEMLDvP7GqGqg1pCw	Mythic Shadow Tales
 UCY0zY8d3NyDWv88avWr8x-w	War X History
 UCY1DGsucXUK9yy8cwuzDktA	Animal Stories
+UCY1TN22AAH1AMidoQnOoO_Q	Divine Light Gnostic Academy
 UCY1cPvIrZ8tPY73i4wRMJ-w	Boot.mp3
 UCY2-MmB1x9N0G7f0sARMA-Q	Narrative Driven Art
 UCY2CZr9hxsQlEvHPwSQMXAA	How It Happened
 UCY2NN0btX8haSiRvNapCUSg	Oakstone Stories
 UCY2O2QOIwOB8qJH4G7T0bOg	Ghibli Wonderland
+UCY2QkwbmUIWdykrDlDZtcMw	ENIGMAS DE LA FE | Elias Gregório
 UCY2Tn0FRmpkNSqk4XwRql7g	AIronSoul
 UCY2XXQExmV_DQ_lrH6QWcTA	Boring History For Sleep
 UCY2_nVDpTYj03A66gOvoEUQ	AFRICA SOULSCAPE
@@ -19354,6 +19510,7 @@ UCYUr-XND155tHSiUwFxnOnQ	Ai Marvel
 UCYUu1Z73GwOo79wPOYJ8i9A	Doctor Globe
 UCYV3S7iG2RTv4jk7kW4k2Vw	History Graphy
 UCYVHaB5giNhh4ngHDlyBl7w	Lucky Ducky Paradise
+UCYVMAe1l_fmBQMKi_Pg3mgQ	Westros Theorist
 UCYVQWP0_zXjU_jp30IFoe_Q	Dayten
 UCYVTIiczMEGw6XEnPVzIybA	Mystery Market Vault
 UCYVXe2P36isrI9KWWCvx-mw	Family Revenge Files
@@ -19480,6 +19637,7 @@ UCYjBtVsKeV0twjyX57ORf4g	Lunar Lore
 UCYjU7BjAAaixQqyl8U_uc_g	Mango Explica SP
 UCYjYTSh2xFrz-4_wg7h3bCA	Bareez Bay
 UCYjab97Q0O9Sxq9YGQ4DMPw	Ai Dream Asmr
+UCYjbk4r99yPYDML12QKy0kg	TestHelden
 UCYjqMmYDk4L4bKKMiaHIu7g	SliceBot ASMR
 UCYjvWIYksH7tfbsyL2nSGVw	Deep Chicago Blues
 UCYjwBaj_qJdy9dtPhb0VHHg	Fatal Error Files
@@ -19499,6 +19657,7 @@ UCYlSzt9GmW2uySxiSXpRpjw	Cozy Corner Animation
 UCYlc-_xkWUbjRCXqX7Zw75g	Refreshing AI Latest
 UCYlhMXgU9rfp6Z0Wwmz3MIQ	Lofi Picture
 UCYlkvKURow98IfJvSqgLp7g	AuraX-Music
+UCYmLItleHdI4KrXeAK3Pktw	AHS MUSIK OFFICIAL
 UCYmiCnQmiXqZ444WrrVwhdg	Podcast Stories
 UCYmoXwInBv-BMBZbbHYvu8Q	Nigel Ndlovu
 UCYn5-gd7AUq8DYIYj4cQxzQ	Old Money Opulence
@@ -19616,6 +19775,7 @@ UCZ0HESd73ZgvQ0ic3dJHVpQ	neo classical metal
 UCZ0J5a8_mZL-IKEukwXrHTA	CoreTunz Music
 UCZ0JdDbKY1-q-y8vPwUWM4A	mr.nobody
 UCZ0KBzwmKVogyxj1ZRWboZw	Cracked Soul Tales
+UCZ0LWvkht8a6SOBceBew52w	Whispers of Westeros
 UCZ0RGpbQtBqwDJpMGsGlvUg	LUCKYJOESPH
 UCZ0VPT3sBNlNQrXhD8-5pbA	Epic Road Rewinds
 UCZ0W7RM42kjJSiC2VKhcSqw	Gentle Jazz Haven
@@ -19730,6 +19890,7 @@ UCZDVrJ0KRutahQqZgVMk2Ng	MuseLuxeAI
 UCZDjXAcEg86PPGDd7_MaHIg	Chorus Garden
 UCZDsEfjyqsYd8OTJ0R37HSA	Dearest Listener
 UCZDv4jr3kYoOHglcx__cocQ	Verdict Voices
+UCZEAzx94tGBOwhjE9BLEQIA	Vinyl Room
 UCZEGzTRRC4rFKK42CzDTeLw	animotionStudio99
 UCZEM1TPQRYaGcO0SjtfdHcw	Earth Radar
 UCZEO87aLYVfwsLNm6cIJKYA	Odd History Bites
@@ -19893,6 +20054,7 @@ UCZVjwgZZtYvCjR_NiNFstqg	​The Soft Whisk
 UCZVl6S2gc8giC1yDsxQGXAg	AI HAVEN
 UCZVxtQW4zUk-Cc1P98UtU7Q	Ayan & Shayan Khawaja Adventures
 UCZWCkdFaT375W1Y-DuYhtZA	Synthwave Dream Radio
+UCZWCpAiTFCchbyP-55IJIDA	Fraya
 UCZWP0uy3h5akTYGIb4ErbQw	Zionvibe
 UCZW_701SKHBhb-wLb2Fdn8A	Aether Explains
 UCZW_bPnT0VfNHkJw7KLS6Sg	Elan Afro
@@ -20012,6 +20174,7 @@ UCZiwrvOaBe752299gWQZcHw	Future Tone Studios
 UCZj1FV8rz74z0wVcVb3sk9A	V2 VLOG
 UCZj1Zy8IM6LyQ9IV1Co7x-w	Wreckage Waves
 UCZj75zyu6303eEC82izDIHg	WesterosFilms And Beyond
+UCZjElG0ywTPFdw2zGBHpLGw	Localhost Focus Vibes
 UCZjRGSf59jWzs6iAWKI2z9g	AI Shorts
 UCZjU_wVwBYg3OzmkvOcwugw	The Eternal Fireside
 UCZjVE44LOvxPyKA-tymFoyQ	Martik Finance
@@ -20188,6 +20351,7 @@ UC_4O3N_jCUkRg0WioK5hUCQ	Shrabani
 UC_4VwD53GknDbb3AQlFxcYA	BritishWarArmory
 UC_4XhTOwwGKTlYpQwDtaJ0w	Tales By Talia
 UC_4bj2k-4ClCMVnP3fHM6gg	African Folktales Hub
+UC_4eWOtVAcoX1c6boAd8rgw	HY89 Studio
 UC_4pt1NrrpNvSI8ZSlz9xPw	Canadian War Secrets
 UC_522XynsiO60YNmBNhKsjg	Humans emotional Stories
 UC_58qTfZ1UoG1qWzZRmTGww	MP Novels
@@ -20380,6 +20544,7 @@ UC_RrodaWLunHBJjgFvbXaag	Esmile Ai
 UC_Rvc4ykbbXtYBVTuFLz2CQ	Heat Vibes
 UC_SAqSTqFCc3nL1no9g5p1w	Rhythm of Factory
 UC_SGlW74cLrmPSR1WzLTibw	The wild west stories
+UC_SP_TDhZ4KjJ42ES4-_WHA	reality illusion
 UC_STFUiRwsIpVIm6SPLicFw	PapaZapp_Officiel
 UC_SZb6M55qjHjnlTG7WDdgw	Raniiii Tv
 UC_SaksNSZ1EvBGfAA8bAd0A	Wah Putra
@@ -20441,6 +20606,7 @@ UC_Z9HWL_hplGTAmRZ4ugosA	HFY Betrayal
 UC_Z9K_UapwotE9ruNct2RLg	UnlayeredDocs
 UC_ZVdTg35OD2kCB4NRXZORg	NeuroMADAI
 UC_Zp3KVrLa4YV0ZZyU-TCeA	Smile Cat Story
+UC__-2n5FKlkUx3D9g3bZBkg	World War I Archives
 UC__7jvVR4NCAgf7IZWFjpPA	Passion & Romance Tales
 UC__FjNzGAPV7P02SJwvONJQ	Ai Story Arc
 UC__P9z6NgHLNlsq-tKY-rAQ	FAE REALM TALES
@@ -20765,6 +20931,7 @@ UCaAEEBQDtDe2slKgVZ-QEww	Cat cooking
 UCaAOWxdOgLjMo21LZVOGwfw	Ai Subha
 UCaAtPJi9rF1Lumf_SljxxAw	Archivo Del Mundo
 UCaB16rJtKVO0W5X1lCVSHOA	ainimal-rescue-ai
+UCaB78p5aH_XuUU3IXQDmHnQ	The Power of Decree
 UCaB84Zq79PslkFQuXCiS4gQ	Imara Tales
 UCaB8OWme2TGptuI0N-ViWUw	Tales Dominion 2
 UCaBMcddKrCZ95ni8aqU5pFQ	HookCay
@@ -21024,6 +21191,7 @@ UCadHZ6okLcJVNMHO0T9aoWw	Cozy Rainy Days ASMR
 UCadOqbEyZNi8MNmC7zzFrxQ	Dramas en Corto
 UCadRJitY3Ouq0Gnn9d6-47A	Echonest
 UCadUrlK5xQrTMK0vgeRRP0Q	Wow In Seconds
+UCadd003Z6W2KaKhhK5b1LCA	AI Stories and Videos
 UCae2_q9lcxP8TbqwBp52GmQ	Duty to Dumbbells - Coach T
 UCae93gR1dqsDnBfcSveRR8w	Así Fue
 UCaeDYTrMVpFa6znuCL6LoGw	Everything RAM Trucks
@@ -21103,6 +21271,7 @@ UCakz2nH62jwMyviwEMIuRpA	AI Cats shorts
 UCal3OeGA8KdB5W2MdGDYWfA	Titan Tales
 UCal5PuLu7rKnynqgeWpO99g	Supercar Unboxing
 UCal6bX0zz8f2fLvkGiMuq4A	Absolutely Chill Music
+UCalM1WtgpTskX6dKbTao3Hw	Neon Gator Ritual
 UCal_2JvDuhNySJ64Wz1TACg	Mpminds
 UCaljF8WIdqU9LhGE3HD3DLg	Ebony and Seoul
 UCalpx5wG0itGqAfThas9nRg	Courtroom Exposed
@@ -21289,6 +21458,7 @@ UCb85PkhpHXIZQHVPn1eChSw	𝐀𝐈 𝐂𝐀𝐓𝐒 𝐀𝐍𝐈𝐌𝐀𝐓𝐈�
 UCb87qI-GIMZ0yXo6W2jKL1A	SouthAfricanFolkTales
 UCb8L6vvKJlg12NukdW1FXzg	AI Films
 UCb8NBiua1q9QBbmDJMt7yjw	Iron Heart Tales
+UCb8ZH_UacS_ZfyAtA6aMkWQ	Sabzi Squad AI
 UCb8Zu79qcw3Y_s96sJgFvTQ	Meowgic Mind
 UCb8u2PdCPJ1uKYro_urfC1g	Little StoryPages
 UCb91HD6p4RdGYVBtAQE7uVg	Sad History Sleepy
@@ -21385,6 +21555,7 @@ UCbJLrNL5DbPfRo6raWa9msg	Calming Dog Music
 UCbJTZF-2t6LcEOzcjfwtRnw	Story universe
 UCbJUWqXz4JZgCGBoGx-zjdg	Robelin
 UCbJXlLEWKfP0ZnQFGcPCNwA	Echoes Sound Lab
+UCbJZ-jGyKn-5J_EuzYRpw2A	Heavy Metal Legacy
 UCbJbv3bhYqnpXOG9CzY7h5g	Pyratheon
 UCbJm2sy21VN7wCXrqUuPjwg	cinematic illusions
 UCbJqerJ4zeGP5jtoY4RZ9gg	PLAYaudio - Smooth Jazz and more
@@ -21465,6 +21636,7 @@ UCbRLXCJ2Ug8DOMTHAwtQy1w	Uzoamaka Stories
 UCbReJtCjMFspRAc_5mKMBIw	SceneSizzle
 UCbS1B8tjyKUpoz0GgCiBcNw	Make it Simple
 UCbS5XW6VIExlzhMpzbg2hrA	BlazeWard HFY
+UCbS7BWGmc9RCxP4JYGnk2SA	Biographia
 UCbS7ohDlt6ndXFwFlP0jrdA	doodle AI Slop
 UCbS9C0oqWygPCPfspK01y1w	EchoForge
 UCbSCYEUKDmiYrRNMj7FqCeg	AI Dream Art Studio
@@ -21811,6 +21983,7 @@ UCc74Ozpgu9jUd1FHpMp7VsQ	K5 CatMeow
 UCc7GA9vhR2dBE7lXBUS9VOQ	TalesOfAnansi
 UCc7IMfnTzHqqOAr3VLHVsXw	Mr Space Explainer
 UCc7Ls5IPHrVtPXFbEsXIKlg	HFY en Español
+UCc7mZV8-fXB33kFKO_DScvA	Chains of Slaves
 UCc7oAMOdKoV1_3C6a6tYegg	Fly Galaxy HFY
 UCc7r5MOWmZInQ7It40aFD3w	Future Mind KI
 UCc7xT-QfNVlhm6d3XdX-Otg	Last Sumerian
@@ -21825,6 +21998,7 @@ UCc8jkhe2I4-WtiQtUn_Gpyg	Bhakti Shakti – AI Divine World
 UCc90FfcotdXZ02uRyl2dWTQ	magic ai kids
 UCc9FOtAMYgM7NHmjZXgdZeQ	it's to 👍
 UCc9WF1kyWev9KwJvgis1G7A	Outpost Stories
+UCc9Xa5d-UpyvveYZjPeRPxQ	The Myth Wanderer
 UCc9_vlTManxZlM_ea9jtCVw	Ultimate Mega Builds
 UCc9kwLgeZHntYOjt29-83Gw	bobesa42
 UCcA35vHoJhoiE1oYlgdJePw	塔緋說漫 Toffee Anime
@@ -21847,6 +22021,7 @@ UCcC0yt4OYe5FsmQCtDn0dkA	Pressure Point
 UCcC1xKHbAg5VemYkDsyxL8Q	POLSKA PAMIĘTA
 UCcCC48lEdpXPzj5auhnMFxg	브랜드 도적단 / 반토막AI
 UCcCIhDtqcV_iKYTio5B4hXA	Hello West Coast
+UCcCJgIZ_PRNBtBag6Ug-HYQ	funn with AI 007
 UCcCNTlgu8uCnk34luuBAPIg	@AhsanAliAIAcademy
 UCcCjJ59cSkRGsZe_ufHlAMQ	Ai Marvel
 UCcClBTJJnGDF0uBfqucaMkg	VA DARK
@@ -21868,6 +22043,7 @@ UCcFJT2nqNHnvom85eHSMcUw	Funnymeow-v8
 UCcFM2psaQn-SrmtXSoFkHlg	Doorbell Hub
 UCcFNt5W6hIc-oD_VWOk6gtQ	Gotowi na Wszystko
 UCcFOFnRnBJARxiLUB1zSsPQ	AImasterTAKUMI
+UCcFPnqLauCKR6sM74KW-DRw	Unaccounted
 UCcFVuO3wi9t8Gs8_2nsLfYA	My YouTube of Bible Stories
 UCcFh0djrH7ouwKivaiYXRqw	Dr. Ariadna Zuleta
 UCcFpLAjVFyuAk5KKZR4p8Jg	FATHER'S SILENT REVENGE
@@ -21935,6 +22111,7 @@ UCcNALIrKcfFSr3l8_HyO3xw	Frugallolafinds
 UCcNF79fbPqIcfi_dzoTqRUw	HFY Starfront
 UCcNFaEcx_Qr2JKNBsTgl9XA	DOPE FOLKLORES
 UCcNHP5u5GI1k-W8paGwjTew	Light of the Word
+UCcNQ3WyM3qvkVCKbybGRmug	The Fallen Crown
 UCcNX-PpKeziwznJEIj89FdA	Japanese Car Insider
 UCcNdHuybt85WcDofWIXeTwA	NTT Stories
 UCcNzl3Vptf33Aaym-oXQg-Q	The ZXON Protocol
@@ -22056,6 +22233,7 @@ UCca01WFS5_FrinGAg_z65bw	Daily Dose of AI Slop
 UCcaRVsqlj643dMIse0-fiKA	Fight Cipher
 UCcakwOV6EbED8-YUTQ6Vggw	Amor Íntegro
 UCcaoRkd-QGRnkw7tZPggPKw	ShopiGuide
+UCcardZz41hBzLeFL6z_VfTw	Akhirah Bound
 UCcauZ_bf0EuQzr3crytxZXg	Chronicler of Possibilities
 UCcazWYuWMtQXEFZ_VF_Rm1g	Guerrero Inmortal NV
 UCcbAO8aZxOkYX65V1MPMcSg	AI animation Video
@@ -22130,6 +22308,7 @@ UCcjo1TusPvEkeZp8GRUs4dA	The Final Revenge
 UCcjt211Cs9nDHtnAlasjy8g	Echo Chambered
 UCcjvdkmjooB-8vMvSVwgCfA	AI Food Decode
 UCcjykQBD1I3IebXLF29GT-A	Marvel Nexus AI
+UCck94Ss5eYV0YfwmKqSIIaw	Sefy Studio · Miles & Claude
 UCckDO3vsu33dZ8pCLtluK3Q	Starplus Ai
 UCckK3dKm4b3QoZUhN9G5ayw	Paradox Point
 UCckM0GXfs2XeGWAypdJ5QhQ	Chubby Ai
@@ -22359,6 +22538,7 @@ UCdCJ2D4g8DzcKwswjO6omKg	Reddit Archives
 UCdCKulnGzETF-NZwAP2fqtA	Financial History by Nelson
 UCdCO-2ISxxJ2rzgHz4XzXEw	ASMR Dreamelt
 UCdCRjNs3USlW-dze1KgZdeQ	TORNADO VLOGS
+UCdCZy8iZvx6990OFKQquxFw	ABPop
 UCdCdZg90LAvxLWpl-yEj0Og	Ambient Outpost
 UCdCixlYviTiQOpg9tiwQ4yg	African Digital Chronicles by Sheila
 UCdCj6i7kTi-Ny1i4fHYSosw	Good Cafe Ambiance
@@ -22601,6 +22781,7 @@ UCdbE0Ye3dg9wlIKQfmR0PvA	GlitchVerse Club
 UCdbEUlr1NCyT_myr0agktLw	Fred - Money Historian
 UCdbbkNv9qM9LMobShnkMBwA	CthAIh – AI Bard for DnD Tavern Songs & Tales
 UCdbcdxC2lJ1TGz0x4a_n5Tw	Cat Funny
+UCdbfrBr17w8XuMCqTGjGBdQ	🌜LISTEN & SLEEP
 UCdblNVPPApQI8WAXoDxhEQQ	Boom Bap
 UCdbp9PZkAQwtVdgCS8rgjfg	Bubbles TV
 UCdbpavcF8NidFcMK-8bpfdg	Matte Media
@@ -22833,6 +23014,7 @@ UCdzMxI2LSMHV_fr5En-WSdQ	DDD.
 UCdzNu_n4Cxb_b7B7SVJ6C0w	Baby And Pet Adventures
 UCdzZYrJ0JxWzuAclFJORB_A	ilovedoorbells
 UCdz_VQsZ0gtQSySRtr74OiA	Daiana Blues
+UCdzfubGM0Dtc0K4RhiTFQXQ	FRY STUDIO
 UCdzla15T6fpPkdXl7BpMQeQ	HOA Dark Files
 UCe-3cdvVDF5pnGxkjbayW2A	Sci fi shorts
 UCe-9ZVK6VnzixLvQdPuIYCA	Nordveil Daughters of Odin
@@ -23000,6 +23182,7 @@ UCeG0fg8XvNX_6bN23vxieKg	Bizarre Compass
 UCeGDB9WrKPAlgplb_7w4S3w	Imran AI Kitchen
 UCeGIiSZ9onu9bjJ8RVjuWOQ	BTN AI MOVIE CINEMA
 UCeGKV_VXD7UykeYlb385d9g	NEBULA FORGE STUDIO
+UCeGRWom2Wo1mCxzDj_Ry-Cg	Past Explained
 UCeGaOmEzQuVEjQA9aQcenXA	midoyoru
 UCeGvoSmVAbQxZR4QJnSgzqA	Ozarkian
 UCeH7iWmfgsT7UFzLZnIYr8w	Zane Tuesday
@@ -23052,6 +23235,7 @@ UCeMcDx6-rOq_RlKSPehk2tQ	The Space Race
 UCeMceg2LAmPj1GO2p3uUG7A	The Alpha's Chosen
 UCeMgIAJ2SjTFf20qIem-MHg	FoodMFG Lab
 UCeMjCvD3bC6lG4JEPs0QX9g	Cosmic Infinity
+UCeMsprdQdbARrLMQe5Um4Ug	Vatican History For Sleep
 UCeMtostq9Re1yIOkqAWcwQw	AI Eternal Chapters
 UCeMxECqkZq36LVBoNK2atiA	Adam Stories
 UCeN0dl9THm84ya-eRzfvuEA	African Tales in 3D
@@ -23080,6 +23264,7 @@ UCeS4P8aTq95_l6IE-l2LDdw	Band History
 UCeS5Kim_kQxF-geVDz8wKHQ	Nan Xyz
 UCeSBnhq1f7aJKrcdy86EJxw	The Real Universe
 UCeSO0lChgpyjRYcFeuq5HBw	The Secret Nurse Files
+UCeSOU2mXNP63rBss57uiO8A	LoreLoad History
 UCeSVTx1SOEPxMLByNJEwlXA	Ai cartoon vlogs
 UCeSv-5lk1uqGyO9zpNYMvrA	Mil Gear Explainer
 UCeT19FHZ7TeQZLTobz8pRZw	McQueen City
@@ -23131,6 +23316,7 @@ UCeY1Uct9M55fkEf4LWk8N0A	History Archives
 UCeY6zHz5e61MyyVZx3aqjXw	The Millionaire Cowboy
 UCeY8uuUF75t3v0OgXO0zn_w	Historia Olvidada
 UCeYB6HlHLHJlBE00mP4Epiw	Second Chance Tales
+UCeYDdF3OgSsvoD_C2RdmDDQ	Liang Yunge
 UCeYEfqUVD8bDF0m5kZx_QHA	All Factory Items
 UCeYL-woLYT1hORXbF_BsIUA	The Streets of Ai
 UCeYY9YMekUsZNfImJrB0dtw	ドジ猫のチョロ
@@ -23151,6 +23337,7 @@ UCe_HSr-E3OcxFFInJmuqNjA	K9 Investment Partners, LLP.
 UCe_LaZVLd_wyrZ0jnn8vGFg	KisThe History
 UCe_T5Vv2f1XfRV4QGdBCrqQ	Heritage Folktales Stories
 UCe_TeYEG6sOFeVtMZ19Xb_g	Nsy's Folktales
+UCe_VCIuUTB1r3YmFvJNMO_w	Irene Belserion
 UCe_hFJGTFn8HEIsmzUWjECg	Sleepy Space Tales
 UCe_jqciJx3Oy5XVO552YNAA	The Forgotten Hours
 UCe_lOSQA7d6B-HvUcOIWdvQ	British Food Blogger
@@ -23319,6 +23506,7 @@ UCet-sVbplhFvUtVof7dbPGQ	AI Hungama
 UCet9YtnvSuxFN1w1skjUoug	ANONLORE
 UCetCRw2TJCmPZFCXND1pvpA	Fallout Wolf
 UCetItF6WA5pCY0h8rfNsdlA	Manami's Swing Beats
+UCetOSPKA0MhengjxmhvwYKg	Midnight Lorekeeper
 UCet_WUDVh8U-PGh4So17H8w	Film Memories AI
 UCet_fjbmYvPu8PPrL2uAhZg	Old History Nights
 UCetkL3koBNJrS7n4EoDUBXg	Anitoons TV
@@ -23384,6 +23572,7 @@ UCf0BMl3gIxPufm0gSuY5tuA	C A T Z Dance
 UCf0I9xW5sKD_EFW4nKV9Cjw	HOA Files
 UCf0NCtqYD4hZgttR0E3FXjw	ByMosX
 UCf0ZC8yxqLWmOzCvVpy3chw	Mr Folktales
+UCf0cL-e-e7oyct7XPB1BMBQ	The Intriguing Historian
 UCf0fXUoUME4tBrEJ5G-lHdA	ZokyrToo
 UCf0kdSyKH0Nyfp5rVGvVvkw	Funkonaut Sound
 UCf0mjaiQIWieRK2BkDnjtXw	80's radio station
@@ -23444,8 +23633,10 @@ UCf7-PDJ_l7HrH5k7iPgcS1A	Ravelin
 UCf7GXCkvMamY8cjkTmMr8aw	Apex HFY
 UCf7PzYMxQQZHYtUaFCaA24w	BhooBhookidz
 UCf7QbZM9xsvpX8tiObevLvg	ezmaniac
+UCf7YFN0PpzoeUDJZo80N0Kw	The Night Time Historian
 UCf7cJP5OVvJAR6zYctTbYTw	Echo Tales
 UCf7hAaOX9U9_miDYOXgr1fg	Instinct Investor
+UCf7hwyddYeR9JUip92yDY3A	ᴍɪɴɪ ᴛᴏᴏɴ ᴡᴏʀʟᴅ
 UCf7k7NiVBNeHCQEec13x4IA	MemeNova TV
 UCf7m1Qi503DG9Ak-2ZtfgSg	Pandora Beat
 UCf7mf8cjK-hjdpg99-Wn8IQ	Vesper
@@ -23523,6 +23714,7 @@ UCfEvpV8s1CWdEteK4o-eO_A	Sci-Fi Lines
 UCfF1bwAfcg_f-AWwgY540Tg	Clipzy
 UCfF2gFWl_tNj-wZFvizI8zQ	Black Gold Tales
 UCfF8vFiTNKU6EuryD43nnqQ	The Cat Family World
+UCfFHYEu6bnK1ieacDjIU29w	Roy All Lore
 UCfFHvaSYzSdnXZpyAeLUCvA	AI BIBLE
 UCfFI45rhmJpZ0slna3YStIg	EasyHistories
 UCfFOTeozcNXNDWQuRH4szuw	Inside wars
@@ -23720,6 +23912,7 @@ UCfaYvcWmEvHCpPpDJ8snylg	DAXVOR
 UCfac65-QAg0lWvvTrLSPoSw	Rabbi Boaz – The Torah Life Strategist
 UCfafBw7oZmzdfbYjqRnAvXQ	WarZone Radar
 UCfak21UYFUer7Nhucu3CuJA	Cozy Rain
+UCfaviLgVlq7Rrt_eGGeWBGQ	Dr. Kenzo Longevity
 UCfaxBwedKFJTHPuvp4igSzA	Verborgene Bühne
 UCfayi9JK1vqpDkpOxXrEeIw	Anita Zielke
 UCfb5Wz_R8f5Mu-Fs6-0g4yw	ILE ITAN YORUBA
@@ -23740,6 +23933,7 @@ UCfcSxYRi2NqIA2jrlW9i3tw	Jazz Relax Night 90
 UCfcT0S0M3dMgThjdiLheSpA	超燃劇場
 UCfcUXdx62I7OpSya8BB-gXg	Anthem of Nations
 UCfcWRPHEm0b19BG8rd6queA	Riddim Reborn
+UCfclt2utTZWt8pG5AVm11qg	meloZoo
 UCfd0HbpS9PG3Ve-WnMJKJbg	MoAI
 UCfd19Z-8WQokDimDhHSePmw	Marshmallows of healing energy
 UCfd5A1JT6jbK_jGcHBoXinw	Bible Questions
@@ -23795,6 +23989,7 @@ UCfj9xcGrVD2tVSiDxXbf-cw	Kaku Theories
 UCfjDftFoSWpYzknqedxLltg	Tales by Nayab
 UCfjd0AUz9qZ1x6D0yeCuMwQ	Cute Cats Club
 UCfjlnRjbiYNYuvmmzciVKdg	Maple Justice Tales
+UCfjxc8M3tMGRBeZZtstiMhA	KOTOHA
 UCfkBN_ocdX1cVffjNuh6aaQ	Głos Wiary
 UCfkEAKL_IoEt4PcRJFeh8kQ	Planck Frame Studios
 UCfkNPYJoZ_6bzJH5vmEtHxA	Fracture Hymn
@@ -24091,6 +24286,7 @@ UCgGGwVV-qg3fU-u4fEBGLMw	CineForge AI
 UCgGI1TF0PURoSnivnS09eww	Locked Recap
 UCgGgg1n7KBJZ9y4RMOmVkOg	Ai Shorts
 UCgGoQqcF6lCv6qnuOUDLiDQ	Life Golden Compass
+UCgGozzYbBFjGk5iclPsTyhA	The Raven and The Owl
 UCgGwxxQNTqsLa5m-vmWA64w	The Chosen Conflict
 UCgH1gMy_Gf0GDXCKkR8r0iA	POV Trailers
 UCgH4DZ1OFTYOimXl2Xp_EaQ	vikash kumar
@@ -24185,6 +24381,7 @@ UCgR9cV3xbmkc33L5G5Z81_g	AI Cute cat
 UCgRAs4CcIgWwk1EWgr55tww	ENGLISH STORY
 UCgRH0GjmGu_Eux3D8IIzdBw	KrimsonTheFox
 UCgRMYqJsKuSNaWkdsfV0CRg	Story Fusion
+UCgRNnEafT61AIJdnQsTpZNA	KPOP UNIVERSE 4TEEN
 UCgRRs9fGcnDcqXtO22HrLbQ	第二人生
 UCgRX3PiD4u3sIMfU0X1bMNA	Jasmine Agostini
 UCgRXjaxO7Ch3KWZf967HqyQ	Ai special food
@@ -24219,6 +24416,7 @@ UCgUjFRe_P7gh-trUDztdllg	Quadrinhos de contra-ataque
 UCgUnpddR3AXROLp5zzUW2Yw	E-Drive Nachrichten
 UCgVC_jF0IQTtVrkDiUOk0pw	AimX Range
 UCgVHUkwYRvaGceOOekokHUg	The Quiet History Room
+UCgVIi4tEvcZTdMDiWOy91YA	The Esoteric Path
 UCgVPXIfSFBVBPREkgWRcwiA	Galactic Distress Files HFY
 UCgVQFrs4NNSg9CIrbGmQjvQ	OneDecipi
 UCgVWtTQzdGE7pccpu5tqe_g	蒼穹短劇社
@@ -24263,6 +24461,7 @@ UCg_95_72wkUDSBk9AjHIm7w	Sora Doorbell Videos
 UCg_JXL-7sMl1agbcVpp4PkA	Psychologia Kobieca
 UCg_KKeTG-lbEZ7oDMjZSD9Q	DJ Martyn Remix
 UCg_Sf3bOSMRNk5ztRqomFXg	Cat Meow Meow
+UCg_YWUi9aTPRORSNpB63uBg	Car Accessories & Gadgets
 UCg_ZqmIdIEzdYlf7jRWMkfQ	Chosen Signal Truth
 UCg_b6Uh-6yG_J60WLL9vJNA	AI Covers
 UCg_f-_p_in0V5xBfrte7eJw	Cozy Wildflower Homestead
@@ -24367,6 +24566,7 @@ UCgktUXR1Clp-7FhDYvKXxZQ	Elvira Metal Band
 UCgkxnHobc8VDk4VMwphJ-qg	The Outlawed West
 UCglClTvIWP3EcdLhXkjH1AA	WW2 At Night
 UCglHT3Jm8uUc70DllU8F4wA	Edward Resurrects History
+UCglJPIVI7bigrK16IEj0v_w	Mary's History
 UCglPam2nlIdSmeDUOUTGpkQ	Kyra Music
 UCglUMi0sMqpH9i8YiVG1aug	Oriental Dreamscape
 UCglV-cehA0xrLoKzcf2O22g	GeorgiaDrama
@@ -24668,6 +24868,7 @@ UChHjjSVC5Gqb8BAzZU2bEiQ	alpha drama videos
 UChHryDyf6P7igk5NnZQeRSg	Elarya
 UChHuJkdJNogfR1y192FH2ng	The Cheeky Celt
 UChHuzTlyDdqXDwE20MmNaKg	MindBook Jesus Songs
+UChHxLEE9PpoaFjmyQaSe9GQ	RazaAnika AI
 UChI1V91DJu3SAeHkJtjFZ2Q	QuarkVortex
 UChI53UcPApGZy1XeC1L9MEg	Dream ASMR
 UChI63zf1_5SofTX1TQcRRow	九州快看
@@ -24775,10 +24976,12 @@ UChT_ryJearGZE1GydQpQLkA	Golden Afric Tales
 UChTihUclNlM1hBZ7jmDOWFA	Военный курьёз
 UChTmwnKl43DJE3PO8O1V2SQ	The Timeless Tales Library
 UChTpgYMioX2PXcR2iDbSNsw	Rainlight Films
+UChU2GlonvnSlNs8ouombRTQ	kuratowski
 UChUJ5twBwh_26FyJ50C8Otw	RootstersWorld
 UChUVI9skyX1AtQedgxis30Q	Catnap LoFi
 UChU_zbr9VHuik0oqjRX1orw	Forbidden Love Mini Drama
 UChUarwxFB9ZbhuJf9IYN_-Q	Vitals & Verdicts
+UChUcLLwvZCKNUv-X45TV_sg	AETERNOS IA - Epic Metal
 UChUddNK10KV5tjX9DzcNMQw	Late Night Report
 UChUfGxwXpmNPZCH4vgxFYOw	The Robotics Frontier
 UChUjPBAc7gCNDjWsSwq-buw	Revenge Mangan
@@ -24902,6 +25105,7 @@ UChhIQpQqeAJ74CDPT297ZAg	Horror_story Xyz
 UChhMk0hgZi8Fu6hQvwynQog	Fiscal Folders
 UChhRQKHGQ26-HyW_jnTF25Q	Floyo AI
 UChhUm3e2bOS1avaXRBGjvlQ	novaraone
+UChhaIv05fAF9OJDGBNn1ZVg	SkazkiSlavyan
 UChhg1SQwFgjTvA9L_YCQ-Kw	The American WW2
 UChhjme4qEDC2TMQpL4tHa1g	Tiny CreativeFood
 UChhlbhoPXFAKUBxQ39Wu8sw	The Silent Species
@@ -25012,6 +25216,7 @@ UChsf87pV6Kjx1_wdjIx2bNg	History for sleep
 UChsseIeJ__fBxbkG9iImR5A	ManuFactory
 UCht-DWMZSLBrdHptE6Dj8Nw	Echoes Of Wisdom By Crystal
 UChtB8S5AT0-B4g927NzvlcA	Deep Chillout Lounge
+UChtDNsw-gN6Su70FrLY7rfQ	ASoIaF Theorist
 UChtHr4mw2icY6xelnycz8rw	Suno Music
 UChtK3yBli7k6aosoBpDgxnQ	CineVerse AI
 UChtNp7Wmic2JpuYF-bJjAKQ	The Race Files
@@ -25163,6 +25368,7 @@ UCi96VgnOYhjH5mI2f2bAOPQ	Ai super marvel
 UCi9cGeIjwUEyKp5ESdMwUJw	Gods Of Old
 UCi9eSbl07o0akX_oBhrBgYQ	Phoenix Bae
 UCi9geLP3GH-10efxuzvqmPg	USA Daily Update
+UCi9m-MCyUlgiuOCH2q-RkjA	Derivar
 UCiA3X0F35uGbReJVrv-U8lw	NatioAI
 UCiADmuFYFOcRLyYnd1Nneaw	Golu Jholu Comedy
 UCiAO1Gvo3ii5heNKgSAQskg	Forbidden Vault
@@ -25320,6 +25526,7 @@ UCiSXMVPQOmZpvlnTKOWYpSQ	Ai Top Movies
 UCiSdvS31bg7s3007rg-v2Cg	The Gentle Beast
 UCiSsmjFQZpu2lVsdceOBceg	Jesus Verse
 UCiTD54eR08jPiZUwXS0Ei5g	Folktale byTDC
+UCiTFOFPUPA65tCGeHXf3Cyg	Manhwa Rush
 UCiTR9U6o1YlKWKk1XJaIu4A	Paint Nerd
 UCiTinkqliJf0AQCh7eUT_tA	Seoulful Melanin Tales
 UCiTkF30QO3EwemZSiFYOccg	African Tales by Asake
@@ -25332,6 +25539,7 @@ UCiUgXiJ1ui8KYKhfoDfxyBA	hazelit
 UCiUpvqTF4SPtWD58issJn3A	Fifth District Studio
 UCiUyedgCmq2wYXsg2_bzk4g	Meow Meow Cat Official
 UCiV2zi3DJVGIP8VlCOCUgzA	Lowkey NPC explains
+UCiV4Jqh3fkjMBahegFJn9Ig	Wild West Dark History
 UCiV6hZ15pbdZA0ScObG9NWw	Cosmo Academia
 UCiVGTQXIgJGR99IpPDYV79A	Głos Przeznaczenia
 UCiVUDHfZpnyggTOIE50tvzw	Vengeance Bound
@@ -25393,11 +25601,13 @@ UCiaRi7Qtna_m6VNm_3NJ4XA	Slow life sound
 UCiaVRJW4OrLrxvvOH6PvefA	The Ai Jodi
 UCiaWdA3_u7RXgC4yELf_V-A	Storytime Daily
 UCiapCTS7ZGp4iYXkafNzRYQ	Toxic Sugar Music Channel
+UCibACEZnNaKG0K6N_NmnY4w	Westeros Explained
 UCibBbygipnzh8noYt_P6Thg	Office Revenge Stories
 UCibF9HVSMLSG3FFriZdL8nA	Resting Rhythms
 UCiba9G1AFOuJzfbhke02aew	Lucy Meow
 UCibg-qMR_1ckFPws3KxWzHQ	VΞXIS
 UCibh_73bnm41lRMCU0mrJTg	Mundo Manhwa Story
+UCibjIBtNYyAkTVb3lfMOQJg	The Last Nurse
 UCibnZvsXQMtpfQyDfBGCaTg	Αγάπη σε Λόγια
 UCibnfTQHw23O4UaY63eDQmA	Soul Sparks ⭐
 UCibzaFDE-oTJJ1hzTtYCJLg	MINI-MANIA
@@ -25422,6 +25632,7 @@ UCiec8rd0ewAqkUAe8TRVI8A	ViralBloom AI
 UCiej0F3zMfhx5DgdU8-WRGw	Revenge Signal
 UCiem-69UgBqlkV658dCKxlA	Sonic Beatz
 UCifG-uNE0Fvt3pysM3sv6Lw	Evil tiger 😈
+UCifN5oSfMVQ5APoPzyQnzxg	One Rock Metal
 UCifRVDJvRAkoAGznuRRozhQ	HFY Prime
 UCifWNRrXHbRYdgYYiqE9OyQ	[토이팩토리] ToyFactory(장난감TV)
 UCifk3l8eg0VpN3X8giQ58nQ	Smile Piano
@@ -25672,6 +25883,7 @@ UCj5YXbWvfLEBmKFusVJ1RRw	Texas Unfiltered
 UCj5aMrv8M2UQqK1W99hQKJA	RallyTime
 UCj5hSuEsu_qepUxZMWSsWlQ	Guerra Brutal
 UCj5iw_s_Lm2lS2lydTP7_Gg	GET INFORMATION
+UCj5tbLzAVi0tSNCmybQIZOw	Culture Origin
 UCj5vup3vwy5bBkCJlsGH9kQ	浮光剧场
 UCj5wtm-S75_sM3R27bR6WNQ	HOA Saga
 UCj6XsRNSrzyKod_m6zw1tgw	Neural Catastrophe
@@ -25789,6 +26001,7 @@ UCjImo9oBniFvXhYrp-MjH7g	Single Dad Kindness Journey
 UCjIpv92KhjY79esecWZI8lw	2Techies
 UCjJA2zCA_PbqgzMOhxPPWjQ	AI Fantasy Stories
 UCjJaePT0I4MXKmN52pQOHUQ	SynthVibe AI
+UCjJjh3MZUCSZGvc_rI0LXOw	Berat İpek
 UCjJkcowtYbQIQiui_NfHJbg	Nobody.
 UCjJnMFxlwqF635mBNp6KZWg	Time for Relax
 UCjJorToIeGaOywlm2j-0Npw	AiFy Tune Studio
@@ -25800,6 +26013,7 @@ UCjKPPDKpTr5mtfoS9DaVTiQ	Reimagined Radio
 UCjKPTJkhcukHuIQGckM1AHw	BEHIND THE CAR
 UCjKe84XX4b1juPWpUxoEwYw	ThePeacefulWatcher
 UCjKvroqNZ0G07rJ0lFzTnCw	Cowboy Romance Tales
+UCjL4kGqE5n9RKqKi9i3aX5Q	Revenge Reading
 UCjL8SzbrEwpb35vdCsJlUAQ	ZesusVibes
 UCjLMrLFazsY1iHjYInEwMKA	808 HeartBeat
 UCjLieSVUOWNpkipWRNFzOtQ	Boring Medieval History for Sleep
@@ -25902,6 +26116,7 @@ UCjYR3hKINlv667i_gYgKuIA	The Dark Archive
 UCjYXx79zJ78UDA6mOOEZOgw	Modern Defense Global
 UCjYcEaeFfA18NnRIv3I94Fg	Wild West Saga
 UCjYh1NXivvfvCQjGc9VBLew	@the real me.
+UCjYv5HKlDXlrVYp69YE21aQ	Sleepy Crown
 UCjZ0QxFlrah_YfmX0PBpc4Q	Seven Seas Shanties
 UCjZBkT096pA1noHOE7kKmJw	Sera's Werewolf Romance Collection
 UCjZCiHCD13Wi4K9QSs8R7mg	AI Chronicles : ECHOES OF THE LOST
@@ -25945,6 +26160,7 @@ UCjcuDy5nmK3k9kLS0UoJy2g	ByteLab
 UCjcvaobDL8ktEaSsGPP37qw	Myths Of The Keep
 UCjczizJ_OgRdc_rXsJbGQ2w	Warfare Unclassified
 UCjd6W-ORMCxfIYHTRHN7xKQ	The Patton legacy
+UCjdDYe19f3FzlaaaV3vmiXg	Beauty Nidu
 UCjdUTYv9Pg0yPl7Fot4QvJA	DreamToonsStudioAI
 UCjdW3lkroqX6Z1MQxfYQwSA	AI Life
 UCjdlWHWPUgmHkXLZrtA4RIg	Her Family Story
@@ -26261,6 +26477,7 @@ UCkFU8ufmMM8YUzd4luDWfVg	Alpha Dominion
 UCkFYWxkaxUmTSQY6EA9-2ZA	Luxsio
 UCkFeZll_m_i4lewttXZ-tZw	Olivia African folktales
 UCkFf41iBuZ2xBwgIr8dpCng	HFY Paragon
+UCkFpNzJ2V-khluAQDLg0wKw	Mournel
 UCkFs4rKgh9vDFempAQPLsRg	AI AKHALESH
 UCkFsbXH6y-YXKKpuuTi-EfA	kabar10the
 UCkG-_z7QLzzSkyrLYR6CPkw	AI VELOCITY
@@ -26296,6 +26513,7 @@ UCkJ32-GkTuga39epeH-gUug	Tiny Cat Kitchen AI
 UCkJH6BnRf4ZYlpHwgwsJXZA	History in Seconds
 UCkJLh_yPhTKCGuMoeHb6kiw	Rise Dose English
 UCkJSf7wwgDMx5gML0NlzD3w	Iron Wolf Hymns
+UCkJnH_Tvtq_rGSGWyRC9ELQ	Retro Classics
 UCkJtHIIihpXCQGcx8P817YQ	Rich Future
 UCkJuOUMTjONksZeGjtpcTwg	Hero Set Files
 UCkJv77hSQxplGzXEkoMM4wQ	Doon Cinema
@@ -26311,6 +26529,7 @@ UCkKl10AnSSsFfl8u3QCjSmQ	Vintage American Recipes
 UCkKrDYW4Yjr5o40wouCL8tA	BEE CURIOUS
 UCkKv2mdysF14P2xotAKasNw	Vishrani
 UCkL3NpLLLeEEnzAn5lJIT1g	Dreaming Through History
+UCkLBGQDhURZv1eAVuluG_5w	The Dark Scrolls
 UCkLSPLy-1VCrZapfayYec8Q	Faith Applied
 UCkLiltatGw3HwwJe4vXiDKw	Radiant Drama
 UCkLpGqBOkP71sRY5nyX2uFw	ChannelLouBlu
@@ -26380,6 +26599,7 @@ UCkQjhn9DNsBZznNMspzrc-A	Fantasy ASMR Lab
 UCkQjqyLCWsAc_Lvn7V3eoUw	Dignity Stories z
 UCkQuYeMENrthJLWaBQdpOEQ	Supreme Audiobooks
 UCkRHKyIXwQz9TCzGsjoX4DQ	Zen Chinese Music
+UCkRSh5VJBIXFRi_sBNWANlQ	Starseed Pictures
 UCkRUgD1exm1QLwKvBHs4A8Q	AI Bible Films
 UCkRXwVKzbjAsWTWgol1lKsg	Jazz Noir
 UCkRZeIb4Amdsgb72nfs8Fzw	Psychology Learnma
@@ -26390,6 +26610,7 @@ UCkS3-0rvLWfNltor_Ggt6vA	Entertaining AI
 UCkSB-8nAvL5wj2VTrW-WJmw	Ai vlogger sahil
 UCkSV2Oe3eCby5jE2dgEogMQ	Things With Feynman
 UCkSnXv6rv-G9iUb1W2hhvDA	Ragg'ai
+UCkSrbclXjli-P2rQawu3kLw	@Ajwastories-r1h
 UCkSsu05ngSef-CWXlkMnQOw	Big Heart Stories
 UCkSvQIg9xjQSy0mrAOYYQ6g	Historical Rabbit Holes
 UCkSyWHQhBNmTT9jVoKYE2fw	Wild West Love Stories
@@ -26550,6 +26771,7 @@ UCklV12RgLY9TyivYCu7yhcA	NARIMUSIC(ナリ)
 UCkl_bjtocV9ln1CL8WrP3cg	Memories Reanimated
 UCkldTD9ZreWBKRsKqK_n1kA	CatGPT
 UCklq8ql0tLJ_Sow9s4kAi4A	DeWeese Country Music
+UCklsDPK_Pa_WFIW72Qy_Xbg	SeoulHit Music
 UCklwgBGwUCLZFTXU9yWqn9g	Diplomatic Brief
 UCkm6W1_Ig_2gn_zCy9EUz1g	Sister Verdict
 UCkmCkaIhPKsFG0QQwDYeKjg	Funny Cop Pov
@@ -26724,6 +26946,7 @@ UCl4jPw_7d5e6EVNlIiOOm0A	Orbit Capital
 UCl4lX-r3iet2lDtISLtKoXQ	Frank Day
 UCl4wwuWqrGLfbhcxQEh_lug	AI___CARTOON
 UCl4yFpSR96qPMv688D3XJiA	SimoApps Store
+UCl55_BSfZFfxe1PFeQ81r_g	JUTTNOVA MUSIC
 UCl56IecnEqXgUKjwn5rHOCw	Mini Tiny Kitchen
 UCl59p4uTDaIVTYjPwxHLGfg	Heart Journal
 UCl5EFsW_ufdHzScqrZkrvOA	小桃短劇
@@ -26802,6 +27025,7 @@ UClFIjglV4JoOnPu1QvFOR2g	Marvel Hindi ai
 UClFPBort4JKpkmeb6xvVyUA	Daily Slate
 UClF_28NujrNfuodZ_OJu8EQ	ORCBOUND Chronicles
 UClFa99xWTjaMxUFXpKNFSwQ	lostsignal.mp3
+UClFpTCdW88TIAjx36oFwDvQ	Highland Chronicles
 UClFr-yuURvgCLlscoB0LWrQ	Kids AI Cartoon
 UClFs_Sr0QMSThLaLWx7OJ9g	라비 스튜디오
 UClFua4z2hLawEKu3SNim_Jw	ai video cartoon
@@ -26865,6 +27089,7 @@ UClNPuc2ROM4Ftg6r0Mt4wkg	AI chatgpt,gemeni, cinematic trailer Protyush Saha
 UClNa28Hvxr3dOrh_5DRzZwQ	The $1 Solution
 UClNnCca8LRpR8phBMkqaXJg	AI ANIMAL SHORTS
 UClNvk5KZcKLwwEz6Bcv-Z4g	Anh Chàng Giải Thích
+UClNwBYIv5PoTzn3dEYFhPhg	พลูโตเริงร่า
 UClNxVZrMlUaqorMb0Q4kQnw	Biblical Chronicles
 UClNxkrMm6JhhxfTZHyrV3tg	Untold Mom Stories
 UClOiooCuuQ75xMVeiikFSKw	Dr Ali Ahmad Qamar
@@ -26882,6 +27107,7 @@ UClPZHGmBh6qnEHKL7NOGaTA	Story Patshala AI
 UClPz_uR_3_hSvTln9eRaw9A	Spice & Scroll
 UClQE-AAzsB6bWAs2PjmtaJg	Tiny African Tales
 UClQLnCuP4hsI8Q1VWJNfolA	Sacred Iron Choirs
+UClQMXKNgV7kSOUNEGQdz8nw	QuickFlicks
 UClQaPpA0snrTrh3VAS3vI7g	Laughing Cow Ai
 UClQb3f86SlOxuY_kzr_R7sA	PianoViz
 UClQnmbLhReQH-2UvjSJoFLA	ThreadSpill Reddit Story
@@ -26938,6 +27164,7 @@ UClWo2Sg0uCfRd3g7bmcb_MA	Our Forgotten World
 UClWpjDaGFqb6B-rgWRfcNbA	Future Minds
 UClX1SMYiJG4JWb_QCECRBEw	Maqam Studio
 UClX4on9Trs_gM0_IQkyyWyA	AloneMovies
+UClX6JB9BSSHohj-IA9yjCBw	Galactic Horrors
 UClXHjXg5OV13Kmix4Q01mSw	Benter's Folktales
 UClXK5fxS3z-i9eOXM-JdOfw	No Talking
 UClXKgSxaZl0AwoDJFrRiIHw	Billy's Smart Homestead
@@ -26997,6 +27224,7 @@ UCldrSaTYnKUT1log9DaxvMg	AI Palette-Cute Creatures
 UCldsJbkiQv1xLYzBekg2TBw	Magic AI Toons
 UCldsNCcU0e07eBfL7Hni9yQ	SmartpaisaAI
 UCle59i1qKwwC97sFjnMGcCg	Bible Faith Mysteries
+UCle6DdBlPso6rksgqow8Cfw	History Reconstructed
 UCleK9eKHw61H57Kd8mcTiZw	HFY Chronicles
 UCleXTgvQSOQwqjWiLkhjCGg	Western Story Tales
 UClegKHs6oLQkQ6C9sSN-p-A	Quiet Wealth
@@ -27011,6 +27239,8 @@ UClf8rsfD7fv5NvSchZbZkhg	The Alternative Market Guide
 UClfBnXV1O3PrNsIURN7QKkQ	BABY KIDS TV
 UClfG7wCtcqJIELDlaPXijfg	Daily Ai Podcast
 UClfGfqIwwh4KmzJ1ARfbwqA	AURA SATISFY ASMR
+UClfO83i_wrb7jLXxysIDzzg	Untold America
+UClf_sqXl4kMB4nX9I49SnZQ	Random Videos 139
 UClffJrIcE5lqk8cqHAOhK2A	Terra Files
 UClfh-2PRVVf99LxYRCCnxyA	AI Generates It!
 UClfm2Vl1dF_SUK0_lk7V_Og	MiniSeries SanookJang
@@ -27100,6 +27330,7 @@ UClqJsLB9qeqJiG3HN0TrKQg	HARSH BHAI
 UClqcEjnhFyJr_7QHNr_46rQ	AgniArt
 UClqsVv3K9_ha_CiXRa6OvYA	Studio Imagine AI
 UClqwO61mGgM7PmDpE70GWoQ	Wired Differently
+UClqz0fyA1qZUo-LjGQpRsRQ	Petal Kiss Drama
 UClrEG_W52KkqhN1ramBTBvw	The Story Gate
 UClrIVvwOZQpxfBwo3RroXaQ	Food Baby AI
 UClrPO39AK9cfRnO1t-fWY5Q	Alby's Basketball
@@ -27155,7 +27386,7 @@ UClyHdj_YkedLOJ6bGI7AU0g	The Snoozetorian
 UClyHqCvf_BFPVRrijZOxBuQ	Nexus Files
 UClyKlxY39lKmJQFZjRFHxpg	Mind's Paradox
 UClyTaG_r431PZoQstNv1uQQ	Miko
-UClz8fUNq6fm4H8gkF1Q4zaQ	Mr.Mistiq
+UClz8fUNq6fm4H8gkF1Q4zaQ	CILENGYTR
 UClzBbwbJmKZK1Oidf17D8Rw	Finigma
 UClzJuCIFt7hvZEkkSofVbqA	Nyota Night Tales
 UClzQEdqle3y8kPmP-0oam1A	RagnaPop
@@ -27452,6 +27683,7 @@ UCmWhnLZQDqHbZ7HO6t9NhmQ	Eli Yoder Secrets
 UCmX2KyNvV6FBPCvwXbXX22A	Pinoy AI Works
 UCmX7v02vRCsw1IFCV4g1k5Q	Healing Me
 UCmXCA5_KSs4itLxEdfr9fBQ	best-ai dot org
+UCmXWReILHYv22u9myynSc6g	History Makers
 UCmXe45iBgGIxO5lMW92ydqg	Indiapur Music
 UCmXl8TOqLtHU-buXv54GLqg	Dominion HFY
 UCmXm1nWUmB-GB3Xn4AA8Czg	Aquarious ai vision
@@ -27846,6 +28078,7 @@ UCnGyikBZ__NpXGvpMSjwDRw	RAM Truck Life
 UCnH9oul8LcJ6aNYXcBCl5Kg	AIProgrammingHardware
 UCnHKV_iBb5Pp6fyaqnePTew	MR.DREAM01
 UCnHNfN7OfNEoFSEEOsUrYWw	Animal Utopia
+UCnHPVH-j78xQMo_WQ0yh_yw	Pulse & Circuit
 UCnHguy64sZIPa2jLUwYz22Q	The Epic Metal Violin Covers
 UCnHqDiKH5SL4CfrqRYJSjVQ	kingrana789
 UCnHtBpu4gOMF5C2aw09a_OQ	Dr. Richard Whitfield
@@ -27880,6 +28113,7 @@ UCnKgYfzvkZUK14Df4S7gn4w	Fruits growth
 UCnKnaJfPzRWHY1S2DOz1vBg	Vishu_foodie777
 UCnKqiVUIZalyPekIuodamYA	Jay Radio
 UCnKqq-ToNWgbFCLwGG65LJg	Doctor William Explains
+UCnKxXeFPcXiGWsAiIOvMTQQ	Lucid Wisdom
 UCnL0XgCg8NbWJX-ltmSRA7g	The Broken Radios
 UCnL8_g9pmp-WXItgd_xlWfw	Scape Kitchen
 UCnLEX7PhefQFqJEvNNyeZqw	Prompt Revolution
@@ -27926,6 +28160,7 @@ UCnQf90J3hCY1dxwBESXM4ag	Café Ambrélune | French Chanson
 UCnQmTl-sz78exgh8OcpD4jQ	The Debt Ledger
 UCnRAONngBo7fvnIM_yC2pIw	Arzoo Stories
 UCnRBn-MtVdCrsHD-4AT3-Aw	Digital Dreamgirlz
+UCnRfh5MVh7tEIZYe888VklA	선수의눈
 UCnRq61MLZ8bgyOjiNfX1fGg	Cool_Tech plus
 UCnRsh9BI0S3dbd5v1HxiRpA	The Hundred Day Transformation
 UCnS551twP9PyPj04Wc70RvA	HolyBook Animations
@@ -28310,6 +28545,7 @@ UCo6nw0TzZCnKRfUfiQQhsjA	Alpha Mom Stories
 UCo6pZu_SPM90iWOdTH-_Seg	DramaSweets
 UCo6wppZ5uxZqA5yD_tQiOEw	The Open Question
 UCo6xUl1W_aqKFBO5KuUwtGw	AI Hold My Beer
+UCo740rTFBOYCW13B3uqwzBQ	Imperivm
 UCo76WXUhrO3NMmvGoFifR0A	Novara Records
 UCo7FvfMJeTRhO-d7xT8IZlg	Casual Economics
 UCo7MclS-TA2JubZnufsH42A	DJ Mahnoor Music
@@ -28346,6 +28582,7 @@ UCoBKF2Hoj7kEOEioTMaqVbw	Dreamloop Radio
 UCoBKhkb6Xo2Z7yF-GI4p5cg	킥인뷰 | KICK IN VIEW
 UCoBW7TQnbEh70NjWXhg8g7g	The Bardic DM
 UCoBlIMU_AGmyjmiFL-NbplA	@favour financial
+UCoBuaNxG0W7_DgX_SGLyNEg	Western Pioneer Archives
 UCoBvhTCnl7KenmBNC5PGg-Q	Simple Objects-Deep History
 UCoC2ZO6Tkcbjbp3UtJDJnAw	Tales by Lustrous
 UCoC2fnz5gVDlSpn-N5DruCA	Tales By Nkiru
@@ -28376,6 +28613,7 @@ UCoF_cWLwCD3eelpx7UYcwxg	MarketingAlec
 UCoFcJKW2O6iUe-OuGtuPMVw	HFY Xaltherra
 UCoFf3rVUv0_qN25hMJjOENg	The Queen of AI
 UCoFxpXXXscEZApemB3DJYmw	Sirf Suno AI Podcast
+UCoFyAb4WQdMbIXMrC-tAddg	LUNARIA
 UCoGMDU8FmxkjPZU4I1JlvPQ	Hidden Cruise
 UCoGRSSF6CcdJQKGAu86hYkQ	Dev Suryavanshi
 UCoGRjZRM3LGbPas2vIiKbfQ	#Faizan Ki Seekh6
@@ -28871,6 +29109,7 @@ UCpB6vBT1eqQwQh3ol1AM1iQ	Sacred Mysteries
 UCpBTLmqXS5iLLXHfaC6-HuA	Les Mystères de l’Histoire
 UCpBUy68Uhi98JUSxi0Zg_Cg	Factually Jamie
 UCpB_pb38IRnXbA5AF0fDeZg	浪漫剧场
+UCpBfUIVitgqHgTLbURVQjqA	Athena Vesperia
 UCpBheuxP2nqmT0b5nDNnubQ	Galactic Drift Tales
 UCpBmifuZCuU8o8bwi1zxUZg	Al pacino stories
 UCpBnOwZyzqPzmBYjfvLm7Rw	Ai Cat Story
@@ -29014,8 +29253,10 @@ UCpQ-6l4MPQM0lu0C1TeOpqA	WildWestMysteria
 UCpQ-AT3f-i29vgnKDwEjQQA	HDK
 UCpQ5GA2EenctJOOigeCrZpQ	One Small Question
 UCpQ9Q2oOyLTLuH_dFzoVgHw	Useful History Tidbits
+UCpQKQNYPGmvdbdAFinO6P3w	Rock Kapak Nusantara
 UCpQQ3rs1pV-xGkPJEviXF3A	AICraft Cinema
 UCpQTwDVS6b4OxflDEhFzmOg	The Faithful Sketches
+UCpQWNZhPy0igmKL2uErvlFg	台灣齊心向前邁
 UCpQaFMVQoaGMTJWB0MrkRRQ	French Jazz Journal
 UCpQi_kF1EP7C1NL1dIEhn7g	Drift Off Tales
 UCpQkvfQrlElSscdKvQSCwSQ	lofi cafétéria
@@ -29223,6 +29464,7 @@ UCplPSWJVFTf6d_kSKDtIh_g	Schlachtanalyse
 UCplSCSYtGMNsudYDaaMc9sQ	EpicTune X
 UCpldLUhJx64rO8IRL2TLolw	System Secrets
 UCplfA3yngODftcCK_4ld94g	NavinXAI
+UCplpUTzDHIwvwV9RpeTYSPA	Mystrix Lab
 UCplv08W1zmN6Cmbtnqv6njQ	Warpath History
 UCpm1WEqTBld4Sw7bC50GaTQ	Histo
 UCpm4mQmsPqHOhCHPN5y9NIw	Aisha story house
@@ -29420,9 +29662,11 @@ UCq5SZ3QIoyAeQFcqUFYZmmA	Jukun Tales Tv
 UCq5Vc6owgo_OZQQs6UInVAA	At-Tanzeel Quran
 UCq5VnEG3pylerFgvJblpx1Q	Awesome tales by Jaybee
 UCq5ZLnU35wVCgogJsDmPCEQ	The Last Frontier Tales
+UCq5ingBUzrft22btsA8K1Gw	The Black Dread
 UCq5mU3f-X_g80tFl93Upvwg	Psych Insight
 UCq69xAe-XPcN991JI1mpSdA	Rogue Legends
 UCq6A0Q6WF__yrWFKgk3Moyg	Mr diamond hunter tv
+UCq6E3skgHA5dKXjktIARKaQ	angel girls 천사 👼
 UCq6FJKiRh6OUh8W1Yt8CInA	AI Bible Stories
 UCq6KH5ybIEaDYKjq3aRorSg	Cinematic Universe
 UCq6PLhQ_Orcc1jWDyH-PRAw	Shadow King Stories
@@ -29756,6 +30000,7 @@ UCqhxJmTo-OlnE6o6FlM5UcA	穏やかたいむ ねこのひととき – Moments wi
 UCqhzF4yfrAoEPzf9UN7tiJQ	AI & I
 UCqiOl6yopauZh0Rc2fkshqw	Tech Eye Spy Investing
 UCqiYGsiBc7t1ECTYZpDGMJQ	Back Then With Truel
+UCqil8HeUbKNYrH09WyAzmnQ	Paralysis
 UCqinioFqFG6Hd_7o25671pg	Bukaka Meme
 UCqisw5i-Cf47NQ8gmzhp_0Q	Spider Manhwa Recap
 UCqivtK1WiqA_7vvSlbJ_HLg	BARAN STUDIO
@@ -29965,6 +30210,7 @@ UCr5J5ef5UsCWgSb94Hnm4Pg	Jeet Rakhi vlogs
 UCr5_1xftKDz7Oa4gJa2CuCg	Margarita Elena
 UCr5mqMJA27UGzA9kDI_2_kg	LillianValentina77
 UCr5pEeAsnwBag5AI8aRPg6w	CineVerse AI
+UCr5zQ3W-LpjqHwpzZyZKSSQ	Christian TOON
 UCr66_fqJfS9XGafWSUof0Aw	Ezra miniature
 UCr67UyIQ1SFxm8mIhQzMs_A	Jimmy the Bigfoot
 UCr69ur2cRHwJP44-IUZWMZg	OnlineFlow
@@ -30102,10 +30348,12 @@ UCrLc0s773ZeLGGO6KAZYI6A	StoryTime Diaries
 UCrLl5DBfXhyeB29IgYRs40Q	Animated Shorts
 UCrM4M92HCL2q8WpamdNx6jQ	The Insider Pass
 UCrM7Dextj-T4q4XfmxZySNQ	Life Lessons Library
+UCrMHLK_-D6_-XzA6edWG4Uw	Danilo
 UCrMSrJZMJjNx6tCNvvyEJpg	Skald Sisters
 UCrMWiPd7ZxFcK2jTJ5dGFPg	ToolStack AI
 UCrMYcIbH3YEUh4vAuqZqpbw	Noble Heart Romance
 UCrMeM-EC-bVcjaLIi8aljIw	Sci-Fi Dominion
+UCrMjUYBsnWIbkXfaaLgDQKA	CodeSource
 UCrMr5bzw_pm_VdNgcudvqOQ	Éadaoin
 UCrN2H4wZy4nbSJFS7pT7f8g	Travel AI
 UCrN4kdp84iToobtGcXmvFLg	Zainiedits26
@@ -30141,6 +30389,7 @@ UCrRCk21II0859bIM0LNMfsw	수림-SHORT
 UCrRL9WC8j2_zKMrGl5fDgjA	HOA STORIES LAB
 UCrRLVZSi_sZkFO4OgjlRhjQ	AI Song Mama
 UCrRhYDcGFLk-SSfJZQwO5Vw	Melodic Girl Rock
+UCrRhbxrBANTHyFu-ZNFIXvQ	Secrets du Cœur
 UCrRpqDW9-OiY_wOOWWUcNCw	Wikifino
 UCrRz-tCTuu0vOCGif6Z425A	inferences
 UCrS6Z_O7fmjTH_KCwNxJTOA	Storybook Romance
@@ -30352,6 +30601,7 @@ UCrloNezZz8BTSBuSevAEAxg	Visioncraft AI
 UCrlzgVy7I6-dMa9YNwKa7oA	MeowMotion
 UCrm2Pv8IG-Qpx_wD539OTqg	Shadow Crown
 UCrm5ee5yjrkDlECC2s0ye0w	Ecliptic Grace
+UCrmEQ5inmgEVN3Y7cWCTjUg	Warfront History
 UCrmNFws6YFC_9jvwDJ_rzZg	Stories Within Us
 UCrmSAn6lHHVqUycxjxnMcXg	Ridiculous Complaints
 UCrmhyPm8KEnf09DhqnU2Qgg	3D PlayZone
@@ -30412,6 +30662,7 @@ UCrtrVfussAMF1UmcQDLwHdA	Varkyndra
 UCrtvqL_N8HclkzWTWeprwMg	Bedtime History
 UCru28L3WeIB5CiF-oUJqdIg	Zero Inspired
 UCru8NTuM4YuYnxC0i967ODw	RingVision AI
+UCruKdY52zEV7QWLISKCwkcQ	Bulu's ears
 UCruUgyOAxRQAn79fRJBIgNA	Agent Adventures
 UCruVb_b1V9pppw9IPTyNG3w	Hidden Unfair Family
 UCruwvus_i3KFoZ0qlz1FTlQ	Exit The Program
@@ -30512,6 +30763,7 @@ UCs7u12a8mTd48rZ3ubUCi7Q	Chrysalism Stories
 UCs7xNV-Bd3exSR946h733gA	BL Dark Rebirth Anime
 UCs87vsqz30wv6QzVsrCtNGQ	Diana Serra
 UCs8Gzc4fVIodZLBnPNzA8PA	The Pawfect AI Family
+UCs8PlcgEIboUVTMaUAlDH0Q	Ray Callahan Cases
 UCs8pnGPoRX5SCqtghLuh4vg	DynaMics oF HiStory
 UCs8r8B0-1Fhla-fG0vVEtWg	FUJIYAMA AI Music
 UCs8rI3fl9UeJNtCJmIftLjA	Roma Toon Wars
@@ -30743,6 +30995,7 @@ UCsYJJbjosnQIKpHgg8fqe1Q	Savanna Beats
 UCsYKUZHgpStOH6POTLiwgqQ	Virtue Vocals
 UCsYOme_c-qL1M-x3fcffoCA	Truth Awakens
 UCsYSuDTEjhm4n01HusbNr0w	KJ AI Studio
+UCsYXnu4iV8FhlsxO2DeHuIQ	The Midnight Archives
 UCsYgcuBk-2i3h7M8b3cCtGw	Primeval Archives
 UCsZ-RtOe3hJCT2sGX62jNMw	BubuDrama
 UCsZ-xBWiO6Bn7iTK1JadPBw	Mr Michael JJ Prods
@@ -30850,6 +31103,7 @@ UCsjyN6NVkXTjrv0VTCoIUAQ	R. Maddow Brief
 UCsk1HbGNPU7T8bE4Wi8kHaw	Ken AG
 UCsk4TQWNbVndJdZWm0JasMQ	AIWith_Aakash
 UCskGPtpO7MdToMaUVZufMkw	Afrok Soultales
+UCskN2VFcJo9z8lsg00cqsdg	Red Door Suspense
 UCskRfYFALEOVB7fW6YsU5-A	SnapSol HFY
 UCskUvRPQtpRx6Myj3wqi6sQ	Cute cat viral video
 UCsksQrGcutUEZwstvntf1hQ	Gothany Bay
@@ -31063,6 +31317,7 @@ UCt9MG-WdDf1ccqEBMbubZqw	AXXA.I
 UCt9T0BBGLzYjS6kr7TXxYcw	House 0f Lunaire
 UCt9aBGVzpZiSkfQGwmsExjg	Bruce Lee: The Dragon's Legacy
 UCt9cZ8JViOcDNolBUm5UAhQ	Legado esquecido
+UCt9eO3QZYUEas77Yg-e4cEg	翔平ジャーナル
 UCt9gqyBOexzwDvBLXNdiydw	Navy Seal Legend Stories
 UCt9nAI77B43Db4lHgtpgkhg	POV: AI Witness
 UCt9zFgjaHSSmfHxmIn1cMgg	Screen Rest
@@ -31115,6 +31370,7 @@ UCtEoBDsgBve_dfZ3a1va3Zg	Where's Floof? – English Cartoons
 UCtExHqyJa_16PXULofUgozA	RioTubeAze
 UCtEzl6NouIjUr_kgMpkMA4A	Snackable Trivia
 UCtF0ACAGtT0mk9n3iPUxUfA	S Ai&cartoon vfx
+UCtF3P0uHbzKBVTojpNwWKEg	Legends of the First Nations
 UCtFLlAB4mVXXjQQNhQfpD-g	NepAI Melody Studio
 UCtFTeu0h-Tz-h_nBVZd7sXA	Tokyo Afterglow
 UCtF_JfdJI3TgbflgTbS4fsA	Catholic Chants TV
@@ -31164,6 +31420,7 @@ UCtKcHkBpK9Yjwyam_jXO7mg	Hoa StoryVerse
 UCtKhSbUtqu3bPJcYZ5oZpiA	Aghapy
 UCtL0W4dteQnqxY_fxMNex3Q	Classic Car Secrets
 UCtLFuNW56kwsel2WayoYx3w	Narciscope
+UCtLMkoJe2JPtrtxA-KfrdDw	WinterWatch
 UCtLXbXSPue69-z_cmsGnt7A	Momo Ai Studio
 UCtLhy5jd75HKLwv1nFbENaw	MrxN0xLif3
 UCtLw5dEhRfwWQ6k_VpmzS4w	Rajesh AI Stories
@@ -31287,11 +31544,13 @@ UCtXqNmjRtgWmzPriadWOi8Q	Lost Archives Fiction
 UCtXwjPokMexlIPYJUAUKFAg	Satyam Choudhary
 UCtXyClB--rHpUOmKFRBiGvQ	Phoenix Soul Stories
 UCtY91zeXZ9eqNdfv36e2UUw	The Last Care
+UCtYAPYqicTLc_KQr_7sjIZw	Ymir Veyra
 UCtYEgXXU_eUb7GyqRBghs2Q	Inside a Modern Factory
 UCtYPUhIGhcs5zyjrUYsi39w	Blu Telltales
 UCtYTikhbpFhUuO7JvdbOQhw	Dumbo
 UCtYcPISEyNqN93dfIU8J82A	System of Shane | The Adescent
 UCtYesNhph705__b-8QvJ57A	AI Slumber
+UCtYsXoApaO077O9q1IPDRPg	Soma Stories
 UCtYwPb6kmWYjZ6sfLMv43Fw	Perfect Storm
 UCtZ44widfzF6q_QskmoQK5Q	mas Ai life
 UCtZ5QFJ3MSsbS1F7sBi0Y6w	Oxwill
@@ -31370,6 +31629,7 @@ UCthKRRT_WcB6bvMWERY7bzA	Ai Story Universe
 UCthM7NnVtpTR4jvop2E2b-Q	Its Sniks
 UCthMEB5Ce9G3ukxMDYswU5Q	Silly Me
 UCthQ-7c7vR3eJMJjARQL8OA	YourTolkienGuy
+UCthWFGKW0KiaSxPLeQt0gtQ	The Modern Mystery Man
 UCtheXb00kEbe1vbtW-8RiHg	Traci's Romance Tales
 UCthggkh_CGnnbqAADXYBcxA	Mali Music Center
 UCthsnIsRxJdIEPabsPeCxAA	Echoes of Flavor
@@ -31601,6 +31861,7 @@ UCu8n5rrGX-zmKtC26iPEi7w	ECHOSYNTH - STUDIOS
 UCu8nC0Iq6Yq6UDcAqzWljUg	Dreamora ASMR
 UCu8v827EoUJHvd2OT6l1mlw	KTech Vision
 UCu8wLfju3M2rFN48eaUefYA	HOA Justice
+UCu8yU1wWnAm5gBavvXP0mfg	Inferno Nusantara
 UCu92J0onu27keAQ9vRD-fCQ	Porchlight Stories
 UCu930gvps59wIrQqCBuzGvQ	Throne Unfiltered
 UCu9A1KYleZofU2WP8ks7acA	Rolex Movies
@@ -31739,6 +32000,7 @@ UCuN-_a-IPY88diA259S31Ww	JC Advincula
 UCuN5Pyrq2M6FCUxI8GNIW1w	WW2 Allied Frontlines
 UCuNFOxI3aDCItvG2CsgmbFA	Grace African FolkTales
 UCuNPUMQz9lYPKV_2DmdoERA	Winki AI
+UCuNR_UZKMOMBe0Aa5KF84sQ	Whispers of the Heart
 UCuNkMvM8mMGC63QEBNTE45A	Televisionbytes
 UCuNlGoBCXy6UWcnUgtJBpYw	Native Soul Harmony
 UCuNyIoNYS_QvbqTmNHfkc5g	The Final Verdict Stories
@@ -32000,6 +32262,7 @@ UCurg2zSokIBMIgxVZpW6uLQ	The Silent Coast
 UCurhP-Vt8XpO9u_I8KR68NQ	Poor Puppy Story ⭐
 UCurlO3jEDUVZE_luxDAlIlQ	Dogged Storyteller
 UCurm1829CZuwNtByat7HQvw	Ruta Narrada
+UCurnwVCx-23R_muSo_p6XlQ	Metal Mastery
 UCurz4dqD_PofGVAdTKnN6iw	The Forgotten & Untold
 UCus1DYX1FvivhnD-rTAcLFQ	Agentic Orange
 UCus6NPEwu6kbZjV5k_riNZA	판타지온 Fantasyon
@@ -32015,6 +32278,7 @@ UCuss4nfP9yAKvOQnhc_dZ7A	Bedtime Lorekeeper
 UCut0vF4o2KnN1ixvFl5Luyg	Talking Food AI🍓
 UCut5_D-K_J-oHnmi_eI5pUg	Moonlightfolktales
 UCutGOhkXHt8_4b-1LbMWLgw	TimePortal
+UCutTwnQllcXipORH0FTagNA	Ranked Shadow
 UCutUrq3VTlMugL15kcbvEDQ	Lily Alpha Romance
 UCutW4PybZ7HHEmTU6cqNHDQ	Echoes of the Past
 UCut_r02znCJCirmFG8cQqdw	Soothing Drizzle
@@ -32183,6 +32447,7 @@ UCvAcqBI-82YUT0DEbuvqAZw	AI Cartoons
 UCvAoTiS-S08KMgOO9ET0RZg	GrafiMojo
 UCvBG-gsqmdSncpgbj-loW_Q	Kobi Story Lab
 UCvBIBIiIqrEDMma45eUMHnA	Tales From The Root
+UCvBhiDKWtC1N2Kirze3tkqw	David Kustom
 UCvBjaqXO31kozjDSeGb_33g	Inner Peace and Meditation
 UCvBofAJG7kYVWRvgX0AIWgQ	Ai Facts Daily
 UCvByLozO0GdFiA3qYlGxROA	Ai Kids stories
@@ -32895,6 +33160,7 @@ UCwXq-T5xWTAskGGnDHWN_yg	Jung Notes
 UCwXsQyYEAnyZcaf-p0t_ACQ	Holy Wisdom
 UCwXuZ4Z1QdCQJISMRvVW9WQ	The Hardware Dispatch
 UCwXumY6c7nB8DDOEobPuSZQ	Omega Destiny Stories
+UCwY71XwLcY_10aErWK3QVkg	History Intrigue
 UCwYFPqjylNI2VkSwXBEqChA	MARSAL SIRING
 UCwYLYtkKs4YzkKsu32DR35Q	Solo West Journey
 UCwYhcybRWL62au9fcfyHb-Q	AI Cat Story
@@ -32937,6 +33203,7 @@ UCwbkh-uzsSfOBm_i_BOfN3A	STORY-LAND
 UCwbm4S_MJUOOavvFKY_inRA	AI ASMR - 4D Object
 UCwbo_btY9fVHLhB5OdS4o1g	Behind the Music
 UCwbs70iM9YTSphMBkBs2i2A	True Gay Tales
+UCwbt_Lp6Ky2CnJB4hIXdpIg	The Lost Age of the Vedas
 UCwc-r_IBpDIwvFutsUv0dyQ	Millionaire Love Stories
 UCwc087eU_GuWEI_ErgKN3Dw	Horse Heart Healing
 UCwc2Fhk3cayZPptKZCGY3Uw	Echo Anthem
@@ -32952,6 +33219,7 @@ UCwd36Ssf-2GTJ7fviGzNqIg	Cute cat
 UCwdQFcubZcavJ9OOUOB3ZLQ	Gaon ki Rasoi
 UCwdUu2Dlp7vMb4XUoAfF-Zg	The Why Files - Backstage
 UCwdXFPzcdFOIszFA5EweERQ	Phuong Huynh
+UCwdd0sOIvVvLqPfJZx1kfKA	A Family in Turmoil
 UCwdfP-I9DNHfkzWVglrl5yg	Illumentary
 UCwdj4KYud7A9iVwQRrD5qMg	FaiYam Narrator
 UCwdjhIcp0EOQh6tROqvnCeA	U.S Power Analysis
@@ -33016,6 +33284,7 @@ UCwjf9QnKImIOez1exXyzb2w	The Bible in Sound
 UCwjjpqT_YMISm-BQmZFu63g	Real Duke Stories
 UCwjk1-QgHK_knVU6XZbcjkg	Talesbyginika
 UCwjmPe996JgSoVRnqZWYW8A	Kampfzone
+UCwjrk3v27S_usTIRd8_ZF8g	Meraki Moon
 UCwk3jD1TagtlNfZgAV-JB6A	Tadeusz: Ukryta Polska
 UCwkFDTJSvedcw3K3AO_-juQ	Infidelity Tales Lab
 UCwkOahO8az2w-IEb3b5HBOw	Time Traveler’s VLOG using AI
@@ -33232,6 +33501,7 @@ UCx7FfnRO_XSDHhqbwtqwheg	SpongeBob Lofi Beats
 UCx7FrWd6LhlbDH7iQNGWfuQ	Nick Finance
 UCx7HjzIvv8xgBHhEw4teATA	Whispering Spirit
 UCx7IyU3Xl23AVLJA4KJBxEQ	Wealth Dialect
+UCx7TVC0rxInDyn-i1LMaXjg	AM_03 | Music, Memories & Stories
 UCx7Vu162k66VQcaGIH_IwkA	Castle Sounds
 UCx7gYJvnL5xisDC2w2JmF8w	STOCK MARKET WITH AI
 UCx7lC0N8Z6Z1sNpNUzDkKYA	VIP John AG
@@ -33405,6 +33675,7 @@ UCxSTTdXv0E3nk2UJB9WXhrQ	The Mafia Bride
 UCxSWgw6MXyeb-VebMfe213w	Stick Peak
 UCxSYZiBvYgPE31TDIEC9QiQ	Radman AI
 UCxSavPpdR_zf2YQgcgELxzQ	The Final Chamber
+UCxShtMmvnsW9M-p5TTroVTw	CTRLWONDER
 UCxSn-rKHu1FUFxjHyY1nKmw	Jay Hona
 UCxStennJ1qv08ttGhwAMK-A	Heartland Stories
 UCxSxNUfqqH9hm5wqSTiW7_w	Unmasked Stories
@@ -33505,7 +33776,10 @@ UCxdGpaTBt01oLBjGRyN6mRA	Quiet Jazz Rooms
 UCxdItQxrM2rvS5_302MhBgw	African Life Stories
 UCxdQZeZRoa8yNGLc-cJE_4A	Stickman Explains
 UCxdUy5nip7W9j-S5rTQXc2g	HFY Zastion
+UCxdhliXTZ7y225YS6Y8rKxw	Revelations Of The Saints
 UCxdtMJuzsVaoEVoIlsIDsew	worlds factory g
+UCxdtSTSz_rJfOj1pOixIqlg	AETHERIC KOSMOS | BIOSONIC
+UCxdvDjopeLOGyPXz3yc0w0g	Fabulora
 UCxeHzZaFu87Ink_quqGdvCQ	Learning with Jesus
 UCxeQpxNjvk5bFUElUaGM9Xw	Tales by African Mum
 UCxece_JZfTdDGsVt9JyMzlg	Sleepy History Tales
@@ -33555,12 +33829,14 @@ UCxjabPg0i5FxSWOQKlmO50g	Midnight Secrets
 UCxjfgTuZeb0he0kzyxnQTiQ	Ai Peedika
 UCxjjmsCFMZEXkcpba_FHkRw	Sentozz
 UCxjrYlmrNhZdFLYtdyL1VuA	ASMR Nova AI
+UCxjtBWSG4wD4c2efuNbLmBQ	Pyxida Mythical
 UCxk5IKpC_BLtHdboT2nU3Jw	Noraliya Vane
 UCxkOUZDfVCKqs0hNG-17bAQ	Sinners & Saints
 UCxkUtpNolbO54zpdx7yuU7w	One8Animation's
 UCxkZ8qeFFUw1JV7uQxV-Row	SonaTess
 UCxkbcqx5K_hWlrKwUCLg0vw	The Digital Vassal
 UCxkgnhi6tT7ARXhTJ9-DnsA	Fruits AI Stories
+UCxkjEOkitlyw2M5cwUAGx-w	AISync Anthems - Female Metal Power & Storytelling
 UCxkyL1Z1rNSH4VP7Yi4ozNg	Ai Film Universe
 UCxl12sMAXv5MPdxFi0x7vdQ	NeoAI X
 UCxl1DsKcn4f1-s81WEmsCKw	The Invisible Ladder
@@ -33581,6 +33857,7 @@ UCxmILXgvfO9R_lWaZiSDT5w	cat army
 UCxmMdhG-zhzYPkMtopkMXuQ	The Folklore Case Files
 UCxmWAzzwJGCTyJLscumyf6Q	OLD RAP 90
 UCxmpkKo90pp9axBrmN6jiCw	Charred Quill Tales
+UCxmuaRqc7nB6v8XaqOlzsMQ	The Gnostic Spark
 UCxnAkkHIrup6K8X_SkKMYnQ	World Today
 UCxnCjU9SimSuhw3UNEjZ8OQ	Factiq Boy
 UCxnUjhIpVJC2bHKnc9PcpDw	Dosis de Reddit
@@ -33644,6 +33921,7 @@ UCxvLKJeO1vnOUQYPt8zQWqQ	MARVEL AI
 UCxvWabMqFL0kQ27H3pGgz5w	Karma ai films
 UCxveIOcelUP9GcLGNAP20eA	The Jeep Insider
 UCxvpI1rpxDcmqh1AT5GLW4g	ROOTARA_AI
+UCxvukEJLmy_QiJBI80lu0gg	Iron & Ashes
 UCxvzBlyCVN4YHsVX1OgP2dw	d4zany
 UCxw_ND2PtAI4AQN3OGCX2-g	Oplosan Channel
 UCxwrGyKyvjlU63Baj7UYjlA	Body Reset
@@ -33679,6 +33957,7 @@ UCxzd-WgzX00KTF52ePiU8tQ	FunkyMind Ai
 UCxzflHtfXXpei8Xcnc7X8PA	Neon Pulse
 UCxzm7sJTdN2jVs20izoxSjg	autumn
 UCxzn3alKSPr-JEvYz6kdwiA	Mafia Boss Romance Stories
+UCy-3kU3JTaz9bAJ6RsuIJ8w	My Drama Unfolded
 UCy-5Lk8hZHtTvD2mDo0WJ-A	Calm Revenge
 UCy-8lG2_9vFbi2-Rmd-66Og	Military Miles
 UCy-9UfcTqqOn0pQw-oBR7qA	Muneer Ai 01
@@ -33710,6 +33989,7 @@ UCy1V6cRVWWDsET-t9wF6QjQ	Lore of Arda
 UCy27thUD9p9aHkXvflkE4Rg	AI Trailer
 UCy2DTDql2jeRLHpxGB2Bvkw	AiMovieTrailers
 UCy2J3R2-r14YsfxWvR9a5wQ	krish
+UCy2JkdN2yNGA6V3qEYwVnNw	Battle Memoirs
 UCy2KtZa_u50nyRFpe6l6U6A	Receipts Kept
 UCy2RTECyRCenTWx8tkjYK5g	Vacuum Cleaner Review
 UCy2rOUZ5JYbcOapcz8NaZ1w	Stormfjord Melodies
@@ -33989,6 +34269,7 @@ UCybCsobEq5NzKKIRkpVZjYQ	Benji’s AI Playground
 UCybLOklWUVRO9ipA5QTwfmg	Transformation through AI
 UCybOXpQEYRXgxs_V04pDyTg	ASMR Fruit Cutting
 UCybWmtR2G9vN-o4m7UbdVZQ	Feline AI Studio
+UCybtlnSha_rz-BLAVMOEReA	Gavin’s Justice
 UCycA80dsrZrIcZ5akr9sU2Q	past and present
 UCycIvzg-KNXChD6Ty4_Njgg	Zubywave - No copyright Music
 UCycgjyYSU5pmHjpYslJfRiA	AI Vision Station
@@ -34255,6 +34536,7 @@ UCz3VP3fV31w9zjYJZza8ygg	YukiCookie🍪
 UCz3Z5m8_DRLuDuCFvFIfLTg	American Weapons Memories
 UCz3dWLOXa1Py3O7bxzSj7ZA	The Story Room
 UCz3kivoCFTIBI0LHyVWNXwg	Лихие 90-е
+UCz3ldmvUsW_5n1nwfavXXuA	Odd Epochs
 UCz3nR6mSv_MUgZzCy8gSvcw	Love Blossom Tales
 UCz3xkRUcoS00Y9_pHnHre4Q	Cinematic Nostalgia
 UCz45rP9JdU62VprODoKZtHQ	Mounikaanil vlogs
@@ -34326,6 +34608,7 @@ UCzBwTOnkIwNHJUw4eDxpJtg	Movies With Jack
 UCzByN0NxUAqM2qs8MoyatEQ	Defence Signal
 UCzCKfw3ejBcwb-BlQXXbQ5A	Soni Egi Akustik
 UCzCf3qm50FuND68vjpFvSCg	Tiny Food Builders
+UCzCuR-HD4TN11Nl4hjQ7WLQ	Ai Storian
 UCzD6c7ty2spdSzsoZHSwHgw	Toni's Mafia Stories
 UCzDRFCWAqhpp8RJ3x7I1Vqg	satisfying AI ASMR
 UCzDTDRI2eiGXvy1H0OeS89w	Wonder Story AI
@@ -34503,14 +34786,17 @@ UCzYkEL1IJB0I-4oHnedjXrg	Relatone
 UCzYkvWpy6btjNuxPX3M-2NQ	Lauren Linder
 UCzYqBWIJdql6YVKFJto4Frw	History for Sleepyheads
 UCzZ-RIP4u3dR7XpGnwLGWGg	Ai Stoopid
+UCzZ6hbjddcZrFzerlFtTvEg	Time Traveler
 UCzZCdZRpn4NsxO8v6a26rSg	青春ROOFTOP ROCK / Seishun Rooftop Rock
 UCzZCiVjRPPDCpP5l7HIGRtA	Sean Daniel
 UCzZWxOYqV88aG-7iniG0AiQ	BraincientGuy
 UCzZZcOKAYhxUTEuzRZZK5MQ	WW2 Confidential
+UCzZfn7sCoRU1gOQA57oCBCA	Dark Emotional Metal
 UCzZp1rykoX3qb8-N2w0nO2Q	Afro-Seoul tales
 UCzZq0rhAjvGvpj5nj_XxrWg	Bliss
 UCz_-fr6YeJv9dOnZnrlPvcQ	Soul Flight
 UCz_3Uq3f8baj8izgFOCOS7A	The Spiral Card
+UCz_Bp_oU8TNaK7P0Zl6EURw	Stories by Annie
 UCz_SvTQYp4NZal2Fu9aYA-Q	Manifesting
 UCz_WjblxiB5-F0BgHYiYFFA	President AI
 UCz_ZDrrRT4MaMQ_1Yzzwtqg	Lumentry
@@ -34673,6 +34959,7 @@ UCzs3l_dfOCTCBm3_Av2Yluw	CEVdoesAI
 UCzs7QWkH8fnPplfoOXLtPeg	Moon Creator
 UCzsFmF824OXHuDDxsuuAg9w	Factory Insider
 UCzsG1w8dIXHc4Ky0w_v2Mow	StreamRewinder
+UCzsGKuuAMOy92XwVsH2yFJg	Code d’Origine
 UCzsHYjHL1dZ4_3-DxgrOQOw	Agriculture Insight
 UCzsLuxtYNdrdcOPgYSrsZXQ	Food Miniature
 UCzsSHHOlnI7C2saiTFyvMVQ	TwinkleTales
