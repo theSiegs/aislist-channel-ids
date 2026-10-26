@@ -1,9 +1,9 @@
 ! AiSList warnlist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/aea8c5abc2a09a77854564c46f301919e839b7c0/AiSList/aislist_warnlist.txt
+! Source: https://github.com/Override92/AiSList/blob/3dbdc4ae6792489f2571b9847ecc07b55b804c82/AiSList/aislist_warnlist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: channel ID, a tab, the channel's name on YouTube as of the last check; lines starting with ! are comments
-! Names: 972 channels
+! Names: 987 channels
 UC-4jBCkBdDLoxY_zrYkW9iQ	Fashion Model Look
 UC-8tvuLTOvHt0q3CGBNsIuQ	State Guy
 UC-DOyqxl_nH7BKyJMLma_XA	Choco Drama
@@ -30,6 +30,7 @@ UC0R6pL4lMcrrmSL9wYTUaQg	Comic Stories
 UC0SLXzumaJhW0dOMnKC5lwg	Binge Drama
 UC0ZNnHzKiO0Br3zc5RlUi2Q	DukascopyTV English
 UC0axe4MOzRcWLFG87AM0Orw	DragonRise Drama
+UC0dOVeqhRhxMNrodksNQxMQ	Pengolly
 UC0pCo97jL5xklWl6ZlMi3Xg	Strange But Solved
 UC0skZzDGfgymWGtpJTlGBFQ	Echo Court
 UC0vXtVPOKVWu08moVaxdn-A	Toonology
@@ -63,6 +64,7 @@ UC2gmpup4EyECfOlvDi66XWw	Ai Mahadev Shorts
 UC2jdbLREOY7PyzioilPb4Hg	EIJI RECAP
 UC2nNqeoUOsCFo1HPITbq8VA	Elvira Bary
 UC2yF9VBkbN5HoRXVlAzMg6g	Pokey ENG
+UC2yydjb4PfdldSwB1Dllggw	Brain Frame
 UC33q82yzkYbm5YUs0DfWKCw	UnfilteredCelebs
 UC35l5ODWrgvAq8yP4hQ1Zqg	courtlens
 UC36Oa0LYd-yxSWAnNb0RtvA	Cold War Dominance
@@ -111,6 +113,7 @@ UC5aT07ImOowYZVrf-8S72Bw	Mabisyo
 UC5mFXVhsHSSbkOrvSqlc3zg	Cam Eye
 UC5su99AdYKlXeZ8Qdf2QWEA	The Resistance
 UC60lKbJ4btDCsO26-SxqkwQ	Where Faith Leads
+UC62gxKJCYfrpeO-mCiaDjhw	InstantRanked
 UC63uKCY_FDRtasSuacqbFiQ	Level up with Blessing
 UC67hqaSfmmVcBVuX8pJdO4Q	Sleuth News
 UC6Hdb0rYhUk-11ZfgirRHoA	FLASHWATCH
@@ -232,6 +235,7 @@ UCE_tc9qN5eJHPziLbza3crg	9.6.3.STUDIO
 UCEdYYZg_pcPAKQ5puFGKzig	Satisfying-Lawn
 UCEjgHQjaNqe9L3Df7JaQzmw	Zikota
 UCEk2QG770jl3B1tkyi6cyXA	Seriesly
+UCEkde1jWDJUM0e5Ag_68FZg	Topic Tension
 UCEmQHFenEsOzDdcw1J26mww	Gloamrift
 UCEqRSJnjFtndNkxglT1DvSA	Resomat
 UCErT-lgwuJnYyxztzDam1gg	Zoey Haven
@@ -301,6 +305,7 @@ UCIyEg4M6_ALdK_ECof_AyJA	Northern Veil
 UCJ-7vFo3dpWJ1d92gAGI9Vw	Spartak Emotional Remixes
 UCJ1SxEaxrC5RTLs8OPq0iuQ	Optic Expedition
 UCJ9yQrKImYTs-PI7VnnCTsg	fauxtick
+UCJI5ppVFGNZa5P7wVhPX9xg	Super Comical
 UCJJlof8ODqsRliQezReF0wg	The Gospel Unveiled
 UCJMowYtxtfkk_T3aQ5TG8Sg	Evolving AI
 UCJR8VnJGEXJRBJb36YQA_2g	Palace Insider
@@ -312,12 +317,14 @@ UCJou_4g3Wqz1ztwxIuXyVfg	The Tatooine Times
 UCJs5AThP8_azRcdyR9OZBxg	Sitinjau Lauik Track
 UCJsUvAqDzczYv2UpFmu4PcA	Nas Daily
 UCJtfGIMNPRAkcOX5-OpcHdg	Bablak Bonsignore
+UCJukvvjvttoxhxLEf2UQ55g	Motive Seekers
 UCK4hn2TaXwPd-TI8sIkutJQ	Ctrl+Alt+Fail
 UCK8EiT7tWbX8DqHlJM1F7bg	Last Brain Cell
 UCK9__BD1R5ZELuiDNpSn_zg	SMART WORK OOPS
 UCKBj5HPTd64zoQmkGNseKUw	Jack Vs. AI
 UCKOTiVw2u_e5LK40-YBTVlQ	Jacksons AI
 UCKYOQhdO8bga_gSRPcTMaRQ	Viva Moments Hub
+UCKeOVfZ_qVnG4HvgBvfL6HQ	The Main Dude Stories
 UCKey-8KY3UYMuyawC7XZBMQ	PolicecamStory
 UCKf7zxFPx5cIevpr3iHSBrg	Big Gun
 UCKmo0_6vu9XhOWsfOKSjbmw	TENNIS🎾GAME
@@ -372,6 +379,7 @@ UCNYL6v5weylcPKGUSBgbTKA	NextGenGamers
 UCNYfQ4v2DCRUswGwwr8kzYA	Well, That Backfired
 UCNeb9F_m0Zi84UQlBqTPh-Q	The Complete Process
 UCNf2-ZdZ8LJ8jgY_kIYHxQQ	TUTOR BASE
+UCNtkMAk_Uhd2jJ9P8NWTL5w	DeCode
 UCNyKuYc5iS_DAsViFRJHHPA	M.BilalApriansyah
 UCO6yWPMN9jrWHFeqw8ClYjQ	Omnius Trades
 UCO9fJcmUP6CIoaTuVIVlgPw	60Sec History
@@ -461,6 +469,7 @@ UCTA1MxxYadGGGMUtoQ8_XjQ	Secrets From the Set
 UCTDd3nU_G1VGAuO5nVYXL_w	Lucky With finance
 UCTIthlYBugk6JomVc0D1DJw	Disowned Historian
 UCTJerIkRhTvQEfWM-SzEOqw	Fragments of Sound
+UCTKUPmp3Mqa3SN6e4DAge_Q	AI Upskill
 UCTQSKvxmRfb5Z4NoGYSjfBQ	Forgotten Roots
 UCTQTu7V-uNlpIUrc9O5s5Yw	Logan【Apple】
 UCTaLlWQqD1ZLrRBZD20ESrw	Inner Peaces Music
@@ -582,10 +591,12 @@ UC_FStSURaDad8-xo6jH1j4Q	Bernard
 UC_HGJRgQg6oYP3lFPJUo93Q	KolejOne
 UC_KiIBZ1o3hC_vp-B3KdOGw	La Grotte Silencieuse
 UC_M4UVsgjMuaD1nO12Cp8iA	Judge & Citizen
+UC_MkCvtIoZ38WJq3j-4Af2g	Beariosity
 UC_Ruu-Hb9_ZvG7LHRd7_NBg	BoneTheory
 UC_Se32jLBjnOuftl1u3zfLw	Fluctus
 UC_SsBKZV6T_wGwdLhVonVmg	DUC Wow TV
 UC_TneqvSfh-KsIyZMlJjVsQ	Kanal13
+UC_bnJ2_snUFAlxdnj5MTxqA	wholesomesque
 UC_hG5PxYZeibYNswGHVaXSA	Hardware Hits
 UC_u39rUkySXt9--PXaq9Qdw	VDO
 UC_yGVFpxH_gASxgyI3cl3uA	Dragon King Drama
@@ -712,6 +723,7 @@ UCgZ7vi_salfbAQ5bV_2U61g	HexShow
 UCga21giCua6II2w2spgaJ5w	World of Animals
 UCgbz3NyfdS_D2RDau5Xenow	Rageren Ministries
 UCgeAx_DXSd0fKlmqbxbO79g	US Defense Review
+UCggA6ykDfgraZHHqMiOtd_g	Ryzen Explain
 UCgjNAIRqSXQkJnSoz1RXjpw	Ladenstarfish
 UCgjqHg5rg3yhoRyUk8HheGg	TravelVerse
 UCgkIDMH1O-qWWyIsAMHuI_A	Quiet Symphony
@@ -739,6 +751,7 @@ UCiMm5csnl5xQHZ1i9ykueQQ	Glorb
 UCiSmpzwAyLIE5mTHFgKgTew	Weird Encounters
 UCiVjvhUipXmfncj8DwS2Kfw	Dribblex
 UCiWmTs3yk9Ucm_OPORvgQZQ	EngineVault
+UCigQjjnERbK4TAjpfK5-Nzg	Brass & Blood
 UCimBBcmGGDx0sekCSfRPYyQ	oilerswatchnews
 UCj0owdFCFvo_FAnzb_2tPcg	Foxy Tunes Beatz
 UCj3J0Fl2wJEYcfXBkmOrR0g	B L A N K ♪
@@ -755,6 +768,7 @@ UCjirBmtJM0eRUqY9DrQjR6g	NFS MOTOR SPORT
 UCjpCAwT05jzPDpYa0orBOrQ	Drumrunz
 UCjpOb8--OmixNtiXynvSBNQ	60 Sec Take
 UCjqQ-u1wEy0bysVFlrB-cQg	Eleotan
+UCjxAUYz6RxbcCYlNZnZcwKQ	Stephen Dalton Sleep Stories
 UCjxWmTWM9iTRTGIgjvhUOeA	人生从现在开始
 UCjz1107N5-17ZQOz1g6XaOQ	Cosmic Lens
 UCjzi56cxvmEDwjo1Bd2Yxpg	The Electric Viking
@@ -973,6 +987,7 @@ UCzPB1BLry5QEGj18RI7UhgQ	Bottled Verdict
 UCzPToNKIlGWT0KS-qSNwgJw	SLICE Who?
 UCzTudvkbOI1Y1Hx93WJEK4g	Detroit Iron
 UCzZXdKkL6YD-6ivnz875q0Q	Daily Dose Neuro Sama and Vedal
+UCzaRja_k66jt-KoSBftRTgw	Cars and Engines
 UCzaarZErrRSzDnSdd5UsTew	YT Sachin food
 UCzdF5sa_yPluChckzMKx5gw	TransformersAsylum
 UCzqzYJLTLRWzNZRmBsBMK4A	Am I the Genius?
