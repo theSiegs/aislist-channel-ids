@@ -1,9 +1,9 @@
 ! AiSList warnlist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/982eacd8f1f54a6ec8e81e148f4323213d629f67/AiSList/aislist_warnlist.txt
+! Source: https://github.com/Override92/AiSList/blob/9121d543e6ea5afd0cd80081cda7631485f92941/AiSList/aislist_warnlist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: one channel ID per line; lines starting with ! are comments
-! Channels: 986 of 1111 entries (0 not looked up yet, 121 with no channel, 3 deleted)
+! Channels: 991 of 1116 entries (0 not looked up yet, 121 with no channel, 3 deleted)
 UC-4jBCkBdDLoxY_zrYkW9iQ
 UC-8tvuLTOvHt0q3CGBNsIuQ
 UC-DOyqxl_nH7BKyJMLma_XA
@@ -28,6 +28,7 @@ UC0DZj1PNa_Fp0MU6uPSKv5w
 UC0Kq8j4s5nUJrvtncelpbSw
 UC0R6pL4lMcrrmSL9wYTUaQg
 UC0SLXzumaJhW0dOMnKC5lwg
+UC0UW-RIy-D3MoxQeP874oqg
 UC0ZNnHzKiO0Br3zc5RlUi2Q
 UC0axe4MOzRcWLFG87AM0Orw
 UC0dOVeqhRhxMNrodksNQxMQ
@@ -359,6 +360,7 @@ UCMDFuJyyO81DyGfEVariWFA
 UCMK52z-cI3ZaiOONE_7M4hA
 UCMMhHoDRytRG7RRNXOpUKqg
 UCMN0LnAlFXW0sPMQjkUfm-w
+UCMOO1mtWd1IdTh24dCWk7hg
 UCMQe5CTiRjrUIpO_5B1WtZA
 UCMgo52JEPdiJ3U7V-DUte3w
 UCMlFYr6At7xS6wqLxI5zooQ
@@ -516,6 +518,7 @@ UCVls22oYFwUZAEEiRcqOYiQ
 UCVrQrS77rOEakNu5r8UBAYQ
 UCVsOquFq9G-ShGnR08IN8yg
 UCVtjBLca8zTePP7S2HFg4IA
+UCVucVvOQXHO7PiCRvPsMWYQ
 UCW8Seu5zfcrJFNWFu_slAGQ
 UCWCjc3o2UxGJ28J8-06E5ZA
 UCWFHhPVRYfpcq_sd8gVXgkw
@@ -881,6 +884,7 @@ UCqgChCuIqSXfe8Qvr6DDYBA
 UCqgUT-SyaPrKRPMInG_60lg
 UCqhDnCA77pzf6s4zdLxo99w
 UCqkhI2O0a4uhf5KzTsRzTwA
+UCqm1-4uczweTcS6m397FHXA
 UCqtha6iAfnOZOJd3nViaJfA
 UCqumFyQchzWEvndasNmWoKw
 UCqwcCjfbukdYnzygbvubUuw
@@ -957,6 +961,7 @@ UCwtdEy7oKzuKy5NLf67KQjQ
 UCwtwYGIw8jC6fbAsQBAEcmA
 UCwuDapbtgOoQGAWNXBXYZng
 UCwya-oGbqjD1XCxZAZh6DRg
+UCx88hWQrq8fWZnpsiZZBqnA
 UCxBerN7AyKGPUUOBSoNKXvQ
 UCxDJ6fRopbAoklC1SDcY-zQ
 UCxJcyUAJ8g001jwYToejGvw
