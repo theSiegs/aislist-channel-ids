@@ -1,9 +1,10 @@
 list_handle	channel_id	current_handle	list
 @1AITV-b1r	UCWdliOd7LEeqalaKp_rVk3g	@1aitv-arm	blocklist
+@1coinsupus	UCKDZpv2hK6faHXfWeGJcWww	@yydautoold	blocklist
 @80sMusicLegends	UCbAVnMxMGfczq62Hm9tMA4g	@memoriamelodias-q7p	blocklist
 @81metalrooster	UCJT_ySzoVvqa0QhhlbTybTA	@kapeface	blocklist
-@ACStudioAI-j3k	UC0l2Q0gSrFAf6mDgpV9q60Q	@goldenbrownbgm	blocklist
 @AI.fantasy.26	UCXYcP6HCZSRePgi4PyVueyw	@runeheartstudios	blocklist
+@AIKaKarishmaa	UC6Y9gkSAJttR38MXCUJf3RA	@shauryakuls27	blocklist
 @AILifeLessons-g4u	UCi-IZZCiXMOehm2HGJOs6FQ	@toontv-m5m	blocklist
 @AIMUSICAIS	UCEX4TVSspYs1yYmO5l-hw8A	@bngzoo	blocklist
 @AIMadeEasy-c5t	UCmM4obpuHJ9egnyZ_1ehfSg	@tabahivlogs_an	blocklist
@@ -11,6 +12,7 @@ list_handle	channel_id	current_handle	list
 @AIlifeStories-m6b	UCEOZyb6Ao-XfkJwFT6kdDJw	@giggleshortsfunny	blocklist
 @AItrailersMovies	UC5hOz4JwJBbFyEjx64DwXOg	@theclassicnarrators	blocklist
 @AJFactoryFlow	UCXgGze7JwYMuaFt8fJb6K9Q	@ajfactoryflow1	blocklist
+@AKSStudios.A	UCR45g-fMyNz_NjbRrXIfz8g	@ottomansaga1	blocklist
 @AakAIStudio	UCKk8otSy0m0g5xRJJLVa54A	@aakstudio	blocklist
 @AalamAIWorld	UCvPHzZUIYs-IwsGsxzh46wg	@aalamansariwild	blocklist
 @Advanced-TV001	UCFem8kWQDxY7eizZ8uso5lw	@거꾸로진화	blocklist
@@ -75,7 +77,6 @@ list_handle	channel_id	current_handle	list
 @CatastrophesReconstituées	UCWBymKP14BtnmoM9OzLu_Jw	@catastrophesreconstituees	blocklist
 @Całościowezdrowiemężczyzn	UCjjvQDrm6GN1Yonw_J6KpRQ	@calosciowezdrowiemezczyzn	blocklist
 @CelticArrow	UCgA-Fgpe9FOFLoP9MPRdGmg	@reverlane	blocklist
-@ChaptrBedtimeStories	UC6DvDbprqwyxeI7aa8TMCog	@nightloopen	blocklist
 @ChillProfessor-t7x	UCIi1jC6HLal9KnXX45GAs6A	@timeline-philosophy	blocklist
 @Chroniques.dupassé	UCelLTglLNzDnWvborIw_PIg	@chroniques.dupasse	warnlist
 @ChłodnaZemsta	UC1qbeoFskN0V5J-QsQme4Tg	@chlodnazemsta	blocklist
@@ -107,7 +108,7 @@ list_handle	channel_id	current_handle	list
 @DaleKowalskiCars	UCNg231d9Ct3e9lFtQ2wopdw	@hiroshisgarage	blocklist
 @DeeLoversArchive	UCuVp1G5OQ6FtuFCij4bA1uA	@pastpractices	blocklist
 @DerNatürlicheWeg	UCGk1RQ62hgQ6hnN9qFgijLA	@dernaturlicheweg	warnlist
-@DerRächeresp	UCE9EbutzE4abe1mKiNxe2XA	@derracheresp	blocklist
+@DerRächeresp	UCE9EbutzE4abe1mKiNxe2XA	@frontatlases	blocklist
 @DestinsDeGénies	UC7LBmFx4phOPF8Kd6QsIyoA	@destinsdegenies	blocklist
 @DetrásdelMercadofinanzas	UCBTcdek2v8rEmYh4rTmwbqw	@detrasdelmercadofinanzas	blocklist
 @DiegoCarmesíElenaVargasOficial	UC2YFfqSSIskk3yTsnnfB0tw	@diegocarmesielenavargasoficial	blocklist
@@ -151,7 +152,6 @@ list_handle	channel_id	current_handle	list
 @EpicAICrossovers	UCXgEn7NVyMlXcrLu00g2OGw	@epicanimestory	blocklist
 @EpicWarsOfficial	UCFEwUtDCVrrIc5xUSJMD1Pg	@hammadalameer1	blocklist
 @EspañaenNoticias	UCwRCSfH3ZRUNWnDk53egPYw	@espanaennoticias	blocklist
-@EverTwistDrama	UCxqPo4KEy1LG-jxMbmnahxA	@velvetsky-g	blocklist
 @Expellia	UCRgzFi2ZYqaARW_QF1eoOiA	@theyytknow	blocklist
 @ExplainedSimply-s4h	UCFzQObR3URyGU_-f43degVA	@explainedsimplywhatif	blocklist
 @ExploradorCuántico	UCyx7rrRq-hXnH302H1ohYxA	@exploradorcuantico	blocklist
@@ -169,8 +169,9 @@ list_handle	channel_id	current_handle	list
 @FinancialBuild	UCdr4okH0Cq0Qd7E4DQ4zECQ	@kuldm9	blocklist
 @FlavourBEntertainment	UCp50csWRk0tMtJ4c5h5mBZw	@flavourbone	blocklist
 @FlipGender	UCOZOi5Af9_QmgtefvEI0C7w	@mtfdellanima	blocklist
+@Freydís_Nordic_Music	UC4I0v3lqfrLHmfMDpSB-NxA	@freydis_nordic_music	blocklist
 @FruitsAi-d2l	UCf64_vwwz0wg7URu7JlDkRQ	@sklyrics56	blocklist
-@FruitsFamiliy	UCfGMXdDoUlfFfxpuE4RJDWw	@yumivio	blocklist
+@FrumReportDE	UCxRLLlC7CzSvHa-Lv6DYAEw	@frumgeschichten	blocklist
 @FunnySoraAiVideos	UCO90oT7O_NOkYeQ8tYCoFjg	@thesora2archives	blocklist
 @FutureSpaceIndustry	UC3FSG6654IcKB8J8IvcY0Yg	@futurespacearchives	blocklist
 @FísicaPensamientosdeFeynman	UCDseOO165nF-fluCItPQ0kw	@fisicapensamientosdefeynman	blocklist
@@ -179,6 +180,7 @@ list_handle	channel_id	current_handle	list
 @GlobalFilipinoStories	UC8vsFbd6w4n_RsnwU3dDcFw	@filipinodramastudios	blocklist
 @Golden-Hour-Jazz-Café	UCIvmrll8ugcniYyWpET2OyA	@golden-hour-jazz-cafe	blocklist
 @GoldenAIÆon	UCjTonX2_c3il39b-c5wF7jQ	@goldenaiaeon	blocklist
+@GoldenJukebox1950s	UC4wdk13tFjSmhVkgA7deGBw	@emberwoodjazz-g5n	blocklist
 @GreentextGems1	UCNYfQ4v2DCRUswGwwr8kzYA	@wellthatbackfired	warnlist
 @GunLawsUpdates	UCAJVcxJuMjyLQCTmTgosbWg	@백치미1	blocklist
 @GwiezdnaFlotaLudzkości	UCu5e_oVuPRVamMcbFAonXFg	@gwiezdnaflotaludzkosci	blocklist
@@ -190,6 +192,7 @@ list_handle	channel_id	current_handle	list
 @HFY_en_Español	UCc7Ls5IPHrVtPXFbEsXIKlg	@hfy_en_espanol	blocklist
 @HFYinfinitytales	UCRtKfF2SKxE5Dy_fVmVncIQ	@mysteronixx	blocklist
 @HOAPULSE-x7e	UCBI38MQugE3s9GGoARtCW1Q	@revwby	blocklist
+@HRAutoReviews	UC7x7DGz-dCy_xCccuun-iLQ	@riseinchrist-v2y	blocklist
 @HeartWingStories	UCN1O2bm_2nCYvJ2AU83WulQ	@techhoydiario	blocklist
 @Hearth·Beyond	UC7tOOxpu8UpNpuW0ojSJWxg	@hearth.beyond	blocklist
 @HellbreäkerMusic	UC6fI05KR1QdrmF4DHg35TWA	@hellbreakermusic	blocklist
@@ -204,6 +207,7 @@ list_handle	channel_id	current_handle	list
 @HØUSE-YT10	UCXmt3pFIlW4f7W5X3_SzrtQ	@house-yt10	blocklist
 @HéroeLegendario-r1t	UC9u2p9HKSnlRoWeRskBgpxQ	@heroelegendario-r1t	blocklist
 @HérosetGuerresOubliés	UCqs4ljVdEbuLQPbarAdo1wg	@herosetguerresoublies	blocklist
+@HồngNguyễn-d7k1x	UCSDQ_54YOagXmQcHnUd1Pig	@hongnguyen-d7k1x	blocklist
 @INSANESKILL-f1zx	UCSn8VhRG8Pfxt947SDUuiNw	@onanotherleveltvgs	warnlist
 @IcelysUnnecessary2ndChan-gv1bq	UCDZNI--BebjsaPsJjtO0VWA	@iceloppe	blocklist
 @IcônesdHier	UCWvBlwVb0gUiXV7eV5grv-g	@iconesdhier	blocklist
@@ -237,6 +241,7 @@ list_handle	channel_id	current_handle	list
 @KowbojskaMiłość	UCLyfoAFIInJ_mwiJ4xeZzNQ	@kowbojskamilosc	blocklist
 @KronikiŻelaza	UCr3UKT9c0xsV2DGR5DNXGKA	@kronikizelaza	blocklist
 @LaSaladelAnálisis	UCvRytlaYdABZRfjpqDxlN7Q	@lasaladelanalisis	blocklist
+@LatteKittyCafé	UCoMDwo5Ml9Y2PvQkuk7OvRQ	@lattekittycafe	blocklist
 @LeGoûtdelaProvince	UCyJ4ZiX71L7gD3pmeDNggEQ	@legoutdelaprovince	blocklist
 @LearnwithCeecee	UCM9uBK1v6UiHqyOBrxPC5Ew	@pawfufflestories	blocklist
 @Lenversdupassé	UCRaCL1MVwbBPvwSX4cePNOg	@lenversdupasse	warnlist
@@ -263,7 +268,6 @@ list_handle	channel_id	current_handle	list
 @MindwithinS-d1k	UCuWPyiOPjCZuQpyNJB0pQdQ	@forgottenhistoryechoes-r1z	blocklist
 @MinhBéoLương	UCLY26ZJGnvIjhJ7fW49ncVw	@minhbeoluong	blocklist
 @MiniHérosIA	UCHyK3BGGtm1bJS7GT6rA1sg	@miniherosia	blocklist
-@Minikong91	UCjnJWzmUJJ3EilZUfwhmPjw	@eraperdidaesp	blocklist
 @MinivoraAI	UCSOIWmmjfFJvtMpar3P0yvg	@bajrangbhakti-j1w	blocklist
 @MinuitMélodie	UCfgDfTJU0U7eR4-24158cbA	@minuitmelodie	blocklist
 @MiędzygalaktycznySzept	UCHcGzcu4sM9jQ9rOKPtS-bg	@miedzygalaktycznyszept	blocklist
@@ -274,7 +278,6 @@ list_handle	channel_id	current_handle	list
 @Motivandohastaeléxito	UCMSYu-hETWAQ9evp5yTeAXQ	@motivandohastaelexito	blocklist
 @MotorcycleheadsML	UCiE263mut8BR4mu1tEgEWAQ	@motorcycleheads	blocklist
 @MotoryzacjaNaBieżąco	UCX0Zn3gHBqHU9eWY6l_FGXQ	@motoryzacjanabiezaco	blocklist
-@MussuStoriess	UCK7uDGikeXok2vtkN1qIvfg	@mussustyle1	blocklist
 @MyliRome0	UCMTVc8SibYeltepCdpN5bWA	@romeo_labs	blocklist
 @MysticPetsExplained	UC4WxFhItl3GXEeIgToCep8Q	@thelongnightwithin	blocklist
 @MythicOriginsOfficial	UCXsUugCCRlkHQx6GuPrF7Yw	@knowlingofficial	blocklist
@@ -307,6 +310,7 @@ list_handle	channel_id	current_handle	list
 @Opowieściżyciowe	UCZ8Osmx-2-15GV8uG2Goz2Q	@opowiescizyciowe	blocklist
 @OpowieśćWojennaScienceFiction	UC2Nv7vTSDBY3wjHfbplxnhg	@opowiescwojennasciencefiction	blocklist
 @OraciónInspirada	UC4YWPxoo_Vki50FFQAVHtlQ	@oracioninspirada	blocklist
+@OrcGirlChronicles	UCzzXLGQiIAMPVVTC2GvB1IQ	@kindredroadstories	blocklist
 @OurLìshǐ	UCQ0reGFS4k_DVWK5AQXRmbw	@ourlishi	blocklist
 @PKStoryscape	UCiADmuFYFOcRLyYnd1Nneaw	@golujholucomedy	blocklist
 @POVEȘTIUITATE	UCdOQH6dhSKSAYNOkikm0zyQ	@povestiuitate	blocklist
@@ -328,6 +332,7 @@ list_handle	channel_id	current_handle	list
 @PsicologíaOscuraOficialES	UCQBvLILIVDjwRJg5cQj0AbA	@psicologiaoscuraoficiales	warnlist
 @Psicovisión77	UCTWo9GKs5ABUkc-q4d77ChQ	@psicovision77	blocklist
 @PâmelaMessias-p5s	UCO4T1X7cYpR56y3rB00uquA	@pamelamessias-p5s	blocklist
+@QuietLittleTowns	UC9EGpEgmou5UqwNHJ3AglZQ	@parestesiatube	blocklist
 @RaícesOlvidadas1	UCYFP1zRoQKCjMU18miesAGA	@raicesolvidadas1	blocklist
 @ReconstruçãoHistórica	UCUVUfcIsKhA5DwE1DWFop-Q	@reconstrucaohistorica	blocklist
 @RedstickmanYouTube	UCmJaXK6owt4679C_-YDRqnA	@klausanimationyt	blocklist
@@ -336,6 +341,7 @@ list_handle	channel_id	current_handle	list
 @ReimagineEngine	UCMvAcYygvDX-PwWOsixp5ig	@novelrextv	blocklist
 @RelatosDramáticos66	UCPxDK5l3mz08RTYj9xdvFJw	@relatosdramaticos66	blocklist
 @ResilienciayCorazón	UC_5hmgfD3A_FROj2Np_-fxQ	@resilienciaycorazon	blocklist
+@Romesecrets	UCdevXL-FJ0Ym_Sk26zXIEmQ	@tonightunfiltered	blocklist
 @RootsStories-p9n	UCiwWsUg5ZztvYvwLcVOGOrw	@oceanpulse88	blocklist
 @RozozeFashion	UCnblwCqXsZPrnkKXS3s7uyQ	@jemroo_official1	blocklist
 @RuthCombsHomestead	UCLjd4T99BfBQSLTjQYUg3hw	@nurseclairehollis	blocklist
@@ -358,6 +364,7 @@ list_handle	channel_id	current_handle	list
 @SightofFortitude	UCi5PwwrMllGPHG-2S9hSkuQ	@sightoffinance	blocklist
 @SiwaSprawiedliwość	UC4gYnNz3jaRFWIda2eziyOw	@siwasprawiedliwosc	blocklist
 @SiłyZbrojne-d3f	UCHQJrHNKmbWQ6aemlkUK_Cg	@silyzbrojne-d3f	blocklist
+@SolaceMindD	UCuY8u1dWK1O1J9cwzPofS3Q	@solacefoxuniverse	blocklist
 @SolixYoutub	UCIQulpwj1si--igCOLz78rw	@spongebob-c4m	blocklist
 @SoraStudioCafé	UC4taX_XTNAmOd6qz2gWsPHg	@sorastudiocafe	blocklist
 @Soulsyncm	UCIeWa1RxlDE2ISgAKM16sDg	@nzxbx	blocklist
@@ -398,7 +405,10 @@ list_handle	channel_id	current_handle	list
 @TechnikaČSSR	UCebsT8NcjqPaHgZYs3q8gRQ	@technikacssr	blocklist
 @TerraIncognitaSciencesOubliées	UC0lmS00qPDtmfVdiwDHM--Q	@terraincognitasciencesoubliees	blocklist
 @TezaurLăutăresc	UCHD7rCq4mNR_YqBjmEJU4tg	@tezaurlautaresc	blocklist
+@The-official-LRL	UCj20wgzNmCDTqc3obnZntMA	@dearlyshararomance	blocklist
 @TheArchiveofWhispers	UCg--BoZUpXEdvTgZjSz6c2g	@thearchiveofboxing	blocklist
+@TheCatchShow	UCv6nxE32kEJsaGbPGhBBSOg	@whoopsages.0	blocklist
+@TheDailyKaren	UC0_mpJmEI089m08vlIAqDlA	@monitorsobitiy	blocklist
 @TheFamilyVerdictRoom	UCAFPitlN3CcJ7Kcl__Mn1Lg	@familytruthdiaries_1	blocklist
 @TheLabelAudit	UCSGboP-kGhR-JJ3KnfqitsQ	@thebusinessaudit-yt	warnlist
 @TheLiturgy1	UCnEv9MNGtZcZmLqaiDEE4-A	@liturgy1	blocklist
@@ -427,7 +437,6 @@ list_handle	channel_id	current_handle	list
 @VenganzaFría-g4q	UC0vSNuQkda0p9k0PXVE3QAA	@venganzafria-g4q	blocklist
 @VerdeluneCafé	UCVvQji8LAA5suXLutwWEDkQ	@verdelunecafe	blocklist
 @Verlorene_Ursprünge	UCeEBqSoa7xWYYLNbnBsADZA	@verlorene_ursprunge	blocklist
-@Vertikascookbook	UCLlJvd98TEjFBh2oQFFAgFg	@vertikaaistories	blocklist
 @VieAncienneCafé	UCsDouEH4LAf-eG8HbMtg_5Q	@vieanciennecafe	blocklist
 @VisãoBalística	UCc-HDcbWVriDToluJ9o1v5g	@visaobalistica	blocklist
 @Vörnhall7	UCaml3SIPWfUQRHoU-5YWmkg	@vornhall7	blocklist
@@ -466,6 +475,7 @@ list_handle	channel_id	current_handle	list
 @ajambelestories	UCBEQhE47MPqlsZ3ax1UNB4A	@thislifestories	blocklist
 @ajenetvofficial	UChrLV6-cEAUOIcbeIn5htOA	@aj-exploresofficial	blocklist
 @ajmoneysimplified	UCiQX23zOFTYG5Iw1Ij7Uq4A	@theandreasjones	blocklist
+@americancarexcellence	UCAkagEKJeCgbk5r_JfR2hzg	@arliscar	blocklist
 @amiai16	UCQoH1qv_zQzkFBsN8rYW9jA	@trebellafterhours	blocklist
 @amishhomesecrets	UCT6rKSdoBLzaWUDu3Pyn-Uw	@eliasyodergarage	blocklist
 @amitraveli	UCfnNf9hicwwgo98TF-7Yf9g	@arabella.vs.celebrity	blocklist
@@ -492,6 +502,7 @@ list_handle	channel_id	current_handle	list
 @cartasdesdeelmásallá	UCwUCeJrl7cM1Ugd0pWi0e7Q	@cartasdesdeelmasalla	blocklist
 @cat.nyantaro	UCgFKxUNWrAogxvBZNxyndkQ	@gabugabu_nyantaro	blocklist
 @catai-y9i	UCEXfqZObkhO8bXJCAOTSPGg	@dapur_mini_adis	blocklist
+@catdanceai10	UCIA5O23TnRna-XQlpvB2YpQ	@lipunodiavlog349	blocklist
 @chef-milis-foodlab	UCNKHEcZGHo3hvALNdubuc1Q	@tasty-confessions	blocklist
 @comidantigabr	UCPTnlvzNMtNd-TC2IWVcKlA	@dnautomotivobr	blocklist
 @conductajudía	UCOaxp_5KHg5XclH4vPIgAJw	@conductajudia	blocklist
@@ -500,15 +511,17 @@ list_handle	channel_id	current_handle	list
 @creativeebanobe	UCuPZakjz_ODdJTIMFrWjicw	@tapgaming-p2s	blocklist
 @cybermeowverse	UCFTaa56htrxnTYxFP9KhQiw	@randseditz	blocklist
 @deepperspective96	UCSPqUgKWIMm393l9T72XqIg	@chillwavechapters	blocklist
+@derracheresp	UCE9EbutzE4abe1mKiNxe2XA	@frontatlases	blocklist
 @desiviralzone-sm	UC7VyydZBfVwGY50Rb3WqeQA	@apnavideohub-bs	blocklist
-@devesheditz00	UCnFSix2dKVhi-uvOqQNvajw	@deveshreactz00	blocklist
 @diariodesueñosia	UC5LiarrudXoKz_MKLJl5uSw	@diariodesuenosia	blocklist
 @dogipher1	UC0E0GJA3fduFD5XKqdhD4kA	@thinklikeadogoffical	blocklist
 @doodlesurvivors	UC3GPluPxwaC2zvxXwg1bL4g	@modernafricanfolktales	blocklist
 @dra.dlbadoménech	UC1uTj0hmT-7fDaFaVY4h9iA	@dra.dlbadomenech	blocklist
 @drachenundbürokratie	UC2ZtI8uRZF5xeUFHwZ8b6mA	@drachenundburokratie	blocklist
 @emberchillhouse	UCvf-a2i114cppqcYS0omKkA	@northernwarband	blocklist
+@emotionalsupport90	UCnijN5T181yhDaBHAXBmVsQ	@nature360-1-o8e	blocklist
 @enseñanzajudia-b5z	UCUJIu8TMQPfL2Hp9bV297nQ	@ensenanzajudia-b5z	blocklist
+@everlastinggrace-n3k	UCqGXMslEQWSuFhFKRGuFrvw	@sakzbeatz	blocklist
 @familylaboff143	UCiuSWnHWHaCbxfkqjuklU3A	@thevengeancevault-v8u	blocklist
 @fantasy-yuki	UCboARGzg9gco7EUK5udFzeg	@wendy-antoinette	blocklist
 @feraldawn4	UC5tnuF9h3a_BD7jmHvnao4A	@cattoonixt	blocklist
@@ -523,7 +536,7 @@ list_handle	channel_id	current_handle	list
 @goldenmaskgerl	UCO-qFJssSdnU7rr8P6m25vA	@yorubamoviegisttv	blocklist
 @graceenglishdaily	UCyipv59dFW6fFseORgVNqIg	@cinestormmovies-l5z	blocklist
 @groovepocketUS	UCc5QzMQSguLfr3Jwsl7kwQQ	@titoeneltiempo	blocklist
-@hardtraprap	UCp1pY7K2MhriQhMRjvuIf_A	@dripsoundz	blocklist
+@grownupglitches	UCaJw7YZ90jNAKsokN3C0dcg	@easy_pace	blocklist
 @hoachronicles23	UCJjfnLB6Wgd3Z22uf5eLwkg	@qgtwist91281	blocklist
 @hostnationreport	UCG2SbH3mgy0CHzs3lAMDKfw	@offmicmeltdown	blocklist
 @hybrid_explain	UC1deKNRNMKIZJYjl9AQ2Ixw	@hb_toon	blocklist
@@ -533,8 +546,8 @@ list_handle	channel_id	current_handle	list
 @justvideoai	UC8f-HeBJSY9DApfYbC9YF2Q	@justfutbol-goal	blocklist
 @k-dramaost6868	UCDqkfQ954Zal9RlAff1lQeQ	@snoopyjazz-g8l	blocklist
 @kapitalenthüllt	UCaUlCpjnVMlNHWxBJ-ClRuw	@kapitalenthullt	blocklist
+@knoxfury-e6u	UCS6duC4wX51fo1wU4qStReQ	@pffx-t3p	blocklist
 @kutai-müzik	UCnlFabEmVzYKGzEw30BOMgg	@kutai-muzik	blocklist
-@lalastories2	UC2wFurTOwoCp1UTiTnJLV3Q	@mrsabi-f6	blocklist
 @lanternliving-f5b	UC1z9eQUxkNN_Y9b_m7p0NqA	@japaneseparentingway	blocklist
 @lasaladelavenganza-1	UCQ08CJ5LNju_AG8dH2DpG3w	@onemoreday-3	blocklist
 @laucam.studio	UCSJvnxcHiRD1jpgK5jgD54A	@laucam.pictures	blocklist
@@ -562,6 +575,7 @@ list_handle	channel_id	current_handle	list
 @niezwykłepociągi	UC1VPrhddG9zcL5rlXO-BEyw	@niezwyklepociagi	blocklist
 @niñosgeniosconmozart	UCBL9fk78k27zEssdFaXHt8A	@ninosgeniosconmozart	blocklist
 @nollo_lofi	UCGtQfhdk_KbVWfO0_2360-A	@shen_key_music	blocklist
+@novasmash-i2d	UCS6duC4wX51fo1wU4qStReQ	@pffx-t3p	blocklist
 @oladooculto-k3o	UC5PIfQzvQ0fQf-8vToeQdSw	@beyondsurvivalstories-o6q	blocklist
 @omas.hausgeheimnisse	UCzj9Ynyo53olJzB4ze7TO6Q	@hazardpayjob	blocklist
 @omnisoundsoul	UCvZsmXO3rQESl9oz9PRsu1g	@godskillsmusic	blocklist
@@ -573,6 +587,7 @@ list_handle	channel_id	current_handle	list
 @philipmindset-l3m	UCnPlPoBNlH6EzZm_Tu1ccTg	@jokersreality-o5x	blocklist
 @pixelwaveco	UCXCJi25w91GDZM52b3dV48Q	@pixelcasemedia	blocklist
 @planètemerveille	UC-PatDtC3v9r96GLnId9WjA	@planetemerveille	blocklist
+@plotshiftrecap	UC4S-u7xveRIhonbHELCdASA	@diasporadrama	blocklist
 @pokemonpark19	UCBROzjVOK-iorRKTm1HNyyg	@aiunlocked19-f1f	blocklist
 @polskapamięta10	UCcC1xKHbAg5VemYkDsyxL8Q	@polskapamieta10	blocklist
 @possiblypencil	UCXjf_rIQcARIjfCZVNrqOaQ	@ifquirky	blocklist
@@ -580,10 +595,12 @@ list_handle	channel_id	current_handle	list
 @psychomanis_official	UCvMabwJRJ6i-ZUcq2Q64t4Q	@acorn.studios.official	blocklist
 @quantumuniversetv	UCCyrQ9LfWRGWdB4bHk8udlg	@funnyquanties	blocklist
 @quietinvention-q7j	UCcpZ0p8ROpl6Lo77bov1-OQ	@yesterdaybrick-q7j	blocklist
+@quietstories-n3k	UC1Pwy5sK7Bw0U1s_38ur8_g	@moonlitmanorromance-z4k	blocklist
 @reafton	UC8ZgGC1iFmqBTwPq6C_hgVQ	@naic22	blocklist
 @realisticbreak	UCqze-7Q5-sxxMFqj8UnhlJA	@qianmian882	blocklist
 @realmofangels90	UC98DgwRrfIhxB2_P1G9Hcpw	@fantasticartai	blocklist
 @reed.ing1	UCxnAkkHIrup6K8X_SkKMYnQ	@world2026today	blocklist
+@restorefusion	UCrP9N8I62TxRfxKW86gjlPQ	@offscriptly-k5l	blocklist
 @rocco.m4a	UCNh7lBI5h9d-azDWPXkJTmw	@laucubed	blocklist
 @rosangelaportobelo	UCvQNsBOlwx_ErQjzuCH7uog	@velvetcoffeenights	blocklist
 @rozwiązaniaprzetrwania	UC8ZxFUQruQYDhQjp6F7BVkQ	@rozwiazaniaprzetrwania	blocklist
@@ -614,6 +631,7 @@ list_handle	channel_id	current_handle	list
 @theraccoonreport24	UCokh69Lp5nolRahOrQzgluA	@raccoonreport1	blocklist
 @therelicarchive	UCGGb7I4TNjkPR8RdM2LX3og	@cloutcoroner	blocklist
 @thetouchingstories	UCo1YnXZzXVoCX6bSRYCZgbg	@americathroughtimee	blocklist
+@theturningchapter-z1u	UC1Pwy5sK7Bw0U1s_38ur8_g	@moonlitmanorromance-z4k	blocklist
 @thislifeeconomics	UC5VHq59GVvkMXkKe-yrE_Fg	@ajambele	blocklist
 @timelesong	UCeXsd576FzKsZznGPlgn53Q	@bezaleelmovies	blocklist
 @tinytearstv	UCAu_nqQHzMILo1TcUPxJagQ	@learnhafizmuhammadwaseem	blocklist
@@ -650,6 +668,7 @@ list_handle	channel_id	current_handle	list
 @ıasked-aı1	UCkeBIFRCRNekMmSIdxqz1MA	@iasked-ai1	blocklist
 @Ścieżka_Wewnętrzna	UChD4-DqMMq8GQ8AmFn9YrYQ	@sciezka_wewnetrzna	blocklist
 @ŚladyDawnejPolski	UC8jgK5sjObsrdr9JyecWSGg	@sladydawnejpolski	blocklist
+@ŚredniowiecznaGranica	UCSsuDOV-P-hgf2IGrVEk5LA	@sredniowiecznagranica	blocklist
 @ŚwiatBiografii	UC6CFdWQJi4Mllcm2jCapViw	@swiatbiografii	blocklist
 @ŚwiatPolityki_1	UCbaD08SFDVbn6dn5EgYwtgg	@swiatpolityki_1	warnlist
 @ŚwiatZwierząt-q8j	UCjTDgX72RKCn2rsPJhPG4ZQ	@swiatzwierzat-q8j	blocklist
