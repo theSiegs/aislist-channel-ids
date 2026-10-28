@@ -1,9 +1,9 @@
 ! AiSList warnlist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/86c88ee0967ac277818ccdb4ccfb43db0f282fb2/AiSList/aislist_warnlist.txt
+! Source: https://github.com/Override92/AiSList/blob/fde108eed7f0d6333f1dbb0b14d2a8c2342d4d10/AiSList/aislist_warnlist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: channel ID, a tab, the channel's name on YouTube as of the last check; lines starting with ! are comments
-! Names: 1004 channels
+! Names: 1005 channels
 UC-4jBCkBdDLoxY_zrYkW9iQ	Fashion Model Look
 UC-8tvuLTOvHt0q3CGBNsIuQ	State Guy
 UC-DOyqxl_nH7BKyJMLma_XA	Choco Drama
@@ -960,6 +960,7 @@ UCvrnQFd-BOEcUcnC4azHvoA	Valhalla Frequency
 UCvv0Zy25K_9wj_YyP4nDX3g	Dark Horizon
 UCvyGjSdi4EHz9lGSSBukpnw	Das_war_Kenny
 UCw3QtU66UgjwG9xYvTcdGAg	Autopulse TV
+UCw5RNv-0_z2__UYS7aGDF6g	TensorBite
 UCw5moLR-RGWtjQG-8AwQ9ww	James Quinn
 UCwCA-8zehHmciePbFgu3EqA	Q Process
 UCwEMqaFlj7C1OX6RP62Ss6g	LucasWatch
