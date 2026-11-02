@@ -1,9 +1,9 @@
 ! AiSList warnlist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/a816c9402e41a5a5e736e4ecf165656917a41463/AiSList/aislist_warnlist.txt
+! Source: https://github.com/Override92/AiSList/blob/b4cbfafb0055150f22f68e0fc22177a494884cb9/AiSList/aislist_warnlist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: channel ID, a tab, the channel's name on YouTube as of the last check; lines starting with ! are comments
-! Names: 1027 channels
+! Names: 1034 channels
 UC-4jBCkBdDLoxY_zrYkW9iQ	Fashion Model Look
 UC-8tvuLTOvHt0q3CGBNsIuQ	State Guy
 UC-DOyqxl_nH7BKyJMLma_XA	Choco Drama
@@ -118,7 +118,7 @@ UC5f0D8ud4avf8sSMJty8LZw	DevGirl
 UC5mFXVhsHSSbkOrvSqlc3zg	Cam Eye
 UC5su99AdYKlXeZ8Qdf2QWEA	The Resistance
 UC60lKbJ4btDCsO26-SxqkwQ	Where Faith Leads
-UC62gxKJCYfrpeO-mCiaDjhw	InstantRanked
+UC62gxKJCYfrpeO-mCiaDjhw	ChrisRanks
 UC63uKCY_FDRtasSuacqbFiQ	Level up with Blessing
 UC67hqaSfmmVcBVuX8pJdO4Q	Sleuth News
 UC6Hdb0rYhUk-11ZfgirRHoA	FLASHWATCH
@@ -137,6 +137,7 @@ UC6wnSR1V441ZZrugNHfzs7g	ViVO tunes
 UC6zBA-vFwjqHv3A3YfiAFPg	Garage Gambles
 UC75D8GjbdsBw9VgmGViVxJQ	TOP MOMENTS
 UC7CZHOwiQt_1QWk0_OHHT3Q	TV Junkie
+UC7Eef1bJ18d-ComE-V7YpJw	MegaBuilds
 UC7Ntxd6IheXQGHv7EwdUGEw	Oniverse: Arquivos Secretos do Universo
 UC7VCJRcJ3U7FOOJ9T9CfKZw	What If, Wally?
 UC7YmAKGIRoDWT3O68Cf1aaA	David Linthicum
@@ -290,6 +291,7 @@ UCHc696tVcAF3-UTQJ1-Tn0Q	Tech Vibes 于可音
 UCHcc_0SG8PgSFzluXbnVg8w	Fang + Tail
 UCHgUNQAzmCRi5p3U5qqln7w	Food Fear Factor
 UCHhAPWPrNJscVPZArCYLm7g	Aged Skills
+UCHhacmexabz7rGXaXWNlpLQ	Walkthrough! Database
 UCHkR-_PsIFPb0d_-Au7F0YQ	Audiiance
 UCHo0MdzWrdWrXz47iUgcQ4Q	Courtroom Life
 UCHu0zb_l4Gb5X3Ow9XmCVIA	Paint it
@@ -405,6 +407,7 @@ UCOVcAiUMS7RZ6RVUcrwAYXA	Nemo's Dreamscapes
 UCOVgCmV_41_dYAsitInKvHg	Behind The Chat
 UCOYCN9LR7PjmkhUW3INz5_w	Cosmic Desert Drift 77
 UCO_O_nz8LBblf9Wr7Xk5UpQ	Unseen Story
+UCOeBTqPpREZel0i0IRxL5XQ	Wild Companions Survival
 UCOj9WICwHqV_smQj-ucj1AA	Trend Central
 UCOjUdjki4E8ZqJ6DTuc-R5Q	Weird Movie Facts
 UCOpwnST30vJmriyEe1i1z-g	Feel Real Good
@@ -616,6 +619,7 @@ UC_Ruu-Hb9_ZvG7LHRd7_NBg	BoneTheory
 UC_Se32jLBjnOuftl1u3zfLw	Fluctus
 UC_SsBKZV6T_wGwdLhVonVmg	DUC Wow TV
 UC_TneqvSfh-KsIyZMlJjVsQ	Kanal13
+UC_VUTBATpYjJDlnR5wpdD8A	FLASHACTION
 UC_bnJ2_snUFAlxdnj5MTxqA	wholesomesque
 UC_hG5PxYZeibYNswGHVaXSA	Hardware Hits
 UC_u39rUkySXt9--PXaq9Qdw	VDO
@@ -702,6 +706,7 @@ UCdnHSyXwJuKk83GpHje3hBA	Zen Wisdom Stories
 UCdrt0ykUqDAoQG_rvlv_oxg	The Fire Architect
 UCdvV2hZDzXSWbFAa0fejRww	Noctoon
 UCeEIEUNyjiKEgAbqasRVemA	Vocalspark
+UCeFlDDx4rcssh2cO_yB4y-w	Jonathan's Jam
 UCeGtLWepbQSGH0HNqqrVSSw	Od. Luis Marcano
 UCeHXZZvfWxsIgs9s3U9wdIw	History Profiles
 UCeMcDx6-rOq_RlKSPehk2tQ	The Space Race
@@ -937,6 +942,7 @@ UCsk7xZEo_wN8Bku4lMjW50A	Eras Of Earth Deutsch
 UCskc311fuX1V1KNIDj-1Y1A	David A. Lyons
 UCslAPmeF_jQ8yPB074AvfTA	Cafe Music
 UCstRT9E4z3NOqGl5RtYFiqQ	Mystic Pinecone
+UCstWlNOaXFl18Y5Ud1jeXMg	Numonic
 UCsxCkBFzN33KwYRKVT9H4nw	Line45
 UCt1graZqToRuMjrLLOWBk0A	WorldBeAmazed
 UCt36MPYTMluDErBuPz7pW7w	Detailtron
@@ -977,7 +983,7 @@ UCvbm87xCvpJyOiN2vljAzeA	GDO
 UCvdoC8M-NFjhLSQuwhByf5g	david_movie01
 UCvmzAoR0Dl_by5ef76-TOfQ	Peter.higgsfield
 UCvrMHsFBJObry1PQ55bjFXQ	Battle of The Internet
-UCvrnQFd-BOEcUcnC4azHvoA	Valhalla Frequency
+UCvrnQFd-BOEcUcnC4azHvoA	Psalms of the North
 UCvv0Zy25K_9wj_YyP4nDX3g	Dark Horizon
 UCvyGjSdi4EHz9lGSSBukpnw	Das_war_Kenny
 UCw3QtU66UgjwG9xYvTcdGAg	Autopulse TV
@@ -1020,6 +1026,7 @@ UCz9MVSo4yzjSl2AHSYidnpA	The Vintage Fame
 UCzFm24NUe2ZAK2EQ19fnnIA	Bat Verse
 UCzGHWUxTtKjrv0EHCgGdWEQ	Mellow Acoustic Guitar
 UCzGjORzfP3wzPUugoGkA2sA	RaGoCars
+UCzIsviqoJc-VcWqF5Pp8iLw	Brendan Jowett
 UCzMQ2FktcDLsOOaM5VFnuPw	Bull Bear Sphere
 UCzOcLSAaa_ENIX319ebngEw	Karl Explains War
 UCzPB1BLry5QEGj18RI7UhgQ	Bottled Verdict
