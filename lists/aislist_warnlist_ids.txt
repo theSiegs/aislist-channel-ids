@@ -1,9 +1,9 @@
 ! AiSList warnlist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/b4cbfafb0055150f22f68e0fc22177a494884cb9/AiSList/aislist_warnlist.txt
+! Source: https://github.com/Override92/AiSList/blob/ec56a8447e0323eed6171c8c700160c2aa2c99d4/AiSList/aislist_warnlist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: one channel ID per line; lines starting with ! are comments
-! Channels: 1034 of 1160 entries (0 not looked up yet, 119 with no channel, 6 deleted)
+! Channels: 1041 of 1167 entries (0 not looked up yet, 119 with no channel, 6 deleted)
 UC-4jBCkBdDLoxY_zrYkW9iQ
 UC-8tvuLTOvHt0q3CGBNsIuQ
 UC-DOyqxl_nH7BKyJMLma_XA
@@ -142,6 +142,7 @@ UC7Ntxd6IheXQGHv7EwdUGEw
 UC7VCJRcJ3U7FOOJ9T9CfKZw
 UC7YmAKGIRoDWT3O68Cf1aaA
 UC7agIQuUz6_-DNrR_kYouDg
+UC7f9cTFLrL-HQWRRYxKr7KA
 UC7gozbdUqpQOYN1og_d-J9g
 UC7jxYe_AFXZjNQDqxowq7Pw
 UC7lroy4ZAvyXqup6eWru9hw
@@ -203,6 +204,7 @@ UCBokzENWjVNBsGpf6oBlsAA
 UCBtfZFMSTOpdbO3282i3yAw
 UCC0gns4a9fhVkGkngvSumAQ
 UCC4LkcRdsbI81SHREyjizlg
+UCC6vMO5SVtfM1FCfBn8KX1w
 UCC8oitTtY6TWeepG66ldtag
 UCCJiwlcRXIufYDn0LZsPjfg
 UCCL5nRErMeP_UMwwzs0IGEQ
@@ -324,6 +326,7 @@ UCJQp0JiDZVrofTSHVvfy0dw
 UCJR8VnJGEXJRBJb36YQA_2g
 UCJWRkZ-dDEeY6Uqj2GavpTA
 UCJZ7zr9a6AT6STkyOFztgiQ
+UCJaHaax1s0G2BTycmfw7vMw
 UCJmSOFcBuiBe-6Hkt6EtDcw
 UCJnpbjrzCxWWB5Rho5sywIA
 UCJou_4g3Wqz1ztwxIuXyVfg
@@ -459,6 +462,7 @@ UCRHbD5eDNc4IRIAFPCQo-6A
 UCRI9Mk1hkqAR6snjqiuUqcg
 UCRIR4NZMd0tgeB5srM6VrAA
 UCRLFR4KCM9QKbe6yvFcwOvQ
+UCRXT6OailXx-kl8OTWhjevw
 UCRaCL1MVwbBPvwSX4cePNOg
 UCRbuh5Eyfv6OQvd2hPX5ziw
 UCRdwltwQcTHPkGiUJd_0kkg
@@ -667,6 +671,7 @@ UCblsdi4UwxXHG8jVLnZBNUQ
 UCbqg3tuuqQIKgMAOvE21P7A
 UCbr3KcqMmqnevfI-2kauzCg
 UCbuPx9hJLLWjqYyI7uDcvbg
+UCc2EC_u5MlWyIHw6tcIyshA
 UCc2k59KYCVrFKPasrh6OCWw
 UCc3L72F_yWWr1V1ft_CDpAA
 UCc5LSUorfn2hiCdvva5kgUQ
@@ -726,6 +731,7 @@ UCf332wOilj7kL_mTw48YBXw
 UCf85binLu3Be6uRX1GkIaDg
 UCfKAtiLKpoMyPgTGcU48Jvw
 UCfLCfpqqPlZw11lu1ppUSYQ
+UCfQTYfZAD2ljzT7XoXAF8Jg
 UCfTn254TPE_LXCnD5q7dcrg
 UCfVcqToDyXbaaB0IlV3qgMw
 UCfVvirBfpeP2WyfSEer_ZiA
@@ -1038,3 +1044,4 @@ UCzaarZErrRSzDnSdd5UsTew
 UCzdF5sa_yPluChckzMKx5gw
 UCzeFLB7wgyQngrgmoQWyvOA
 UCzqzYJLTLRWzNZRmBsBMK4A
+UCzs0PJGuCHWXU0vLsP3ImnQ
