@@ -1,9 +1,9 @@
 ! AiSList warnlist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/e7a4819b74f2ef2a030bf51b7c326350b7f81b8f/AiSList/aislist_warnlist.txt
+! Source: https://github.com/Override92/AiSList/blob/1bcecce71356b2afd18da35c7b30abcf63f1795c/AiSList/aislist_warnlist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: channel ID, a tab, the channel's name on YouTube as of the last check; lines starting with ! are comments
-! Names: 1092 channels
+! Names: 1100 channels
 UC-4jBCkBdDLoxY_zrYkW9iQ	Fashion Model Look
 UC-8tvuLTOvHt0q3CGBNsIuQ	State Guy
 UC-DOyqxl_nH7BKyJMLma_XA	Choco Drama
@@ -114,6 +114,7 @@ UC5CMNWLupGXtuVGD00qEWPg	7-ElevenZ
 UC5FYgYg1YAEQTZJKXfbSAIA	MadmamBALLS
 UC5GpNHRBAaYi-l1k2cXXNyQ	Scribbl
 UC5H_iTwytwkUV6FNdisyvng	Legal Affairs Network
+UC5I2qFWeu8C75lgF2ahlJ0w	Future Theater
 UC5WWRmdrMWPFHnETHPZB4Rw	Retro Workdays
 UC5XM_SrNB8_jgBtpwrux2VQ	Sunset Drama
 UC5XWbcPiRpUEHYB4820Uq7g	@1 minute stories
@@ -126,6 +127,7 @@ UC60lKbJ4btDCsO26-SxqkwQ	Where Faith Leads
 UC62gxKJCYfrpeO-mCiaDjhw	ChrisRanks
 UC63uKCY_FDRtasSuacqbFiQ	Level up with Blessing
 UC67hqaSfmmVcBVuX8pJdO4Q	Sleuth News
+UC6BqwJRjN-qmNMFJSM-A0Xw	Analysed Like Chess
 UC6Hdb0rYhUk-11ZfgirRHoA	FLASHWATCH
 UC6Lsx3Tgjs4A54rQJE10PKg	Lumen Theory™
 UC6OFGusZ5H7oXQZeKuOydHg	Primata Hub
@@ -166,6 +168,7 @@ UC8Gbjjvv69jdS9EMNBNmPOg	Celestia Song
 UC8T5gQ4U4GbI2h8kYCkEcvg	Everlast AI
 UC8Zu5Y2dpHFyVAfK0J1Dx5A	Midwest Patrol
 UC8_q6W2kAfGpOk9IXRKbtcQ	SweetDrama_Diary
+UC8aybsijhNJfjKY_VjcVPqg	WarmthWins
 UC8cVdTHZA84M_smVwvI0CBQ	Indecepta
 UC8khHM2f_KtT1lwJ09S2aPw	WealthExplainerYT
 UC8vW7pN4VgfYzpGw0ZOZ17Q	+82kpop
@@ -525,6 +528,7 @@ UCTKUPmp3Mqa3SN6e4DAge_Q	AI Upskill
 UCTQSKvxmRfb5Z4NoGYSjfBQ	Forgotten Roots
 UCTQTu7V-uNlpIUrc9O5s5Yw	Logan【Apple】
 UCTaLlWQqD1ZLrRBZD20ESrw	Inner Peaces Music
+UCTbDrG8gCbjLcMM-2qHIjfg	The Resurrectionists
 UCTeAuVA1zvdFIVqVt3_Z7nw	AstroHoryzont
 UCToMCXtEQb-hKJJk-RRF0kg	pet's
 UCTrrz9IkZNi7d_0LjjFWkwA	Spaghetti Boom Boom
@@ -675,6 +679,7 @@ UCaiGyoqAtAbnxljKIbSD7fA	Best Selling Mascot Costumes For Sale
 UCaitydoE0zTWkIftfFQDVrg	GeoAnimal
 UCanuLFQFuNBSYHqNvqHIpdA	Lost Build Archives
 UCao3kAjTjJArvnOVUNey4kw	Players Unlimited - Media
+UCasKWwf1xcArDLhJ9UYFl5w	Gohan's Tips
 UCauwE96nVoT6ImHHy_z4gpQ	Death By Paint
 UCavppy5eRsPWN_2CNHZ8O7g	Mt Labani shorts
 UCawtlzFFDA1M914WHq2Zw_A	Glamour Vintage Vault
@@ -892,6 +897,7 @@ UCmgJ12SO1m5egq798wZg9GQ	Animal Drama Zoo
 UCmgR43i6txD9j3SuXtQrM9A	GetLost101
 UCmpjEpYbJoFi0xSmCZKFHmA	AGT Fails
 UCmsQKvOVfv2sSjcMCbDe4SQ	Niwad
+UCmsRyiH_vLOMV0Q83U5e54g	The Quiet Survivalist
 UCmu7IgWPUTBWQ2TcjVbAXZg	Natalie Fong
 UCmy0Bcm07Ud1sZhdYCCdBCg	Mafia Mode Empire
 UCn7UksnLHGYfzZbCsSq_0oQ	Street Level UK
@@ -1006,6 +1012,7 @@ UCtZi5svugzFADafWTWck7ww	The Mindset Network
 UCtd9sOb5SVgiAGSgl34J9MA	Rare
 UCtiTiFVKar2AjpLB8Z4sYUQ	Compilations tse massive
 UCtjbC_5Hejm-V5abM5twHUA	Gold Element Autoworks LLC
+UCtonhNYQrmgU-9JdqYE0SQQ	Richard Alferosa
 UCtpmb_Bdx0TlYFK8aWF2EyA	Rewind & Reveal
 UCtqCqD7qAlSD18h2Zo4kdQQ	Jashu Teacher
 UCtr20QIzn9RH5_fWoMUu4ww	Ya BegituLive
@@ -1039,6 +1046,7 @@ UCvmzAoR0Dl_by5ef76-TOfQ	Peter.higgsfield
 UCvrMHsFBJObry1PQ55bjFXQ	Battle of The Internet
 UCvrnQFd-BOEcUcnC4azHvoA	Psalms of the North
 UCvv0Zy25K_9wj_YyP4nDX3g	Dark Horizon
+UCvvd2QBVcOletZqoyuXr-IQ	JC BuenaVentura
 UCvyGjSdi4EHz9lGSSBukpnw	Das_war_Kenny
 UCw3QtU66UgjwG9xYvTcdGAg	Autopulse TV
 UCw5RNv-0_z2__UYS7aGDF6g	TensorBite
@@ -1060,10 +1068,10 @@ UCx88hWQrq8fWZnpsiZZBqnA	Our History
 UCxBerN7AyKGPUUOBSoNKXvQ	Respiratory Therapy Zone
 UCxDJ6fRopbAoklC1SDcY-zQ	Der Kommandant English
 UCxJcyUAJ8g001jwYToejGvw	Gummy Drama
-UCxP2EQQ2ZS1bUBNhze5Y7QA	World Of Westeros
 UCxUbzIR8Bkxo-sqvGUirh0g	AumSum's Lab
 UCxX8HALRumMSt7hb4O6Noyg	The History Hub
 UCxkgpR98geayprAcMhUW5TQ	Mysterious Chronicles
+UCxuwzGHBDlolhmKEfRLZdLA	Mr Nitesh 2.0
 UCy-aBM4PCg9nBjZLaHLDaCw	Hasanoğlan Köy Enstitüsü
 UCyHHCzsbk0LM-FCfyri0rgA	DarkFront
 UCyNfVP4kr0SHRg0ItzvNLiw	Infinity Mindset
