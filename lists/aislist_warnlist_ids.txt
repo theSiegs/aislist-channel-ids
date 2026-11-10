@@ -1,9 +1,9 @@
 ! AiSList warnlist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/35dff254751b3c87f771e4d82acdd8d9613678ad/AiSList/aislist_warnlist.txt
+! Source: https://github.com/Override92/AiSList/blob/da4823a0f4d22aafefc3a1226d848bcbf2619659/AiSList/aislist_warnlist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: one channel ID per line; lines starting with ! are comments
-! Channels: 1112 of 1239 entries (0 not looked up yet, 118 with no channel, 8 deleted)
+! Channels: 1122 of 1249 entries (0 not looked up yet, 118 with no channel, 8 deleted)
 UC-4jBCkBdDLoxY_zrYkW9iQ
 UC-8tvuLTOvHt0q3CGBNsIuQ
 UC-DOyqxl_nH7BKyJMLma_XA
@@ -20,6 +20,7 @@ UC-w-f-1-i-FB8u4RwyuPx0w
 UC-w6ewC0s0u4r86H3mjwcVA
 UC-x15jO6dsh3jnRSGkU1-Ww
 UC-yCUq1xtoxlaCEpaBxHAeA
+UC0-bZJsQyAXQ2D_vyuXXGIg
 UC02ACYG5HsXGlNwx4p311bw
 UC03HfG8VORK3mESYQPAzIYQ
 UC04OW7j6Et1MP7i0fKt9BCg
@@ -33,6 +34,7 @@ UC0UW-RIy-D3MoxQeP874oqg
 UC0ZNnHzKiO0Br3zc5RlUi2Q
 UC0axe4MOzRcWLFG87AM0Orw
 UC0dOVeqhRhxMNrodksNQxMQ
+UC0nkBicaYzmjaX1lYijmohA
 UC0pCo97jL5xklWl6ZlMi3Xg
 UC0skZzDGfgymWGtpJTlGBFQ
 UC0vXtVPOKVWu08moVaxdn-A
@@ -175,6 +177,7 @@ UC8Zu5Y2dpHFyVAfK0J1Dx5A
 UC8_q6W2kAfGpOk9IXRKbtcQ
 UC8aybsijhNJfjKY_VjcVPqg
 UC8cVdTHZA84M_smVwvI0CBQ
+UC8kgNxxt5LMJGIttXmITmiw
 UC8khHM2f_KtT1lwJ09S2aPw
 UC8vW7pN4VgfYzpGw0ZOZ17Q
 UC96M_C7U4d-Pisp0wKsEOnw
@@ -238,6 +241,7 @@ UCCfzBbBX2RHAijmntenyF1w
 UCCh31eOasG1TCyd0By5lWXw
 UCCmVjrjC8K6qFImPVj7O_Zw
 UCCwJrkjEsVa9pwwB6WbYGJQ
+UCD30zr4K0YkLhxEMh8bJw9A
 UCD3JiB3f3Ek1-dI6XYYoILg
 UCDAsctlVfxUJZhn9JTZ2pkw
 UCDGY4dRlph2HUumkmmSBE5g
@@ -361,6 +365,7 @@ UCJtfGIMNPRAkcOX5-OpcHdg
 UCJukvvjvttoxhxLEf2UQ55g
 UCK4hn2TaXwPd-TI8sIkutJQ
 UCK8EiT7tWbX8DqHlJM1F7bg
+UCK8lID7HBYcTb_jh6nWp5TQ
 UCK9__BD1R5ZELuiDNpSn_zg
 UCKBj5HPTd64zoQmkGNseKUw
 UCKOTiVw2u_e5LK40-YBTVlQ
@@ -649,6 +654,7 @@ UCZRoNJu1OszFqABP8AuJIuw
 UCZRxeUJRB7i9skhk6tpvffw
 UCZWHbokB1rI4bkEA2zpvrIg
 UCZd9f77kiWs7m3uH3Y3NzNA
+UCZjWm48_XMAA2DZ5bUzrzyQ
 UCZl7mJpVdWSi0gNx00HvT8g
 UCZp5lKFkEYTIRcUuatbQXzA
 UCZqx_W_naHOPxfXjE-qvYcw
@@ -768,6 +774,7 @@ UCeGtLWepbQSGH0HNqqrVSSw
 UCeHXZZvfWxsIgs9s3U9wdIw
 UCeMcDx6-rOq_RlKSPehk2tQ
 UCeQxako6VfMVhgM9zFhvNZQ
+UCeY2aiGS_XT0TlmXWEpF8ag
 UCeY3n48V6yKJz3YmKzqhyUg
 UCedhTLon8woMxSNpCdrqetg
 UCegtkvhLG9XYzWfRR99ateQ
@@ -802,6 +809,7 @@ UCgG_Io05vof57-NowIkHf0A
 UCgJFQVCc44eJM96kFAWIrcQ
 UCgKehuPjghhQu-gq1EeM7IQ
 UCgMT8CmtTMs5R2CKdCpgPUQ
+UCgOdxeldBqWbmy3TWYHPEiw
 UCgV0XiAesMW_-P4nkvMdVSw
 UCgZ7vi_salfbAQ5bV_2U61g
 UCga21giCua6II2w2spgaJ5w
@@ -899,6 +907,7 @@ UCm7HFWpichCrgXOU1l4t4iQ
 UCm7lHFkt2yB_WzL67aruVBQ
 UCmDKRtKkY3Sxxy7vstFQg1Q
 UCmGML6S4cvUf3QcPSYhGJKg
+UCmKE5TMr0tQ17uoT_JWhhKA
 UCmMbwA-s3GZDKVzGZ-kPwaQ
 UCmXO6rJKEW-fHD6VsBan5xg
 UCmY3xoBm_6ltREbA4ZNVqDg
@@ -1019,6 +1028,7 @@ UCt1graZqToRuMjrLLOWBk0A
 UCt36MPYTMluDErBuPz7pW7w
 UCt4Hz1utR78BKhCokt6iIqg
 UCtBowTj-XzE0PmIwxmEnc5A
+UCtMX_vQWB9Ojd04QXuzFgfA
 UCtOmmC3Z8WSn45VgTAKBHhA
 UCtZi5svugzFADafWTWck7ww
 UCtd9sOb5SVgiAGSgl34J9MA

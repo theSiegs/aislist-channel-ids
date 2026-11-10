@@ -1,9 +1,9 @@
 ! AiSList warnlist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/35dff254751b3c87f771e4d82acdd8d9613678ad/AiSList/aislist_warnlist.txt
+! Source: https://github.com/Override92/AiSList/blob/da4823a0f4d22aafefc3a1226d848bcbf2619659/AiSList/aislist_warnlist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: channel ID, a tab, the channel's name on YouTube as of the last check; lines starting with ! are comments
-! Names: 1112 channels
+! Names: 1122 channels
 UC-4jBCkBdDLoxY_zrYkW9iQ	Fashion Model Look
 UC-8tvuLTOvHt0q3CGBNsIuQ	State Guy
 UC-DOyqxl_nH7BKyJMLma_XA	Choco Drama
@@ -20,6 +20,7 @@ UC-w-f-1-i-FB8u4RwyuPx0w	Time Flies
 UC-w6ewC0s0u4r86H3mjwcVA	New Discovery
 UC-x15jO6dsh3jnRSGkU1-Ww	Hockey Prime
 UC-yCUq1xtoxlaCEpaBxHAeA	Nutty History
+UC0-bZJsQyAXQ2D_vyuXXGIg	PixelMemes
 UC02ACYG5HsXGlNwx4p311bw	MILSIM USMC
 UC03HfG8VORK3mESYQPAzIYQ	Yang on Money
 UC04OW7j6Et1MP7i0fKt9BCg	spectracam
@@ -33,6 +34,7 @@ UC0UW-RIy-D3MoxQeP874oqg	Adamant Mindset
 UC0ZNnHzKiO0Br3zc5RlUi2Q	DukascopyTV English
 UC0axe4MOzRcWLFG87AM0Orw	DragonRise Drama
 UC0dOVeqhRhxMNrodksNQxMQ	Pengolly
+UC0nkBicaYzmjaX1lYijmohA	Worth More
 UC0pCo97jL5xklWl6ZlMi3Xg	Strange But Solved
 UC0skZzDGfgymWGtpJTlGBFQ	Echo Court
 UC0vXtVPOKVWu08moVaxdn-A	Toonology
@@ -175,6 +177,7 @@ UC8Zu5Y2dpHFyVAfK0J1Dx5A	Midwest Patrol
 UC8_q6W2kAfGpOk9IXRKbtcQ	SweetDrama_Diary
 UC8aybsijhNJfjKY_VjcVPqg	WarmthWins
 UC8cVdTHZA84M_smVwvI0CBQ	Indecepta
+UC8kgNxxt5LMJGIttXmITmiw	BrainBus
 UC8khHM2f_KtT1lwJ09S2aPw	WealthExplainerYT
 UC8vW7pN4VgfYzpGw0ZOZ17Q	+82kpop
 UC96M_C7U4d-Pisp0wKsEOnw	Battlefield Of Knowledge
@@ -238,6 +241,7 @@ UCCfzBbBX2RHAijmntenyF1w	Kulitz_TV
 UCCh31eOasG1TCyd0By5lWXw	Rexa Recap
 UCCmVjrjC8K6qFImPVj7O_Zw	Thao
 UCCwJrkjEsVa9pwwB6WbYGJQ	Wait, What?!
+UCD30zr4K0YkLhxEMh8bJw9A	NOVA COMEDY
 UCD3JiB3f3Ek1-dI6XYYoILg	Leyendas Del Ring
 UCDAsctlVfxUJZhn9JTZ2pkw	MLB最新ニュース
 UCDGY4dRlph2HUumkmmSBE5g	Jawerly 4chan Diaries
@@ -361,6 +365,7 @@ UCJtfGIMNPRAkcOX5-OpcHdg	Bablak Bonsignore
 UCJukvvjvttoxhxLEf2UQ55g	Motive Seekers
 UCK4hn2TaXwPd-TI8sIkutJQ	Ctrl+Alt+Fail
 UCK8EiT7tWbX8DqHlJM1F7bg	Last Brain Cell
+UCK8lID7HBYcTb_jh6nWp5TQ	The Arcane Table
 UCK9__BD1R5ZELuiDNpSn_zg	SMART WORK OOPS
 UCKBj5HPTd64zoQmkGNseKUw	Jack Vs. AI
 UCKOTiVw2u_e5LK40-YBTVlQ	Jacksons AI
@@ -369,7 +374,7 @@ UCKZCeem_5ZaN9KO1Oddi-Nw	SillyboyRanks
 UCKeOVfZ_qVnG4HvgBvfL6HQ	The Main Dude Stories
 UCKey-8KY3UYMuyawC7XZBMQ	PolicecamStory
 UCKf7zxFPx5cIevpr3iHSBrg	Big Gun
-UCKlG7FApsp-wujLdFlorX0A	Drama Rush love
+UCKlG7FApsp-wujLdFlorX0A	Secrets of the Foggy City
 UCKmo0_6vu9XhOWsfOKSjbmw	TENNIS🎾GAME
 UCKpSeX1L6Xqk8td7O1ChfgA	Curious Elephant
 UCKwk_aV0yL8e_xe_NYQLROA	Jay Reed
@@ -520,7 +525,7 @@ UCSYNPRbrhqIOztaoIgf1MxQ	Food Crisis UK
 UCSf_ZMPLCn7Bvh4zu0CAvpw	Piece Sign
 UCSj5-39EAVy_lWZtOsYDbrw	Discovering Britain
 UCSjqzfFTg604dQFAF6drabA	Wealth Wise
-UCSn8VhRG8Pfxt947SDUuiNw	on another level TV
+UCSn8VhRG8Pfxt947SDUuiNw	Amazing Skill tv
 UCSygnckNTyEzdLbjqNEjX5A	Technical Support Arman
 UCT-lntLc-S1deFl4oTpJQkg	Gun Addicts
 UCT4oAX0T0L-gmf0EqjxeBmQ	Big Builds
@@ -649,6 +654,7 @@ UCZRoNJu1OszFqABP8AuJIuw	Logically Answered
 UCZRxeUJRB7i9skhk6tpvffw	Simplify
 UCZWHbokB1rI4bkEA2zpvrIg	WiseFox Audiobooks
 UCZd9f77kiWs7m3uH3Y3NzNA	Cosmicus
+UCZjWm48_XMAA2DZ5bUzrzyQ	Ghetto Records
 UCZl7mJpVdWSi0gNx00HvT8g	Top Things
 UCZp5lKFkEYTIRcUuatbQXzA	WW2 STATION
 UCZqx_W_naHOPxfXjE-qvYcw	Hidden Ops
@@ -768,6 +774,7 @@ UCeGtLWepbQSGH0HNqqrVSSw	Od. Luis Marcano
 UCeHXZZvfWxsIgs9s3U9wdIw	History Profiles
 UCeMcDx6-rOq_RlKSPehk2tQ	The Space Race
 UCeQxako6VfMVhgM9zFhvNZQ	PlotMagix
+UCeY2aiGS_XT0TlmXWEpF8ag	Psych History Show
 UCeY3n48V6yKJz3YmKzqhyUg	Behind The Gavel
 UCedhTLon8woMxSNpCdrqetg	Lofi Japan Dreams
 UCegtkvhLG9XYzWfRR99ateQ	UE Stories
@@ -802,6 +809,7 @@ UCgG_Io05vof57-NowIkHf0A	Skill or Fail
 UCgJFQVCc44eJM96kFAWIrcQ	Wielki plan Polski
 UCgKehuPjghhQu-gq1EeM7IQ	EUREKA US
 UCgMT8CmtTMs5R2CKdCpgPUQ	Source Past
+UCgOdxeldBqWbmy3TWYHPEiw	Libercio Official
 UCgV0XiAesMW_-P4nkvMdVSw	Factinate
 UCgZ7vi_salfbAQ5bV_2U61g	HexShow
 UCga21giCua6II2w2spgaJ5w	World of Animals
@@ -899,6 +907,7 @@ UCm7HFWpichCrgXOU1l4t4iQ	SamuraiWorkTunes
 UCm7lHFkt2yB_WzL67aruVBQ	Hindustan Times
 UCmDKRtKkY3Sxxy7vstFQg1Q	Dideh
 UCmGML6S4cvUf3QcPSYhGJKg	Little Thing
+UCmKE5TMr0tQ17uoT_JWhhKA	Remnant777
 UCmMbwA-s3GZDKVzGZ-kPwaQ	pixaroma
 UCmXO6rJKEW-fHD6VsBan5xg	Best Kept Secret
 UCmY3xoBm_6ltREbA4ZNVqDg	Quietude Piano
@@ -1019,6 +1028,7 @@ UCt1graZqToRuMjrLLOWBk0A	WorldBeAmazed
 UCt36MPYTMluDErBuPz7pW7w	Detailtron
 UCt4Hz1utR78BKhCokt6iIqg	Top Hits Music
 UCtBowTj-XzE0PmIwxmEnc5A	FightingIsArt
+UCtMX_vQWB9Ojd04QXuzFgfA	Drive Legacy
 UCtOmmC3Z8WSn45VgTAKBHhA	Code And Create
 UCtZi5svugzFADafWTWck7ww	The Mindset Network
 UCtd9sOb5SVgiAGSgl34J9MA	Rare
