@@ -1,9 +1,9 @@
 ! AiSList warnlist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/da4823a0f4d22aafefc3a1226d848bcbf2619659/AiSList/aislist_warnlist.txt
+! Source: https://github.com/Override92/AiSList/blob/50f6255509da70b42be7564b4dbbc96fba0aa6cf/AiSList/aislist_warnlist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: one channel ID per line; lines starting with ! are comments
-! Channels: 1122 of 1249 entries (0 not looked up yet, 118 with no channel, 8 deleted)
+! Channels: 1128 of 1255 entries (0 not looked up yet, 118 with no channel, 8 deleted)
 UC-4jBCkBdDLoxY_zrYkW9iQ
 UC-8tvuLTOvHt0q3CGBNsIuQ
 UC-DOyqxl_nH7BKyJMLma_XA
@@ -156,6 +156,7 @@ UC7AzlnaS5lix7JzFnVjr_iw
 UC7CZHOwiQt_1QWk0_OHHT3Q
 UC7Eef1bJ18d-ComE-V7YpJw
 UC7Ntxd6IheXQGHv7EwdUGEw
+UC7UGEh3HRLO7bTTmNJSb52w
 UC7VCJRcJ3U7FOOJ9T9CfKZw
 UC7YmAKGIRoDWT3O68Cf1aaA
 UC7agIQuUz6_-DNrR_kYouDg
@@ -246,6 +247,7 @@ UCD3JiB3f3Ek1-dI6XYYoILg
 UCDAsctlVfxUJZhn9JTZ2pkw
 UCDGY4dRlph2HUumkmmSBE5g
 UCDPnPGxw18XFq8uiJUYiO6w
+UCDVcGfeBGFFAaEEnyDPY6jw
 UCDWx71UtCBtMzn7DQSp8iQQ
 UCDclHT4pJn9qJlt0ryWJ2kA
 UCDge6rdGoCvYLZfabZV9XgQ
@@ -895,6 +897,7 @@ UClRZFstArXKVCToDPtfzoig
 UClU4X_4-eq_NSQYY9RoQ1wg
 UCleIDRmHszshxvWFeAAn0Yw
 UCleoRM6IOsrBvPuNKUvPrNw
+UClghVEJ0Dwb2E8YXNeXvqkw
 UClhHB0_iXbn8Cc0x5YzcvIg
 UCls9J7bkOehece8TIExoDrA
 UClsI-t0FokZQAho5U4U2CZQ
@@ -932,6 +935,7 @@ UCn_WChlvNINpyQh2Ej5NqBA
 UCnb3F2CHSkpnb1RVC_m4xtg
 UCncPQ1v29X1Hyfof9nUyPaw
 UCnh2G2rvrQ5fHrPwOIa47Aw
+UCnilNjbFRRzPTkyq8p0o7kw
 UCnirSC-LvdZuhr3xsExK42w
 UCnrSnjp0p2kDB-rN37077Rg
 UCnwUjPK7dXety-AJ4fNw_RQ
@@ -1024,6 +1028,7 @@ UCslAPmeF_jQ8yPB074AvfTA
 UCstRT9E4z3NOqGl5RtYFiqQ
 UCstWlNOaXFl18Y5Ud1jeXMg
 UCsxCkBFzN33KwYRKVT9H4nw
+UCt1Q5-B0E6ckWbj2blEubnQ
 UCt1graZqToRuMjrLLOWBk0A
 UCt36MPYTMluDErBuPz7pW7w
 UCt4Hz1utR78BKhCokt6iIqg
@@ -1062,6 +1067,7 @@ UCvPh9FG4XhbbURs0HmCbdug
 UCvRHjh0UcNlUyDl3wMk5iGg
 UCvUmRn5p2zS1d-oSNJGBong
 UCvYP1_TiqTJtI9--wEQ5pyA
+UCvajGa7bYD0mycr3tgAgKIg
 UCvbm87xCvpJyOiN2vljAzeA
 UCvdoC8M-NFjhLSQuwhByf5g
 UCvmzAoR0Dl_by5ef76-TOfQ
