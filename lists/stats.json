@@ -1,21 +1,21 @@
 {
   "lists": {
     "blocklist": {
-      "channel_ids": 60027,
-      "entries": 61500,
-      "gone": 227,
-      "missing": 307,
-      "ok": 60966,
+      "channel_ids": 59998,
+      "entries": 61498,
+      "gone": 249,
+      "missing": 302,
+      "ok": 60947,
       "pending": 0
     },
     "warnlist": {
-      "channel_ids": 1159,
-      "entries": 1286,
+      "channel_ids": 1161,
+      "entries": 1288,
       "gone": 8,
       "missing": 118,
-      "ok": 1160,
+      "ok": 1162,
       "pending": 0
     }
   },
-  "source_commit": "431a8172efe1353708a3a91a3337a8038bd071d7"
+  "source_commit": "af16535e97134d6dd97090dc54caafa57824e060"
 }
