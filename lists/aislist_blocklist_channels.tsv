@@ -1,9 +1,9 @@
 ! AiSList blocklist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/3ddec9a54e997716f96674e7faf953655e71f323/AiSList/aislist_blocklist.txt
+! Source: https://github.com/Override92/AiSList/blob/68e4cfd860135970cd3b1aa3377612cf12a2e843/AiSList/aislist_blocklist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: channel ID, a tab, the channel's name on YouTube as of the last check; lines starting with ! are comments
-! Names: 68746 channels
+! Names: 68768 channels
 UC---VSS6clgbT9mXRPqzzZA	Demon Hunters AI
 UC--0UqGwM7yRxGwoWVLIOwA	Frecuencia Aurora
 UC--1M2MGDAWI1EBcEzWbKJQ	Second Chance Romance Tales
@@ -2578,6 +2578,7 @@ UC1HtBB80r4QJeV4p9nAXP3g	PKK BHAI
 UC1I280NDfqyS_hravFX7e3g	AdmiralPrise
 UC1I31lAYk6IEc-Ihj625ftA	Tales by Moonlight Fire - Akuko Umu TV
 UC1I84TMY_r71V9BC5E1wUZg	Ancient Earth Rhythms
+UC1I8IlJv8PuCnhmOsN21Xuw	Victory Theater
 UC1I8N1zYexMO4ym-2rWWgJQ	Thorn‑Kissed Drama
 UC1IA3e2Aa4tXIyn0eFkS6lA	AI Magic World
 UC1ICkV6Y8DN65mN9gOadnaA	Billy AI Art
@@ -3950,6 +3951,7 @@ UC2VsgcRLu1DWlawa6MknYpA	DIGITALWERK Xplore
 UC2VtcZ9Rmw9Y8Vxa6fU7DUQ	ARBAZ
 UC2VxGAWQ7gXQT-Q9HKyLjEw	Techn∅ V∅id
 UC2Vz0sRLGZtiGlc3NMsoK0Q	MastiMini
+UC2W7CSp_qyL-nBvY66UFNMw	Tech Picked
 UC2W8O5zCPwNjLFIW6XxjPhQ	Court Exposed
 UC2WECMjkHWG6-peqnVujs5A	Samurai Relax - Traditional Japanese Music
 UC2WKgLi_wkr2XVpESmztB0Q	Ama Tells
@@ -6331,7 +6333,6 @@ UC4l_cTOCpAXX5kifCb0Ohkw	Philosopher Shadow
 UC4lcTGhEL_9YQyozs33XBxQ	Hidden Revenge
 UC4lesheQ2b53uLPkeUg24lw	Ragamuzi
 UC4lhU_cLUt3hGeDJFxjXf0w	Assia Ran
-UC4lp9Emg1ci8eo2eDkB-Tag	Nature Relaxation Films
 UC4lpoNTAc6sPW4AhudW3njA	DeepVerse
 UC4lq-5C0LGH6n9L1aM3E1pA	Shell Game
 UC4luJwIgHPuJZBAMYXxbKYw	Tech Table Talk
@@ -6620,6 +6621,7 @@ UC50Gpk89ysJds0KSuMrMZnw	Cartoon Doom · MCU Recaps
 UC50_zeF4dqxB3sGsP3G1pYw	babydance
 UC50df7tRT9U-T5aYgh77uZg	MÉMORIAL HISTOIRE
 UC50fC49to1XtTsRamJbrnOQ	Halls of Moria
+UC50h-J3hfA2KM7FRgcEu7LA	King Huff
 UC50m-nyVH3fNx3RSQptxLIw	Meditate and Heal
 UC50mKYoh7DNnLKcCbBDR2EA	Animal Video
 UC50oy6wx-f9wxpoYlr83rzg	GOAT'D
@@ -12466,6 +12468,7 @@ UCAHAoY8oawHOFUanu5ReFBQ	Oge Stories And Tales
 UCAHB_0VkdwHH0m_gpHlrCoQ	神月ポニー
 UCAHHK1NnbpIdelHvShEaAZQ	AI Magic World
 UCAHL_rnUqSaXiDp5mfm9vGA	Forgotten American Farm & Country Life
+UCAHOsHX5MkAbReayhaxrUyw	Mechanic Mike
 UCAHQ7znkYS3prY2qtiPqKzw	Wired Logic
 UCAHRoz55SNteR0E_iao_iqw	CineBeast
 UCAHSYccacZHB5_i-UfC5VDg	Unseen Mind Stories
@@ -14006,6 +14009,7 @@ UCBiYKOISBqEKLwe0yhASMIg	AI World USA
 UCBiZUlly2D8FjTxpgEwK9GQ	British Command - WW2
 UCBibqUM__BgJeL3NrcAtUgQ	Panda_Market_News
 UCBidXnbOL3pWUcG8dLmU2Xw	Simple Explain
+UCBil1xwkSgxLIDu_LxPcaqA	Plumber Service Software [PSS]
 UCBitB5A3AhAdgcxZSJ6zG5A	Kedi Videos
 UCBitgT5XgT4XniYkX9z2Icw	Kira's Love Stories
 UCBj-a53r2Yfw3evcFVqwQQQ	African Tales By Heart
@@ -14633,6 +14637,7 @@ UCCIlJcLNzvDF8Q60KEGKh7w	RolandStudio
 UCCIr0oBd-XrxJlHkoWJZUAg	ViralBuzz USA | Viral Shorts, Trend Entertainment
 UCCIu2eS6jIzkYkmLaKNIvhA	Relaxing Reddit Stories
 UCCJ1tqILNlCQh83FJitLTCA	Wealth POV
+UCCJ3O0PFryQxuUUX-DcrQ8g	PokéStories
 UCCJ42XiRxvmtDuHNH9zs0yA	Scarecrow Actual
 UCCJDnR7X7ai6AvFClaLiELg	Little Fixes
 UCCJNtZoMQk4v_U6zxg1q1Yg	Belly Asmr
@@ -20603,6 +20608,7 @@ UCHsBFeIXRL9Z09Sz1KUHCmA	Wonder Venue
 UCHsCKHkIAZ5_fMg6ZXYFdLA	VOIDNEW
 UCHsFo52-fsaz9mQnltP5Puw	Luxury Car Tv
 UCHsPBfu6pH3-5GjqXHEK8jA	Handlo AI
+UCHsVBjSW9KiKaBAtD62O8Tg	kyle
 UCHsYxkBeWl_0zmHffC1BUWg	Pradawne Dźwięki
 UCHseWhXpXezFXy02DpKPd6w	Western Soul Stories
 UCHslIExJd1IVNZmd4m_xdog	Afro k Tales
@@ -21731,6 +21737,7 @@ UCIvnxaKF7FkNsi5MUUgRm4w	2nd Act Chronicles
 UCIvq7HtL3vyra_YX8lD9HHg	AI HAI FUNNY MSD
 UCIvx3blrX545puV_yjxkbZw	Soldado Estoico
 UCIvxKAUwIgsWfOmEPY28LMA	Mr Winner
+UCIw-d1Dk0GMGUV1j_Jl9wXQ	CodeToCarbon
 UCIw1i9YOrE4Rc1hogzC7kfg	Mr. Phat
 UCIw2RACwWT2slZ7YnTU8KOw	ARK Digital
 UCIw3qGu2FBOFr2ahove0Dhw	Pixelado IA
@@ -25632,6 +25639,7 @@ UCM_D-tv6Ru3VGxhKvkBvAPQ	Opus Prime
 UCM_IPWAKIeryVwKL59ED_lw	Conor McCloud
 UCM_MmfKJ7ZJWEDFRltdzrPQ	THE BOG RECORDS
 UCM_R2LZu3qK0pit4NuYrXeQ	ArtSonica
+UCM_R2THQViXXCTRvnzySSBg	Every Film Professor
 UCM_S0vC_YKjwddIuIzjOqfQ	Chef Master Gourmet | Ahmed Samir
 UCM_T-lqqdRrP88uiCp-dLFg	Empires Eye
 UCM_VDJbYR-i2zVuH5dxI3Uw	The Hidden History Project
@@ -27300,6 +27308,7 @@ UCO4zhQypWMOdBLAwH4TlDqQ	Mo AfriTales
 UCO5FqTbXjh-IrdoZF4uJPKQ	Ainar Grinberg
 UCO5K6SeLgio_gPkB8r0d7mQ	K-Mafia Boss Obsession
 UCO5M7Sp_9ZwjkNr8BCcVJ3g	FAVOUREDTALES
+UCO5MdLPhy2euCtk9gry2pjQ	Beany
 UCO5NakQw6smCyLev9ygTDZw	Mr. Clayton Wells Stories
 UCO5TE45Y4mmMCcbAR1v4s0w	Secretos del Mafioso
 UCO5bWZfSD_XzlNNRBppa7Lg	Global Documentary.0
@@ -27481,6 +27490,7 @@ UCOHkFuIiC-o850bU-yinYIQ	Seed Trek
 UCOI2uhpwnLo4PDfU3JAnBSA	Chef Roohi
 UCOIACm9bGIYybrkGLAGqq6w	Vibes Of Fantasy
 UCOIGpQOYE8ijvQJ9voEmW_g	DESTROYER SOUND
+UCOIPf2PBihe-CUXP5RGAgjQ	Kelvix
 UCOIUA3CJ0tD3SrOSacBmClA	Nagomi Room
 UCOIV8fxF75tmSfY1TIGvuFw	Project Kaebe
 UCOIZsqsMu06AEtgh92F85QQ	Viral Ring Footage
@@ -27640,6 +27650,7 @@ UCOQpzMU2rQrMFLA5Zq7Pv2g	HFY Sci-Fi Terravicta
 UCOQsM_LSwsV2UItVxOVnR8A	Drama Short Films
 UCOQvCI1rRX68SAdgMfPVSuw	Magic Storyland
 UCOR3WA9WBQH6o0-0a7MeOBQ	Sunset Atelier
+UCOR4Mpg7O18iMp8VT66Nqpw	지갑의 구조
 UCOR7FaCv2skhZFmxH80beVA	Seaside Rain
 UCOR8H_BLexXrpHvkZlBzRAA	추리플리
 UCORG3xARmRH8R-P4gHXCc1Q	MARTON BOHN
@@ -28774,6 +28785,7 @@ UCPQcLQRZKzIKdDC_cs3ytMQ	Hoa Drama Files
 UCPQcrQQkeNoI8MRAzs3dULw	Timing
 UCPQdfZqfNxSzSp4vM4ISpmA	WOW Stories
 UCPQmDlhAE9dsjRbgCgPmETA	FRUGAL PRO
+UCPQq0iWpQLmI2mi4cZGpfxg	LatentMan
 UCPQryi-ChAa6IteOox_GkYg	Horn HS
 UCPQvjtSpg6T-2GwsIMBs5xg	Not Today Karen
 UCPQvlOIdIJUYJ4h9IdLsMuA	Sonali kitchen
@@ -30689,7 +30701,6 @@ UCRFBN1t8akCCqAijK9yaiHQ	KingMode Drama
 UCRFFqDrKeGOVwzuG4VObWRg	World Tree Beats
 UCRFMtbd7ptZ-hes6zWMu8eA	Whispers of Outlaws
 UCRFP9hh1eKSJ5WosHBZSDGw	Moonlit Whispers
-UCRFSF9WS_g0wqm32kjJ-jNw	jacobweeby
 UCRFjdda_86mbzKkDT4kebFw	Underdog Drama
 UCRFnJw98Eu5gHY7W2paU2xw	Warrior Queens
 UCRFuzruip1bPnw2wmBcmFLg	AI Revolution en Español
@@ -33152,6 +33163,7 @@ UCTWUbFqRwwS5maVf-VRIJDg	AIautoshorts
 UCTWVaMOzgGpcZC8FB-QSqOw	Ametheria | Fantasy Ambient Music
 UCTWlW9PSzJwaqxk-4R7weeQ	ECHOX
 UCTWo9GKs5ABUkc-q4d77ChQ	Psicovisión
+UCTWpTQZHHQmAr7OC9_BMRsw	Mundo Smartphone
 UCTWx1yrXWtRvCaq_muqysHw	Droga Zbawienia
 UCTWy1byXNjqrBtub1C1_R5g	Karen Confessions
 UCTX-zo_QWczXQaiGEjPQjCg	Doorbell Cam
@@ -42392,6 +42404,7 @@ UCbI8UtLae5sDtINB6isksFQ	Queens Of Rock
 UCbI97BXkls8reQ6inbcC0dA	SnapLore
 UCbICb5Xvx22jYg7eJ_zXzaw	Zep Portal Stories
 UCbIGKyQSbr7YO4zqW3lnCZQ	Narvik Stories
+UCbIJ64KcXAGTO0ulcoFIacw	The Quiet Bill
 UCbIK9-UPJq2YrPozgu2hsbA	CarScope
 UCbILBOK6xEgRbp2JuT1RYjA	AI Laugh Lab
 UCbIMs1cJMngsMrcSgbXw1vQ	Pause,maybe?
@@ -47667,6 +47680,7 @@ UCgDMnal1LTFAIJ3UpyCgWeA	Goyart.studio
 UCgDNws07qS4twPydBatuugw	ControlAltAI
 UCgDXhBkg-c5XTG_feJN4_xg	Moonlight Stories
 UCgDg0-a9ShCXSPU9mHxUwJg	Hasibul Explores
+UCgDmRHgSW6wG9Je-woYBCDQ	Denis Shmalts
 UCgDnOrzBr1y6lhNE4tvc5LQ	Glamour AI Kingdom
 UCgDozslSFHGTWt-MV54UbOQ	Chrono Verse AI
 UCgDpFnN-K56CnSILHY3V6fA	Crestwell HVAC Paid Lead Intelligence
@@ -48419,6 +48433,7 @@ UCgwd5DWvZE661bB7HsQSi2Q	Time Travel Vlog
 UCgwmqbotiTAiqux8nuHme3Q	Most Sp
 UCgwti7MEp-kkBXcXPSwM3mQ	PlastiiQue | AI Music & Filmmaking
 UCgwvCzqMVKrYouJVYdBIeWA	Secret GL
+UCgx-hW1hE-w4RyvwNVJdoAg	NYKIMA
 UCgx6bIOuqGGi2cuZW6m40GA	百味故事會
 UCgx9-NombvTO36e5S-RVXYg	SmoothAcoustic
 UCgxMCR6Y1WOfaynVLGUi6QQ	BOOMKPLAY BS
@@ -49703,6 +49718,7 @@ UCi3wQAzDOJkhvTkA-2ZvpjQ	Sleep In Orbit
 UCi3wsaDB_NwhUWfJvxir61Q	The Merry Edit
 UCi40dTpz3ICScUU44ic8Teg	Sound Trip
 UCi46RPrZX5NDytlHcJS0MlQ	Hul-AI (TappedInStudios)
+UCi47LtMbpvf4y9tCT3WrbWQ	경제학일번지
 UCi4KjTPklbWoeu9z-zHbGKg	Past History
 UCi4NoOOfJEFr2DdM5fDxkFQ	Lone Star Shadows
 UCi4OXUFbq5rDg7zeSlrYD6g	Anzero
@@ -53644,6 +53660,7 @@ UClm5STtvEdNCqPlCjbC6giA	Starry Souls
 UClm9sNiL3qYQzDpY204omiQ	Hoa Experiences
 UClmAG6lc1mp0PCjTrnUb3AA	Prem Anand kalakar
 UClmC8NePWSlOFwrKJhiaoGg	Learn with Tales
+UClmDNm2lvkANA3eDwNuqGCA	Ex | plain
 UClmEOJsQMr2mMM7zlOC7BQA	Mona's Mini Rasoi
 UClmNWmp2FgDK8S1c8U7qt5Q	AI Miniature Cooking
 UClmTuY-WsbqNQ-iwjaOr2ww	Dogunee
@@ -55687,6 +55704,7 @@ UCnjhXCEXA079cEGVWI0wMKg	Smart Chef
 UCnjnwmtrhkzoXEDrgd2FZnA	Afro Kdrama Stories
 UCnk1NZzywdKmTDSJ_qLUc5w	Gizem Laboratuvarı
 UCnk1beEZ9GzAcIJYBtOjgJQ	Divine Light Revelation
+UCnk1du50zlgkJEhgFxl8hZw	Hoop & Hype
 UCnk3Z8TYJ8vfL2ZYtfGOiyQ	HFY scifi stories
 UCnk69q8gRd4coLhQFscDhpQ	Afro-Korean Romance Stories
 UCnk9ozGoFz16MnFAETlwP5Q	Whispering Waves Sound
@@ -59166,6 +59184,7 @@ UCqyh1Ko5lBE49nyFqvDLdTA	Bible Chronicles With Andrew
 UCqykXZcCPbPNWXsgUrzvWsg	Wunderkammer 2.0
 UCqyqHNowyf1z7PvLtDwSdnw	Vintage Italia Studio
 UCqyswCxbHiPjjvoFt9lxsxA	Caribbean Spice Melodies
+UCqyxF3awr6UcNjhLpagk6uQ	no pure news
 UCqz0oBrjNE-MeKuHZhuJh8A	Raw Old School Beats
 UCqz30Tj0VNNZTX-x0k2JqGw	Scifi Reddit Stories
 UCqz7cy1JzG9XWiXKsusLkLA	Naza Tales
@@ -59534,6 +59553,7 @@ UCrJS8wJH7tcE-4iKavwJv8Q	The Mr beas video
 UCrJSe5XV8-LT1A965zS3_yA	Single Mom Rise
 UCrJd1rReLKUcXpb9r00_7Lg	AI Chef
 UCrJguPEbdgNVzu24u4jpAiA	AetherFall
+UCrJkSbo8VsFsebhmKn3enjQ	Serayu Keroncong
 UCrJkYZG81qzXYYm7csDUazw	Horror zone
 UCrJnMXyLwSdvirJYotw8H3g	BASKETBALL_TIPS
 UCrJnQMqJcneWN6t4CRiBcAA	melodi vibes
@@ -65246,6 +65266,7 @@ UCwdQFcubZcavJ9OOUOB3ZLQ	Gaon ki Rasoi
 UCwdUu2Dlp7vMb4XUoAfF-Zg	The Why Files - Backstage
 UCwdWsL8mkFYuq4CEZGrjDYQ	Travel Maps AI
 UCwdXFPzcdFOIszFA5EweERQ	Phuong Huynh
+UCwdXSkY1zkd9d0nRixVt83w	Hidden Business Lessons
 UCwdaIx2AxeIKTCSC-S6q9AA	Ai.Amu.
 UCwdd0sOIvVvLqPfJZx1kfKA	A Family in Turmoil
 UCwde0F0k7tTuU6SBJH8z_1g	Mr. David Moon
@@ -67316,6 +67337,7 @@ UCybBWR4kmogDujiGdgcuiow	History ink
 UCybCJllZVdThFkUbxkyHnHg	Alpha Fate Stories
 UCybCsobEq5NzKKIRkpVZjYQ	Benji’s AI Playground
 UCybLOklWUVRO9ipA5QTwfmg	Transformation through AI
+UCybL_2cPEDZDFPSMgZVoRqA	히토비토필름즈
 UCybOXpQEYRXgxs_V04pDyTg	ASMR Fruit Cutting
 UCybOyRUjp4x-W0IzTVcX2nw	Once Upon An Engine
 UCybUTomrHLwkyNsm6opHqhg	Money Makes No Sense
