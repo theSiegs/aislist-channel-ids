@@ -1,9 +1,9 @@
 ! AiSList warnlist by YouTube channel ID
-! Source: https://github.com/Override92/AiSList/blob/200081b03012cce10bbe96b7ce80bc243cc19b85/AiSList/aislist_warnlist.txt
+! Source: https://github.com/Override92/AiSList/blob/6012b2ef87354aecd5f06a3537fd161b6bb55ac7/AiSList/aislist_warnlist.txt
 ! License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), by the AiSList contributors;
 !   converted from handles to channel IDs by https://github.com/theSiegs/aislist-channel-ids
 ! Format: one channel ID per line; lines starting with ! are comments
-! Channels: 1247 of 1378 entries (0 not looked up yet, 119 with no channel, 11 deleted)
+! Channels: 1250 of 1381 entries (0 not looked up yet, 119 with no channel, 11 deleted)
 UC-3EFheERl1W1z7IwmduzTg
 UC-4jBCkBdDLoxY_zrYkW9iQ
 UC-8tvuLTOvHt0q3CGBNsIuQ
@@ -411,6 +411,7 @@ UCK8lID7HBYcTb_jh6nWp5TQ
 UCK9__BD1R5ZELuiDNpSn_zg
 UCKBj5HPTd64zoQmkGNseKUw
 UCKOTiVw2u_e5LK40-YBTVlQ
+UCKXjkaYg4odQWPnwbDjaqYQ
 UCKYOQhdO8bga_gSRPcTMaRQ
 UCKZCeem_5ZaN9KO1Oddi-Nw
 UCKeOVfZ_qVnG4HvgBvfL6HQ
@@ -684,11 +685,13 @@ UCXJgUVhGNFdsRZoxVV8WSrg
 UCXNK0IHTX0BoktdtKjqIWoA
 UCXNVw0S9_LZHhWTr-skizhg
 UCXTT4hb_D1PWTR-HO8Kf_Zg
+UCXUiP6el7fGGa_sl_ISaA9g
 UCXXoj2jey9OQFHyRGnzJDZA
 UCXZpQgX1897wYDLtvzmgyIA
 UCX_q7ll-ZGPf0B-J7e1ZfEg
 UCXeTFAmfzoG5YrsR3zYp3MQ
 UCXhJdb0HS6oHMUB4zw3f0tg
+UCXv0AW1FJbE26uL3mBkISww
 UCXwLYoHrGsiNe3MfGv_3AMw
 UCXyGci8VnLysFbf4GHz4QYg
 UCXz-2IV8M1tnfYnMa3pkJAg
